@@ -13,6 +13,7 @@ export function Footer() {
             <Link href="/privacy">Privacy</Link>
             <Link href="/terms">Terms</Link>
             <Link href="/guidelines">Guidelines</Link>
+            <Link href="/legal">Legal</Link>
             <Link href="/about">About</Link>
             <a href={`mailto:${CONTACT_EMAIL}`}>{CONTACT_EMAIL}</a>
           </nav>
