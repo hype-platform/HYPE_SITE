@@ -6,7 +6,7 @@ We learn of violations through user reports, our own review, rights holder notic
 
 ## 2. How we review
 
-People who run hypefindr review reports, and may use automated tools to help. We may look at the reported content, the account's history, linked accounts, and reliable information from outside hypefindr. We aim to review reports within 24 hours, and faster for threats, child safety and intimate images.
+People who run Hypefindr review reports, and may use automated tools to help. We may look at the reported content, the account's history, linked accounts, and reliable information from outside Hypefindr. We aim to review reports within 24 hours, and faster for threats, child safety and intimate images.
 
 ## 3. Severity tiers
 
@@ -66,4 +66,4 @@ We keep enforcement records, reports and appeals for the periods in the [Privacy
 
 ## 11. Our discretion
 
-Enforcement decisions are made by hypefindr in its sole discretion. Not acting on one violation does not prevent us from acting on another. We have no liability for any enforcement decision, or for any decision not to enforce, to the fullest extent the law allows. We may publish aggregated reports about our enforcement.
+Enforcement decisions are made by Hypefindr in its sole discretion. Not acting on one violation does not prevent us from acting on another. We have no liability for any enforcement decision, or for any decision not to enforce, to the fullest extent the law allows. We may publish aggregated reports about our enforcement.

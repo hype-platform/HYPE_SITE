@@ -1,4 +1,4 @@
-Scores, titles, crowns, streaks and invites are for recognition and fun. They are worth nothing in money, they belong to hypefindr, and we can change or remove them at any time. These terms are part of the [Terms of Service](/terms).
+Scores, titles, crowns, streaks and invites are for recognition and fun. They are worth nothing in money, they belong to Hypefindr, and we can change or remove them at any time. These terms are part of the [Terms of Service](/terms).
 
 ## 1. What these terms cover
 
@@ -18,7 +18,7 @@ Together these are "Recognition Features." They also include any similar feature
 
 ## 2. No monetary value
 
-Recognition Features have no cash value. They are not money, currency, securities, a deposit, a gift card or property. They cannot be bought, sold, traded, transferred, redeemed, cashed out, exchanged for anything, or inherited. Any attempt to sell or trade them, on hypefindr or elsewhere, is a violation of the Terms and voids them.
+Recognition Features have no cash value. They are not money, currency, securities, a deposit, a gift card or property. They cannot be bought, sold, traded, transferred, redeemed, cashed out, exchanged for anything, or inherited. Any attempt to sell or trade them, on Hypefindr or elsewhere, is a violation of the Terms and voids them.
 
 ## 3. Not a contest, sweepstakes or lottery
 
@@ -42,7 +42,7 @@ Your Hype Score, titles, badges, City Crowns, Streaks and Passport stamps are vi
 
 ## 8. What scores do not mean
 
-Recognition Features are not endorsements, reviews, safety ratings, or statements about any person's character or any business's quality. An Atmosphere Score is generated from user activity and algorithms. It is not hypefindr's opinion of an event or venue. We do not change scores on request from users, hosts or venues.
+Recognition Features are not endorsements, reviews, safety ratings, or statements about any person's character or any business's quality. An Atmosphere Score is generated from user activity and algorithms. It is not Hypefindr's opinion of an event or venue. We do not change scores on request from users, hosts or venues.
 
 ## 9. Streaks
 
@@ -51,8 +51,8 @@ Streaks can break because of outages, bugs, travel, permission changes or anythi
 ## 10. Referrals and invite codes
 
 - **Invite people you know** who would welcome the invitation.
-- **You are the sender.** When you share an invite by text, email or social media, you send it, not hypefindr. You are responsible for following anti-spam and telemarketing laws where you and the recipient are, including the CAN-SPAM Act and the Telephone Consumer Protection Act in the United States. Never use automated dialers or texting tools to send invites.
-- **No spam or paid ads.** Do not post invite codes in spam, on coupon or deal sites, or in paid advertising that uses the hypefindr name, without our written permission.
+- **You are the sender.** When you share an invite by text, email or social media, you send it, not Hypefindr. You are responsible for following anti-spam and telemarketing laws where you and the recipient are, including the CAN-SPAM Act and the Telephone Consumer Protection Act in the United States. Never use automated dialers or texting tools to send invites.
+- **No spam or paid ads.** Do not post invite codes in spam, on coupon or deal sites, or in paid advertising that uses the Hypefindr name, without our written permission.
 - **No fake referrals.** Do not invite yourself, create accounts to claim referrals, or pay or reward anyone to sign up.
 - **No rewards.** Referrals currently earn only recognition, such as Ripples and Referral Trail credit. If we add rewards with any value, separate terms will apply.
 - **Your Referral Trail.** We record who invited whom. It may be visible to the people in your trail and to other users.

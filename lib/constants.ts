@@ -7,7 +7,7 @@ export const MAILING_ADDRESS = "300 North College Street, Northfield, Minnesota 
 
 export const SITE_URL = "https://hypefindr.net";
 
-export const BRAND_NAME = "hypefindr";
+export const BRAND_NAME = "Hypefindr";
 
 export const EFFECTIVE_DATE = "October 23, 2026";
 

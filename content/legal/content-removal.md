@@ -1,12 +1,12 @@
-This policy explains how to ask hypefindr to remove content, and what we do with each kind of request. It is part of the [Terms of Service](/terms). You do not need a hypefindr account to make a request. Send every request in this policy to {{CONTACT_EMAIL}} with the subject line shown in each section.
+This policy explains how to ask Hypefindr to remove content, and what we do with each kind of request. It is part of the [Terms of Service](/terms). You do not need a Hypefindr account to make a request. Send every request in this policy to {{CONTACT_EMAIL}} with the subject line shown in each section.
 
 ## 1. Copyright (DMCA)
 
 ### 1.1 Designated agent
 
-hypefindr responds to notices of claimed copyright infringement under the Digital Millennium Copyright Act, 17 U.S.C. § 512. Send notices to:
+Hypefindr responds to notices of claimed copyright infringement under the Digital Millennium Copyright Act, 17 U.S.C. § 512. Send notices to:
 
-Copyright Agent, hypefindr, {{MAILING_ADDRESS}} · {{CONTACT_EMAIL}} (subject "Copyright")
+Copyright Agent, Hypefindr, {{MAILING_ADDRESS}} · {{CONTACT_EMAIL}} (subject "Copyright")
 
 ### 1.2 What a notice must include
 
@@ -34,7 +34,7 @@ If your content was removed and you believe it was a mistake or misidentificatio
 1. Your physical or electronic signature.
 2. Identification of the material removed and where it appeared before removal.
 3. A statement under penalty of perjury that you have a good-faith belief the material was removed or disabled as a result of mistake or misidentification.
-4. Your name, address and phone number, and a statement that you consent to the jurisdiction of the federal district court for your address (or, if you are outside the United States, any judicial district in which hypefindr may be found), and that you will accept service of process from the person who sent the original notice or their agent.
+4. Your name, address and phone number, and a statement that you consent to the jurisdiction of the federal district court for your address (or, if you are outside the United States, any judicial district in which Hypefindr may be found), and that you will accept service of process from the person who sent the original notice or their agent.
 
 We forward the counter-notice, including your contact details, to the person who sent the original notice. We restore the material in 10 to 14 business days after receiving the counter-notice, unless that person tells us they have filed a court action seeking to restrain you. We may decline to restore material that also breaks our other policies.
 
@@ -47,7 +47,7 @@ We forward the counter-notice, including your contact details, to the person who
 
 ## 2. Intimate images shared without consent (TAKE IT DOWN Act)
 
-**2.1 What this covers.** Intimate images or video of you published on hypefindr without your consent, including AI-generated or edited images ("deepfakes") that depict you.
+**2.1 What this covers.** Intimate images or video of you published on Hypefindr without your consent, including AI-generated or edited images ("deepfakes") that depict you.
 
 **2.2 Who can ask.** The person shown, or someone authorized to act for them.
 
@@ -58,7 +58,7 @@ We forward the counter-notice, including your contact details, to the person who
 3. A short statement that you believe in good faith that it is an intimate image of you shared without your consent.
 4. How to contact you or your authorized representative.
 
-**2.4 What we do.** We send you a tracking number. Within 48 hours of a valid request, we remove the image or video and make reasonable efforts to find and remove identical copies on hypefindr. You do not need to report each copy. We permanently ban the account that posted it, and if the image shows a minor, we report it to NCMEC. We act in good faith on requests that reasonably appear valid.
+**2.4 What we do.** We send you a tracking number. Within 48 hours of a valid request, we remove the image or video and make reasonable efforts to find and remove identical copies on Hypefindr. You do not need to report each copy. We permanently ban the account that posted it, and if the image shows a minor, we report it to NCMEC. We act in good faith on requests that reasonably appear valid.
 
 **2.5 Other help.** US federal law, Minnesota law (Minn. Stat. §§ 604.31 and 617.261) and the laws of many other places give people whose intimate images are shared without consent the right to sue, and make sharing them a crime. You may also report to the police. If the images were taken when you were under 18, NCMEC's Take It Down service (takeitdown.ncmec.org) can help.
 
@@ -68,7 +68,7 @@ If an account, username, event or post uses your trademark in a way likely to co
 
 ## 4. Privacy and people shown in content
 
-Anyone shown in content on hypefindr, with or without an account, may ask us to remove it. Email {{CONTACT_EMAIL}} with the subject "Privacy Removal," the link, and why. We remove content that shows you in a private place, reveals your private information, was recorded in breach of recording laws, or harasses you. For other content we weigh whether you were in a public place, whether you are the focus, whether you are a public figure, and whether the content is newsworthy. We remove content that focuses on a child when a parent or guardian asks.
+Anyone shown in content on Hypefindr, with or without an account, may ask us to remove it. Email {{CONTACT_EMAIL}} with the subject "Privacy Removal," the link, and why. We remove content that shows you in a private place, reveals your private information, was recorded in breach of recording laws, or harasses you. For other content we weigh whether you were in a public place, whether you are the focus, whether you are a public figure, and whether the content is newsworthy. We remove content that focuses on a child when a parent or guardian asks.
 
 ## 5. Impersonation
 
@@ -76,7 +76,7 @@ If an account pretends to be you or your organization, email {{CONTACT_EMAIL}} w
 
 ## 6. Content showing someone as a minor
 
-Minnesota law gives minors aged 13 or older, and adults who appeared in content as minors, the right to have certain content showing them deleted. We apply that right to all content on hypefindr: a person aged 13 or older may ask us to remove content that shows them, and an adult may ask us to remove content that shows them as a minor. Email {{CONTACT_EMAIL}} with the subject "Minor Likeness," the link, and how you are connected to the content. We remove it from hypefindr after reasonable verification. The person who posted it also has legal duties to delete it.
+Minnesota law gives minors aged 13 or older, and adults who appeared in content as minors, the right to have certain content showing them deleted. We apply that right to all content on Hypefindr: a person aged 13 or older may ask us to remove content that shows them, and an adult may ask us to remove content that shows them as a minor. Email {{CONTACT_EMAIL}} with the subject "Minor Likeness," the link, and how you are connected to the content. We remove it from Hypefindr after reasonable verification. The person who posted it also has legal duties to delete it.
 
 ## 7. Deceased people
 

@@ -7,7 +7,7 @@ import { LEGAL_DOCS } from "@/lib/legal";
 
 export const metadata: Metadata = {
   title: "Legal",
-  description: "hypefindr's Terms of Service, Privacy Policy, Community Guidelines and other policies.",
+  description: "Hypefindr's Terms of Service, Privacy Policy, Community Guidelines and other policies.",
 };
 
 export default function LegalIndexPage() {
@@ -24,7 +24,7 @@ export default function LegalIndexPage() {
 
       <main className="legal container">
         <p>
-          The Terms of Service is the agreement between you and hypefindr. Every other document below is part of
+          The Terms of Service is the agreement between you and Hypefindr. Every other document below is part of
           it.
         </p>
         <ul>

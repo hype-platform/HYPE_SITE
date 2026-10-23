@@ -20,21 +20,21 @@ const dmSans = DM_Sans({
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
   title: {
-    default: "hypefindr — Things are happening near you.",
-    template: "%s — hypefindr",
+    default: "Hypefindr — Things are happening near you.",
+    template: "%s — Hypefindr",
   },
   description:
     "HYPE is a live, location-based social platform for real-world events. Discover what's happening near you, watch live streams from anywhere, go live, and show up.",
   openGraph: {
     type: "website",
     url: SITE_URL,
-    title: "hypefindr — Things are happening near you.",
+    title: "Hypefindr — Things are happening near you.",
     description:
       "Discover events near you, watch live streams from anywhere in the world, go live, and show up. HYPE is a window into what's happening right now.",
   },
   twitter: {
     card: "summary_large_image",
-    title: "hypefindr — Things are happening near you.",
+    title: "Hypefindr — Things are happening near you.",
     description:
       "Discover events near you, watch live streams from anywhere in the world, go live, and show up.",
   },

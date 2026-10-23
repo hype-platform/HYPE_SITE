@@ -1,10 +1,10 @@
-hypefindr is only for adults, and it has zero tolerance for the sexual exploitation, grooming or endangerment of children. We remove it, ban the accounts involved permanently, and report it to the National Center for Missing & Exploited Children (NCMEC). This policy is part of the [Terms of Service](/terms).
+Hypefindr is only for adults, and it has zero tolerance for the sexual exploitation, grooming or endangerment of children. We remove it, ban the accounts involved permanently, and report it to the National Center for Missing & Exploited Children (NCMEC). This policy is part of the [Terms of Service](/terms).
 
 **If a child is in danger right now, call 911 or your local emergency number.**
 
 ## 1. You must be 18 or older
 
-You must be at least 18 to have a hypefindr account. Sign-up blocks anyone who enters a date of birth under 18. If we learn that a user is under 18, we delete the account and its data. A parent's permission does not change this.
+You must be at least 18 to have a Hypefindr account. Sign-up blocks anyone who enters a date of birth under 18. If we learn that a user is under 18, we delete the account and its data. A parent's permission does not change this.
 
 ## 2. What is never allowed
 
@@ -12,7 +12,7 @@ Every item here is **zero tolerance**: an immediate permanent ban and, where the
 
 - **Child sexual abuse material (CSAM)** in any form: photos, video, streams, drawings, animation, AI-generated or edited images, or text describing sexual activity with a minor.
 - **Sexualizing minors,** including sexual comments about a minor or a minor's body, and sharing "non-nude" images of minors in a sexualized way.
-- **Grooming and contact:** using hypefindr to find, contact, build trust with or meet anyone under 18 for any sexual or exploitative purpose, including asking for photos, secrecy or personal details, offering gifts or money, or moving the conversation to another app.
+- **Grooming and contact:** using Hypefindr to find, contact, build trust with or meet anyone under 18 for any sexual or exploitative purpose, including asking for photos, secrecy or personal details, offering gifts or money, or moving the conversation to another app.
 - **Private meetings:** using messages, Crews or events to arrange a private one-on-one meeting with a minor you do not already know offline.
 - **Sextortion:** threatening to share intimate images of a minor, or of anyone, to get money, more images or anything else.
 - **Trafficking:** recruiting, advertising, buying or selling a minor for sex or labor.
@@ -41,7 +41,7 @@ We do not tell the reported account that a report was made to NCMEC.
 
 Never screenshot, download, save or forward child sexual abuse material, even to report it. Possessing or sharing it is a crime.
 
-## 6. Someone under 18 on hypefindr
+## 6. Someone under 18 on Hypefindr
 
 If you believe someone under 18 has an account, report the profile in the app or email {{CONTACT_EMAIL}} with the subject "Underage Account" and the username. Parents and guardians can do the same. We delete the account and its data.
 
@@ -52,4 +52,4 @@ If you believe someone under 18 has an account, report the profile in the app or
 
 ## 8. Sex offenders
 
-Registered sex offenders, and people under court orders restricting contact with minors or use of social media, may not use hypefindr. We remove any account we identify.
+Registered sex offenders, and people under court orders restricting contact with minors or use of social media, may not use Hypefindr. We remove any account we identify.

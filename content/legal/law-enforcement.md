@@ -1,8 +1,8 @@
-These guidelines are for law enforcement and government agencies, and for parties in civil cases, who are seeking information about hypefindr users. We disclose user records only in accordance with our [Terms of Service](/terms), our [Privacy Policy](/privacy) and applicable law, including the US Stored Communications Act (18 U.S.C. § 2701 et seq.). Users should read these guidelines too: they explain what we will and will not hand over.
+These guidelines are for law enforcement and government agencies, and for parties in civil cases, who are seeking information about Hypefindr users. We disclose user records only in accordance with our [Terms of Service](/terms), our [Privacy Policy](/privacy) and applicable law, including the US Stored Communications Act (18 U.S.C. § 2701 et seq.). Users should read these guidelines too: they explain what we will and will not hand over.
 
 ## 1. Where to send requests
 
-Email {{CONTACT_EMAIL}} with the subject "Law Enforcement," or send by mail to hypefindr, Attn: Legal Process, {{MAILING_ADDRESS}}. We accept service of legal process by email for convenience only, without waiving any objection. We do not accept requests through the app or social media.
+Email {{CONTACT_EMAIL}} with the subject "Law Enforcement," or send by mail to Hypefindr, Attn: Legal Process, {{MAILING_ADDRESS}}. We accept service of legal process by email for convenience only, without waiving any objection. We do not accept requests through the app or social media.
 
 ## 2. What a request must include
 

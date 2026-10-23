@@ -1,12 +1,12 @@
-hypefindr has zero tolerance for objectionable content and abusive users. These guidelines say exactly what that means. They are part of our [Terms of Service](/terms), so breaking them is a breach of the Terms.
+Hypefindr has zero tolerance for objectionable content and abusive users. These guidelines say exactly what that means. They are part of our [Terms of Service](/terms), so breaking them is a breach of the Terms.
 
 **If anyone is in danger right now, call 911 or your local emergency number. Do not wait for us.**
 
 ## How these rules apply
 
-- **Everywhere on hypefindr.** Profiles, usernames, photos, bios, posts, live streams, stream chat, direct messages, comments, events, Crews, check-ins, reactions and anything shared from Hype Wrapped.
-- **At events.** What you do at an event you found, listed, promoted or streamed through hypefindr counts, even when your phone is in your pocket.
-- **Off hypefindr.** We may act on conduct elsewhere that puts our users at risk, such as a conviction for a violent or sexual offense, credible reports of abuse, or organizing harm against our users on another platform.
+- **Everywhere on Hypefindr.** Profiles, usernames, photos, bios, posts, live streams, stream chat, direct messages, comments, events, Crews, check-ins, reactions and anything shared from Hype Wrapped.
+- **At events.** What you do at an event you found, listed, promoted or streamed through Hypefindr counts, even when your phone is in your pocket.
+- **Off Hypefindr.** We may act on conduct elsewhere that puts our users at risk, such as a conviction for a violent or sexual offense, credible reports of abuse, or organizing harm against our users on another platform.
 - **For everyone you bring in.** You are responsible for guests on your stream, people at your event, and the chat you choose to display.
 - **Context matters, but we decide.** News, documentary, education and awareness content may be allowed when it does not glorify harm. We may label it, blur it, age-gate it or limit its reach. We decide what crosses the line.
 - **Zero tolerance.** Rules marked **[Zero tolerance]** lead to an immediate permanent ban with no warning. Where the law requires or permits, we report to law enforcement or NCMEC.
@@ -51,11 +51,11 @@ If we see someone at risk, we may end the stream, show support resources, and co
 
 ## 4. Child safety
 
-hypefindr is only for adults. The [Child Safety Policy](/legal/child-safety) has the full rules. Not allowed:
+Hypefindr is only for adults. The [Child Safety Policy](/legal/child-safety) has the full rules. Not allowed:
 
 - **[Zero tolerance]** Any sexual content involving a minor, in any form: real, drawn, animated, AI-generated, edited or described in text. We report it to NCMEC.
 - **[Zero tolerance]** Sexualizing minors, including comments about a minor's body.
-- **[Zero tolerance]** Using hypefindr to find, contact, groom or meet anyone under 18 for any sexual or exploitative purpose.
+- **[Zero tolerance]** Using Hypefindr to find, contact, groom or meet anyone under 18 for any sexual or exploitative purpose.
 - **[Zero tolerance]** Sextortion: threatening to share intimate images of anyone to get money, images or anything else.
 - Having an account if you are under 18, or helping someone under 18 get one.
 - Inviting minors to 18+ or 21+ events, or giving minors alcohol, drugs, vapes or tobacco.
@@ -64,7 +64,7 @@ hypefindr is only for adults. The [Child Safety Policy](/legal/child-safety) has
 
 ## 5. Sexual content and nudity
 
-hypefindr is not a place for sexual content, even though every user is an adult. An 18+ or 21+ tag describes who may attend an event. It does not permit nudity or sexual content. Not allowed:
+Hypefindr is not a place for sexual content, even though every user is an adult. An 18+ or 21+ tag describes who may attend an event. It does not permit nudity or sexual content. Not allowed:
 
 - Nudity, including exposed genitals, buttocks or female nipples. Breastfeeding and non-sexual medical contexts are allowed.
 - Sexual activity, real or simulated, and sexually explicit streams.
@@ -107,12 +107,12 @@ Not allowed:
 - Revealing someone's sexual orientation, gender identity, immigration status, health condition or criminal history without consent.
 - Recording or streaming people where they reasonably expect privacy (see the [Live Streaming and Recording Policy](/legal/live-streaming)).
 - Recording private conversations in breach of recording-consent laws.
-- Using facial recognition, reverse image search or other tools to identify strangers you saw on hypefindr.
+- Using facial recognition, reverse image search or other tools to identify strangers you saw on Hypefindr.
 - Posting images of people who asked you not to, where they are the focus and are not a public figure.
 
 ## 9. Location abuse and stalking
 
-hypefindr shows where things are happening. Using that to find or follow people is one of the most serious violations on the platform. Not allowed:
+Hypefindr shows where things are happening. Using that to find or follow people is one of the most serious violations on the platform. Not allowed:
 
 - **[Zero tolerance]** Using check-ins, streams, posts, maps or Crews to locate, follow, track, monitor, stalk or confront any person who has not invited you.
 - **[Zero tolerance]** Showing up to a streamer's or user's location to harass, threaten, film or confront them.
@@ -142,7 +142,7 @@ If you list, host or promote an event, the [Events, Safety and Assumption of Ris
 - Events that involve illegal activity, including underage drinking, drug sales, illegal gambling, unpermitted street gatherings, fights or takeovers.
 - Tagging an event "All ages" when it involves alcohol, adult entertainment or other content not suitable for minors.
 - Announcing giveaways, surprise appearances or meetups likely to draw more people than the place can safely hold, without arrangements with the venue and, where required, the authorities.
-- Charging for events through hypefindr by asking for gift cards, wire transfers, cryptocurrency or similar untraceable payments.
+- Charging for events through Hypefindr by asking for gift cards, wire transfers, cryptocurrency or similar untraceable payments.
 - Listing or promoting someone else's event, venue or brand in a way that suggests you are the official organizer when you are not.
 
 ## 12. Honest check-ins and fair scores
@@ -163,7 +163,7 @@ We void fake check-ins and inflated scores, and repeat offenders lose their titl
 Not allowed:
 
 - More than one personal account, fake accounts, or automated accounts.
-- Pretending to be another person, business, venue, organization, public official or anyone who works on hypefindr.
+- Pretending to be another person, business, venue, organization, public official or anyone who works on Hypefindr.
 - Parody or fan accounts that do not clearly say so in the username and bio.
 - **[Zero tolerance]** Creating or using an account after we banned you, or to get around a suspension, feature limit or block.
 - Using a false date of birth.
@@ -178,12 +178,12 @@ Not allowed:
 - Phishing, collecting login details or verification codes, or sending malicious links.
 - Investment, cryptocurrency, money-flipping, pyramid and "get rich" schemes.
 - Romance scams, fake fundraisers and fake charities.
-- Asking anyone for money, gift cards or payments through hypefindr under false pretenses.
+- Asking anyone for money, gift cards or payments through Hypefindr under false pretenses.
 - Misleading links, clickbait, or event listings that are really advertisements for something else.
 
 ## 15. Regulated and illegal goods
 
-Not allowed: buying, selling, trading, giving away, advertising or arranging any of the following through hypefindr:
+Not allowed: buying, selling, trading, giving away, advertising or arranging any of the following through Hypefindr:
 
 - illegal drugs, and prescription drugs without a prescription;
 - cannabis and cannabis products, including where they are legal;
@@ -194,7 +194,7 @@ Not allowed: buying, selling, trading, giving away, advertising or arranging any
 - human trafficking, forced labor or the sale of people or their services;
 - any other product or service that is illegal where you or the buyer are.
 
-A licensed venue may say an event serves alcohol and tag it 21+. That is information about an event, not a sale through hypefindr.
+A licensed venue may say an event serves alcohol and tag it 21+. That is information about an event, not a sale through Hypefindr.
 
 ## 16. Copyright, trademarks and broadcasts
 

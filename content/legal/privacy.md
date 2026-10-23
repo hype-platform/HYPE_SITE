@@ -1,23 +1,23 @@
 ## Summary
 
-- hypefindr is only for people 18 and older.
+- Hypefindr is only for people 18 and older.
 - We collect your phone number or email, profile details, date of birth, precise location, the photos, videos and streams you make, your messages, and how you use the app.
 - If you allow "Always" location, we use your location in the background to notice when you arrive at an upcoming event and ask whether you want to check in. We do not store your device's coordinates.
 - Your posts, streams, events and check-ins show other users where you were, sometimes while you are still there.
 - We do not sell your personal data. We do not share it for targeted advertising. We do not show third-party ads.
 - We may review content, including private messages, to keep people safe and enforce our rules.
-- We share data with the service providers that run hypefindr, and with law enforcement when the law requires it or someone is in danger.
+- We share data with the service providers that run Hypefindr, and with law enforcement when the law requires it or someone is in danger.
 - You can delete your account at any time in the app.
 
 The full policy follows. Capitalized terms not defined here have the meaning given in the [Terms of Service](/terms).
 
 ## 1. Who we are and what this policy covers
 
-**1.1 Who is responsible.** hypefindr is an independent project run by its founders from {{MAILING_ADDRESS}}. We ("hypefindr," "we," "us") are responsible for your personal data. Contact details are in Section 16.
+**1.1 Who is responsible.** Hypefindr is an independent project run by its founders from {{MAILING_ADDRESS}}. We ("Hypefindr," "we," "us") are responsible for your personal data. Contact details are in Section 16.
 
-**1.2 Scope.** This policy covers personal data we collect through the hypefindr app (including any version branded "HYPE"), the website hypefindr.net, invite and share links, and our communications with you (together, the "Services"). It also covers people who do not have an account but whose data we receive: website visitors, people who appear in User Content, people named in reports, and people who send us requests.
+**1.2 Scope.** This policy covers personal data we collect through the Hypefindr app (including any version branded "HYPE"), the website hypefindr.net, invite and share links, and our communications with you (together, the "Services"). It also covers people who do not have an account but whose data we receive: website visitors, people who appear in User Content, people named in reports, and people who send us requests.
 
-**1.3 What it does not cover.** It does not cover services run by others, even if you reach them through hypefindr, such as Apple, Google, ticketing sites or venue websites. Their own privacy policies apply.
+**1.3 What it does not cover.** It does not cover services run by others, even if you reach them through Hypefindr, such as Apple, Google, ticketing sites or venue websites. Their own privacy policies apply.
 
 ## 2. Information we collect
 
@@ -63,7 +63,7 @@ If you appear in someone's photo, video or stream, or someone reports you or lis
 
 ## 3. Location
 
-Location is the most sensitive data we handle and it is central to how hypefindr works. Laws in many countries and US states treat precise location as sensitive data. We collect it only after you grant permission through your device's prompt, and you can withdraw that permission at any time.
+Location is the most sensitive data we handle and it is central to how Hypefindr works. Laws in many countries and US states treat precise location as sensitive data. We collect it only after you grant permission through your device's prompt, and you can withdraw that permission at any time.
 
 ### 3.1 The location data we collect
 
@@ -91,8 +91,8 @@ We do not sell location data. We do not share precise location with advertisers 
 
 ### 3.5 Your controls
 
-- **iPhone:** Settings → Privacy & Security → Location Services → hypefindr.
-- **Android:** Settings → Apps → hypefindr → Permissions → Location.
+- **iPhone:** Settings → Privacy & Security → Location Services → Hypefindr.
+- **Android:** Settings → Apps → Hypefindr → Permissions → Location.
 - **In the app:** delete content you created where the app allows it, or delete your account.
 
 If you turn off precise location, automatic check-ins and nearby discovery stop working. The rest of the app keeps working.
@@ -105,7 +105,7 @@ If you turn off precise location, automatic check-ins and nearby discovery stop 
 
 **4.3 When you watch.** We record which streams you watch, for how long, and your reactions and comments. We use this for your Stream Passport, Watcher metrics, recommendations and safety. Your chat messages are visible to everyone watching the stream, and the streamer can see viewer counts.
 
-**4.4 People in streams.** Streams often capture people who do not use hypefindr. Their image and voice become part of the stream and are processed with it. Anyone can ask us to review or remove a stream that shows them, under the Content Removal Requests policy.
+**4.4 People in streams.** Streams often capture people who do not use Hypefindr. Their image and voice become part of the stream and are processed with it. Anyone can ask us to review or remove a stream that shows them, under the Content Removal Requests policy.
 
 **4.5 Moderation.** We may watch streams and recordings, and read stream chat, to detect and act on violations.
 
@@ -140,12 +140,12 @@ The last column gives the legal basis we rely on where a law such as the GDPR re
 | Keep people safe: moderate content, investigate reports, detect fake accounts and abuse, and report child sexual abuse material as the law requires | All categories | Legal obligation; legitimate interests |
 | Rank and recommend content, events, streams and accounts, and decide which notifications to send | Activity, location, content, follows, Crews | Contract; legitimate interests |
 | Send verification codes, security alerts, service notices, policy changes and replies to your requests | Phone, email, push token | Contract; legal obligation |
-| Tell you about hypefindr features and updates | Email, push token, activity | Consent where required; otherwise legitimate interests |
+| Tell you about Hypefindr features and updates | Email, push token, activity | Consent where required; otherwise legitimate interests |
 | Fix bugs, measure performance and test changes | Activity, device, technical data | Legitimate interests |
 | Build and train our own automated systems for safety, moderation and ranking | Content, activity, technical data | Legitimate interests |
 | Comply with law, respond to legal process, enforce our Terms, and establish or defend legal claims | All categories | Legal obligation; legitimate interests |
 | Respond to emergencies involving risk of death or serious injury | All categories, including location | Vital interests |
-| Transfer hypefindr to a company or a new owner | All categories | Legitimate interests |
+| Transfer Hypefindr to a company or a new owner | All categories | Legitimate interests |
 
 ## 8. Ranking, recommendations and automated decisions
 
@@ -214,12 +214,12 @@ We disclose information:
 - In response to a subpoena, court order, search warrant or other legal process that we believe is valid, as described in the [Law Enforcement Guidelines](/legal/law-enforcement).
 - To law enforcement or emergency services when we believe in good faith that disclosure without delay is needed to prevent death or serious physical injury to anyone.
 - To the National Center for Missing & Exploited Children (NCMEC), as required by 18 U.S.C. § 2258A, when we become aware of apparent child sexual exploitation. NCMEC may share reports with law enforcement worldwide.
-- To protect the rights, property or safety of hypefindr, our users or the public, to enforce our Terms, and to detect and prevent fraud, abuse and security incidents.
+- To protect the rights, property or safety of Hypefindr, our users or the public, to enforce our Terms, and to detect and prevent fraud, abuse and security incidents.
 - When we handle a copyright notice, we may forward it, including the sender's name and contact details, to the user whose content it concerns. When we receive a counter-notice, we forward it, including the user's name, address and contact details, to the person who sent the original notice, as the DMCA requires.
 
 ### 10.5 Transfers
 
-If hypefindr becomes a company, or is merged, acquired, financed, reorganized or sold, personal data may be transferred as part of that change. The recipient must honor this policy for data collected under it, or give you notice and any choice the law requires.
+If Hypefindr becomes a company, or is merged, acquired, financed, reorganized or sold, personal data may be transferred as part of that change. The recipient must honor this policy for data collected under it, or give you notice and any choice the law requires.
 
 ### 10.6 De-identified and aggregated data
 
@@ -250,7 +250,7 @@ Data we must keep because of a legal hold, a pending dispute, a government reque
 
 ## 12. Security and data breaches
 
-**12.1 How we protect data.** We use encryption in transit (TLS), encryption at rest through our hosting providers, and database access rules, and we limit access to personal data to the people who run hypefindr.
+**12.1 How we protect data.** We use encryption in transit (TLS), encryption at rest through our hosting providers, and database access rules, and we limit access to personal data to the people who run Hypefindr.
 
 **12.2 No system is perfectly secure.** We cannot guarantee that information will never be accessed, disclosed, altered or destroyed by a breach of our safeguards. You use the Services at your own risk. Protect your account by securing your device with a passcode, keeping control of your phone number and email, and never sharing verification codes.
 
@@ -302,11 +302,11 @@ You can unsubscribe from marketing email using the link in any email, and turn o
 
 ## 14. People under 18
 
-hypefindr is only for people 18 and older. We do not knowingly collect personal data from anyone under 18. Sign-up blocks anyone who enters a date of birth under 18. If we learn that a user is under 18, we delete the account and its data. If you believe someone under 18 has an account, report the profile in the app or email {{CONTACT_EMAIL}} with the subject "Underage Account." A person who appeared in content as a minor may ask us to remove it under the Content Removal Requests policy.
+Hypefindr is only for people 18 and older. We do not knowingly collect personal data from anyone under 18. Sign-up blocks anyone who enters a date of birth under 18. If we learn that a user is under 18, we delete the account and its data. If you believe someone under 18 has an account, report the profile in the app or email {{CONTACT_EMAIL}} with the subject "Underage Account." A person who appeared in content as a minor may ask us to remove it under the Content Removal Requests policy.
 
 ## 15. International transfers and changes
 
-**15.1 International transfers.** We are based in the United States, and our service providers process data in the United States and other countries. If you use hypefindr from another country, your data is transferred to and processed in those countries, which may have different data protection laws from yours. Where the law requires, we rely on safeguards such as our providers' Standard Contractual Clauses or Data Privacy Framework certification.
+**15.1 International transfers.** We are based in the United States, and our service providers process data in the United States and other countries. If you use Hypefindr from another country, your data is transferred to and processed in those countries, which may have different data protection laws from yours. Where the law requires, we rely on safeguards such as our providers' Standard Contractual Clauses or Data Privacy Framework certification.
 
 **15.2 Changes to this policy.** We may update this policy. The "Last updated" date shows when. For a material change, we will notify you in the app or by email before it takes effect. If a change would let us use personal data we already hold in a materially different way, we will ask for your consent where the law requires.
 
@@ -314,7 +314,7 @@ hypefindr is only for people 18 and older. We do not knowingly collect personal 
 
 ## 16. Contact us
 
-hypefindr, {{MAILING_ADDRESS}}
+Hypefindr, {{MAILING_ADDRESS}}
 
 Email {{CONTACT_EMAIL}} with one of these subject lines:
 

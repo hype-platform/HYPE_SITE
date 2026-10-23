@@ -6,21 +6,21 @@
 
 ### 1. Who we are and what this agreement covers
 
-**1.1 Who we are.** hypefindr is an independent project created and run by its founders from Northfield, Minnesota, United States. In these Terms, "hypefindr," "we," "us" and "our" mean the hypefindr project and the people who create and operate it. These Terms of Service ("Terms") are a binding contract between you and us.
+**1.1 Who we are.** Hypefindr is an independent project created and run by its founders from Northfield, Minnesota, United States. In these Terms, "Hypefindr," "we," "us" and "our" mean the Hypefindr project and the people who create and operate it. These Terms of Service ("Terms") are a binding contract between you and us.
 
-**1.2 The Services.** These Terms govern your use of the hypefindr mobile app, including any version branded "HYPE"; the website at hypefindr.net and its subdomains; invite and share links; and every feature, content item, communication and service we provide (together, the "Services").
+**1.2 The Services.** These Terms govern your use of the Hypefindr mobile app, including any version branded "HYPE"; the website at hypefindr.net and its subdomains; invite and share links; and every feature, content item, communication and service we provide (together, the "Services").
 
 **1.3 Documents that are part of these Terms.** The following are incorporated into these Terms by reference: the [Privacy Policy](/privacy), [Community Guidelines](/guidelines), [Live Streaming and Recording Policy](/legal/live-streaming), [Events, Safety and Assumption of Risk Policy](/legal/events-safety), [Child Safety Policy](/legal/child-safety), [Content Removal Requests](/legal/content-removal) policy, [Points, Scores and Referral Program Terms](/legal/points-and-referrals), [Enforcement, Moderation and Appeals Policy](/legal/enforcement), [Law Enforcement Guidelines](/legal/law-enforcement) and [Website and Cookie Notice](/legal/cookies). Terms we show you inside a specific feature also apply. If these Terms conflict with another of those documents, these Terms control, unless the other document expressly says it controls on that point.
 
 **1.4 How you accept.** You accept these Terms when you create an account, tap a button that says you agree, or use the Services in any way, including browsing without an account. If you do not agree, do not use the Services.
 
-**1.5 Using hypefindr for an organization.** If you use the Services for a venue, business, promoter, brand, school, club or other organization, you accept these Terms for that organization and you confirm you have authority to bind it. "You" then means both you and the organization, and both of you are responsible for compliance.
+**1.5 Using Hypefindr for an organization.** If you use the Services for a venue, business, promoter, brand, school, club or other organization, you accept these Terms for that organization and you confirm you have authority to bind it. "You" then means both you and the organization, and both of you are responsible for compliance.
 
 ### 2. Eligibility
 
-**2.1 You must be 18 or older.** You must be at least 18 years old, and an adult under the law where you live, to create an account or use the Services. No one under 18 may use hypefindr, even with a parent's permission.
+**2.1 You must be 18 or older.** You must be at least 18 years old, and an adult under the law where you live, to create an account or use the Services. No one under 18 may use Hypefindr, even with a parent's permission.
 
-**2.2 Who may never use hypefindr.** You may not use the Services if any of these is true:
+**2.2 Who may never use Hypefindr.** You may not use the Services if any of these is true:
 
 - We previously banned you or disabled your account, unless we gave you written permission to return.
 - You are required to register as a sex offender in any jurisdiction.
@@ -34,7 +34,7 @@
 
 **2.5 We cannot verify everyone's age.** Age limits rely mostly on the date of birth each user gives us. Other users may not be the age they claim. An age tag on an event or post is not a promise that everyone you see, meet or talk to is that age, and it is not a substitute for ID checks at the door.
 
-**2.6 Where hypefindr is offered.** The Services are available in many countries. You are responsible for following the laws of the place where you use them. We may limit or stop offering the Services in any country at any time.
+**2.6 Where Hypefindr is offered.** The Services are available in many countries. You are responsible for following the laws of the place where you use them. We may limit or stop offering the Services in any country at any time.
 
 ### 3. Your account
 
@@ -48,7 +48,7 @@
 
 **3.5 Verification.** We may require you to verify your phone number, email, identity or age at any time. We may limit features until you do.
 
-**3.6 Business, venue and official accounts.** An account for an organization must be run by an authorized representative and must not suggest that hypefindr endorses or partners with it. Verification badges and labels are given at our discretion, can be removed at any time, and confirm only what the label says. A badge does not mean we vouch for the account, its events or its safety.
+**3.6 Business, venue and official accounts.** An account for an organization must be run by an authorized representative and must not suggest that Hypefindr endorses or partners with it. Verification badges and labels are given at our discretion, can be removed at any time, and confirm only what the label says. A badge does not mean we vouch for the account, its events or its safety.
 
 **3.7 Inactive accounts.** We may delete an account that has not been used for 24 months, after notice to the email or phone number on file.
 
@@ -78,11 +78,11 @@
 
 **6.1 What counts as your content.** "User Content" means anything you post, stream, upload, send, record or create through the Services. That includes photos, videos, live streams and their recordings, audio, chat, comments, messages, reactions, event listings, Crew names and descriptions, profile details, check-ins, and anything you share from Hype Wrapped.
 
-**6.2 You keep ownership.** As between you and hypefindr, you keep whatever ownership rights you have in your User Content. The license in Section 6.3 is not a transfer of ownership.
+**6.2 You keep ownership.** As between you and Hypefindr, you keep whatever ownership rights you have in your User Content. The license in Section 6.3 is not a transfer of ownership.
 
-**6.3 The license you give us.** You grant hypefindr a worldwide, non-exclusive, royalty-free, fully paid, transferable license, with the right to sublicense through multiple tiers, to host, store, cache, record, copy, reproduce, transcode, format, crop, clip, caption, translate, adapt, publicly perform, publicly display, distribute, transmit and make available your User Content, in any media and by any method now known or later developed. We may use this license to operate, provide, secure, moderate, improve, develop, research and promote the Services. Promotion includes showing public User Content in the app, in share previews, on our website, on our social media accounts, and in app store listings, with or without attribution.
+**6.3 The license you give us.** You grant Hypefindr a worldwide, non-exclusive, royalty-free, fully paid, transferable license, with the right to sublicense through multiple tiers, to host, store, cache, record, copy, reproduce, transcode, format, crop, clip, caption, translate, adapt, publicly perform, publicly display, distribute, transmit and make available your User Content, in any media and by any method now known or later developed. We may use this license to operate, provide, secure, moderate, improve, develop, research and promote the Services. Promotion includes showing public User Content in the app, in share previews, on our website, on our social media accounts, and in app store listings, with or without attribution.
 
-**6.4 Your name and likeness.** The license in Section 6.3 includes the right to use your username, profile photo, name, image, likeness and voice as they appear in or with your User Content, without payment to you. We will not use content in which a child is the main focus to promote hypefindr.
+**6.4 Your name and likeness.** The license in Section 6.3 includes the right to use your username, profile photo, name, image, likeness and voice as they appear in or with your User Content, without payment to you. We will not use content in which a child is the main focus to promote Hypefindr.
 
 **6.5 How long the license lasts.** The license ends when you delete the User Content or your account, except for: copies other users have reshared or saved, until they delete them; copies in backups for a limited period; content we must keep for legal, safety or enforcement reasons; and promotional materials we created or distributed before you deleted the content.
 
@@ -97,19 +97,19 @@
 - It does not infringe or violate anyone's copyright, trademark, privacy, publicity or other rights, and does not break any law, these Terms or the Community Guidelines.
 - You will pay any royalties, fees or other money owed to anyone because of it, including for music, performances or broadcasts it contains.
 
-**6.9 Public by default.** Most User Content is visible to every hypefindr user. Content you share by link can be seen by anyone with the link, and may be indexed by search engines. Anyone can screenshot, screen-record or download what they see. Live streams are seen as they happen and cannot be unseen. Once you post or stream something, you cannot control every copy of it. Privacy settings limit who sees content inside the Services; they do not guarantee that no one else will see it.
+**6.9 Public by default.** Most User Content is visible to every Hypefindr user. Content you share by link can be seen by anyone with the link, and may be indexed by search engines. Anyone can screenshot, screen-record or download what they see. Live streams are seen as they happen and cannot be unseen. Once you post or stream something, you cannot control every copy of it. Privacy settings limit who sees content inside the Services; they do not guarantee that no one else will see it.
 
 **6.10 We host; we do not author or check.** We do not pre-screen User Content and we do not endorse it. User Content is the sole responsibility of the person who posted it. We are a provider of an interactive computer service and are not the publisher or speaker of User Content. We may, but have no duty to, monitor, review, edit, label, restrict, age-gate, demote or remove any User Content at any time, for any reason or no reason, with or without notice.
 
-**6.11 We do not store your content for you.** hypefindr is not a backup service. We may delete stream recordings and other User Content at any time, including after a set storage period, and we are not liable for any loss. Keep your own copies of anything that matters to you.
+**6.11 We do not store your content for you.** Hypefindr is not a backup service. We may delete stream recordings and other User Content at any time, including after a set storage period, and we are not liable for any loss. Keep your own copies of anything that matters to you.
 
-**6.12 We record and review activity on the Services.** You agree that hypefindr and its service providers may record, store, scan and review live streams, stream chat, comments, messages (including private messages), reports and other communications sent through the Services. We do this to operate the Services, detect and prevent abuse, child exploitation, fraud and illegal activity, enforce these Terms, and comply with law. You consent to this on behalf of yourself, and you confirm you have authority to consent for anyone you communicate with through the Services.
+**6.12 We record and review activity on the Services.** You agree that Hypefindr and its service providers may record, store, scan and review live streams, stream chat, comments, messages (including private messages), reports and other communications sent through the Services. We do this to operate the Services, detect and prevent abuse, child exploitation, fraud and illegal activity, enforce these Terms, and comply with law. You consent to this on behalf of yourself, and you confirm you have authority to consent for anyone you communicate with through the Services.
 
 **6.13 Content from others.** You may see User Content that is offensive, false, misleading, harmful, illegal, mislabeled or dangerous. You view and rely on it at your own risk.
 
 ### 7. Our intellectual property
 
-**7.1 What we own.** The Services, including the software, code, design, interface, text, graphics, maps as presented, scores, titles, badges, algorithms, data compilations, and the names and logos hypefindr and HYPE, belong to hypefindr or its licensors. They are protected by copyright, trademark and other laws. All rights not expressly granted to you are reserved.
+**7.1 What we own.** The Services, including the software, code, design, interface, text, graphics, maps as presented, scores, titles, badges, algorithms, data compilations, and the names and logos Hypefindr and HYPE, belong to Hypefindr or its licensors. They are protected by copyright, trademark and other laws. All rights not expressly granted to you are reserved.
 
 **7.2 Your license to use the app.** Subject to these Terms, we give you a limited, personal, revocable, non-exclusive, non-transferable, non-sublicensable license to install and use the app on a device you own or control, and to use the Services, for your personal, non-commercial use. An organization may use the Services to promote its own lawful events within the rules of these Terms. This license ends automatically when your account ends or you breach these Terms.
 
@@ -180,25 +180,25 @@ We respond to notices of claimed copyright infringement under the Digital Millen
 
 **12.3 Attending is your decision.** You decide whether to attend any event and you accept the risks of doing so (Section 24 and the Events, Safety and Assumption of Risk Policy).
 
-**12.4 Tickets and payments.** hypefindr does not sell tickets or process payments for events. Any ticket, cover charge, deposit or other payment is solely between you and the person you pay. We are not responsible for refunds, cancellations, counterfeit tickets, fraud or chargebacks. Never pay someone you met through hypefindr by gift card, wire, cryptocurrency or any other untraceable method.
+**12.4 Tickets and payments.** Hypefindr does not sell tickets or process payments for events. Any ticket, cover charge, deposit or other payment is solely between you and the person you pay. We are not responsible for refunds, cancellations, counterfeit tickets, fraud or chargebacks. Never pay someone you met through Hypefindr by gift card, wire, cryptocurrency or any other untraceable method.
 
-**12.5 Atmosphere Score and other indicators.** Atmosphere Scores, crowd indicators, "live now" labels and similar signals are generated from user activity and our algorithms. They are not statements of fact by hypefindr, not reviews by hypefindr, and not safety ratings. A high score does not mean an event is safe, lawful or as described.
+**12.5 Atmosphere Score and other indicators.** Atmosphere Scores, crowd indicators, "live now" labels and similar signals are generated from user activity and our algorithms. They are not statements of fact by Hypefindr, not reviews by Hypefindr, and not safety ratings. A high score does not mean an event is safe, lawful or as described.
 
 **12.6 We control listings.** We may remove, hide, edit for formatting, relabel, age-gate, or limit the reach of any event listing at any time.
 
 ### 13. Your safety around other users
 
-**13.1 What hypefindr is not.** hypefindr is a technology platform. We are not an event organizer, promoter, host, venue operator, security provider, ticket seller, transportation provider, or employer or agent of any user.
+**13.1 What Hypefindr is not.** Hypefindr is a technology platform. We are not an event organizer, promoter, host, venue operator, security provider, ticket seller, transportation provider, or employer or agent of any user.
 
-**13.2 We do not screen users.** We do not run criminal background checks, check sex offender registries, or verify the identity of users, except for limited checks we choose to run for specific features. Anyone you meet through hypefindr is a stranger unless you know them. You are solely responsible for your interactions with other users, online and in person.
+**13.2 We do not screen users.** We do not run criminal background checks, check sex offender registries, or verify the identity of users, except for limited checks we choose to run for specific features. Anyone you meet through Hypefindr is a stranger unless you know them. You are solely responsible for your interactions with other users, online and in person.
 
 **13.3 Take basic precautions.** Meet in public places. Tell someone you trust where you are going. Arrange your own transportation. Watch your drink. Do not share your home address. Leave any place where you feel unsafe.
 
-**13.4 Disputes between users.** Disputes between you and another user, host, venue or attendee are between you and them. We have no obligation to get involved. Section 24 releases hypefindr from claims arising from those disputes.
+**13.4 Disputes between users.** Disputes between you and another user, host, venue or attendee are between you and them. We have no obligation to get involved. Section 24 releases Hypefindr from claims arising from those disputes.
 
-### 14. Emergencies: hypefindr is not an emergency service
+### 14. Emergencies: Hypefindr is not an emergency service
 
-**14.1 Call your local emergency number.** If you or anyone else is in danger, call 911 in the United States, or your local emergency number. Do not use a stream, chat, post or report to hypefindr to get help in an emergency. We do not monitor streams in real time, and a report may not be read for hours or longer.
+**14.1 Call your local emergency number.** If you or anyone else is in danger, call 911 in the United States, or your local emergency number. Do not use a stream, chat, post or report to Hypefindr to get help in an emergency. We do not monitor streams in real time, and a report may not be read for hours or longer.
 
 **14.2 We may contact authorities.** We may, but have no duty to, contact emergency services or law enforcement when we believe someone may be at risk of death or serious injury, and share information with them, including location. We are not liable for contacting or not contacting them.
 
@@ -210,9 +210,9 @@ Hype Score, Atmosphere Score, Streaks, Ripples, titles, badges, City Crown, Refe
 
 ### 16. Messages, Crews and interactions
 
-**16.1 Messages are not private from us.** Chat and messages on hypefindr are not end-to-end encrypted. We can access them as described in Section 6.12 and the Privacy Policy.
+**16.1 Messages are not private from us.** Chat and messages on Hypefindr are not end-to-end encrypted. We can access them as described in Section 6.12 and the Privacy Policy.
 
-**16.2 Crews.** A Crew is a feature of the app. It is not a legal entity, partnership, club or organization sponsored by hypefindr. Crew founders and leaders are not our agents and have no authority to act for us. Crew names and descriptions are User Content. We may rename, restrict or dissolve any Crew.
+**16.2 Crews.** A Crew is a feature of the app. It is not a legal entity, partnership, club or organization sponsored by Hypefindr. Crew founders and leaders are not our agents and have no authority to act for us. Crew names and descriptions are User Content. We may rename, restrict or dissolve any Crew.
 
 **16.3 Blocking has limits.** Blocking and other safety tools reduce contact but cannot stop all of it. A blocked person may still see public content, use share links, create another account in breach of these Terms, or find you in person at a public event.
 
@@ -236,7 +236,7 @@ The Community Guidelines set out the detailed rules. In addition, you may not us
 - Fake your location, fake a check-in, or manipulate any score, title, ranking, Atmosphere Score, City Crown, Ripple, Streak, referral or count.
 - Buy, sell or trade accounts, usernames, followers, views, reactions, check-ins or invite codes.
 - Create fake, duplicate, automated or bot accounts, or create a new account to get around a suspension, ban or block.
-- Impersonate any person, business, organization, public official, or anyone who works on hypefindr, or misrepresent your affiliation with anyone.
+- Impersonate any person, business, organization, public official, or anyone who works on Hypefindr, or misrepresent your affiliation with anyone.
 - Send spam, unsolicited commercial messages, chain messages or mass invitations.
 - Phish, collect other users' login details or personal information, or distribute malware.
 - Hack, probe, scan or test the vulnerability of the Services, overload them, bypass rate limits, age gates, geofences, blocks or any security or access control, or access them through any unofficial app, client or automated means. Good-faith security research reported to {{CONTACT_EMAIL}} with the subject "Security," without accessing other users' data or disrupting the Services, is not a violation.
@@ -250,7 +250,7 @@ The Community Guidelines set out the detailed rules. In addition, you may not us
 
 ### 18. Moderation and enforcement
 
-**18.1 We decide.** We decide, in our sole discretion, whether User Content or conduct breaks these Terms or the Community Guidelines. We may consider conduct outside the Services, including conduct at events found through hypefindr, criminal charges or convictions, and credible reports of violence or sexual misconduct.
+**18.1 We decide.** We decide, in our sole discretion, whether User Content or conduct breaks these Terms or the Community Guidelines. We may consider conduct outside the Services, including conduct at events found through Hypefindr, criminal charges or convictions, and credible reports of violence or sexual misconduct.
 
 **18.2 What we may do.** We may take any of these actions, alone or together, with or without notice: remove or restrict content; limit reach or discoverability; age-gate or label content; issue warnings or strikes; remove features such as streaming, hosting, messaging or check-ins; void scores, titles or referrals; suspend or permanently ban an account; preserve data; and report to law enforcement or the National Center for Missing & Exploited Children (NCMEC).
 
@@ -288,7 +288,7 @@ You need a compatible device and an internet connection to use the Services. You
 
 ## Part 5. Disclaimers, risk, liability and indemnity
 
-In this Part, "hypefindr Parties" means hypefindr, the people who create and operate it, anyone who works on it or for it, and their successors, assigns, licensors and service providers.
+In this Part, "Hypefindr Parties" means Hypefindr, the people who create and operate it, anyone who works on it or for it, and their successors, assigns, licensors and service providers.
 
 ### 23. Disclaimers
 
@@ -327,13 +327,13 @@ In this Part, "hypefindr Parties" means hypefindr, the people who create and ope
 
 **25.3 ALL THEORIES. SECTIONS 25.1 AND 25.2 APPLY TO EVERY THEORY OF LIABILITY, INCLUDING CONTRACT, WARRANTY, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY, PRODUCT LIABILITY, DESIGN DEFECT, FAILURE TO WARN AND STATUTE. THEY APPLY TO CLAIMS ABOUT THE DESIGN, FEATURES, ALGORITHMS, RECOMMENDATIONS, NOTIFICATIONS, SCORES OR STREAKS OF THE SERVICES. THEY APPLY EVEN IF A HYPEFINDR PARTY WAS TOLD THE DAMAGES WERE POSSIBLE, AND EVEN IF A LIMITED REMEDY FAILS OF ITS ESSENTIAL PURPOSE.**
 
-**25.4 What is not limited.** Nothing in these Terms limits liability for gross negligence, fraud, willful misconduct, or death or personal injury caused by a hypefindr Party's negligence where the law does not allow that liability to be limited, or any other liability that cannot be limited by law. Some jurisdictions do not allow certain limits, so some of them may not apply to you.
+**25.4 What is not limited.** Nothing in these Terms limits liability for gross negligence, fraud, willful misconduct, or death or personal injury caused by a Hypefindr Party's negligence where the law does not allow that liability to be limited, or any other liability that cannot be limited by law. Some jurisdictions do not allow certain limits, so some of them may not apply to you.
 
-**25.5 Basis of the bargain.** The disclaimers, release and limits in this Part are an essential part of the agreement between you and hypefindr. We offer the Services free of charge in reliance on them.
+**25.5 Basis of the bargain.** The disclaimers, release and limits in this Part are an essential part of the agreement between you and Hypefindr. We offer the Services free of charge in reliance on them.
 
 ### 26. Indemnity
 
-**26.1** You will defend, indemnify and hold harmless the hypefindr Parties from and against all claims, demands, suits, losses, damages, liabilities, fines, penalties, costs and expenses, including reasonable attorneys' fees, arising out of or relating to:
+**26.1** You will defend, indemnify and hold harmless the Hypefindr Parties from and against all claims, demands, suits, losses, damages, liabilities, fines, penalties, costs and expenses, including reasonable attorneys' fees, arising out of or relating to:
 
 - your use or misuse of the Services;
 - your User Content;
@@ -351,13 +351,13 @@ In this Part, "hypefindr Parties" means hypefindr, the people who create and ope
 
 **27.1 Governing law.** The laws of the State of Minnesota, United States, govern these Terms and any Dispute (defined in Section 28.1), without regard to conflict-of-law rules. The Federal Arbitration Act (9 U.S.C. § 1 et seq.) governs Section 28. If you live outside the United States, Section 28.13 also applies.
 
-**27.2 Courts.** Any Dispute that is not arbitrated will be decided only in the state or federal courts located in Rice County, Minnesota. You and hypefindr consent to the personal jurisdiction of those courts and waive any objection to venue there. This does not limit Section 28 or Section 28.13.
+**27.2 Courts.** Any Dispute that is not arbitrated will be decided only in the state or federal courts located in Rice County, Minnesota. You and Hypefindr consent to the personal jurisdiction of those courts and waive any objection to venue there. This does not limit Section 28 or Section 28.13.
 
 **27.3 One-year time limit.** To the extent the law allows, any claim arising out of or relating to these Terms or the Services must be filed within one year after the claim arises. Otherwise it is permanently barred.
 
 ### 28. Binding individual arbitration and class-action waiver
 
-**28.1 What must be arbitrated.** Except as stated in Sections 28.2 and 28.13, you and hypefindr agree to resolve every dispute, claim or controversy between us, of any kind, arising out of or relating to these Terms, the Services, your data, our communications with you, or our relationship (a "Dispute") by binding individual arbitration. This includes Disputes that arose before you accepted these Terms, and Disputes based on contract, tort, statute, fraud, misrepresentation or any other legal theory.
+**28.1 What must be arbitrated.** Except as stated in Sections 28.2 and 28.13, you and Hypefindr agree to resolve every dispute, claim or controversy between us, of any kind, arising out of or relating to these Terms, the Services, your data, our communications with you, or our relationship (a "Dispute") by binding individual arbitration. This includes Disputes that arose before you accepted these Terms, and Disputes based on contract, tort, statute, fraud, misrepresentation or any other legal theory.
 
 **28.2 What is not arbitrated.** Either party may bring:
 
@@ -367,7 +367,7 @@ In this Part, "hypefindr Parties" means hypefindr, the people who create and ope
 
 In addition, if you bring a claim of sexual assault or sexual harassment, you may choose to bring it in court rather than arbitration, as the Ending Forced Arbitration of Sexual Assault and Sexual Harassment Act of 2021 provides.
 
-**28.3 Informal resolution first.** Before starting arbitration or a small claims case, the party with a Dispute must send a written Notice of Dispute. Your notice goes to {{CONTACT_EMAIL}}, with the subject "Notice of Dispute," and to {{MAILING_ADDRESS}}. It must include your name, the email or phone number on your account, a description of the Dispute, and the relief you want, and you must sign it personally. Our notice goes to the email or phone number on your account. For 60 days after the notice is received, we will try in good faith to resolve the Dispute. During that period, either party may request an individual settlement conference, by phone or video, which you and a hypefindr representative must attend personally (lawyers may also attend). Completing this process is a condition to starting arbitration. Statutes of limitation and filing deadlines are paused while it runs.
+**28.3 Informal resolution first.** Before starting arbitration or a small claims case, the party with a Dispute must send a written Notice of Dispute. Your notice goes to {{CONTACT_EMAIL}}, with the subject "Notice of Dispute," and to {{MAILING_ADDRESS}}. It must include your name, the email or phone number on your account, a description of the Dispute, and the relief you want, and you must sign it personally. Our notice goes to the email or phone number on your account. For 60 days after the notice is received, we will try in good faith to resolve the Dispute. During that period, either party may request an individual settlement conference, by phone or video, which you and a Hypefindr representative must attend personally (lawyers may also attend). Completing this process is a condition to starting arbitration. Statutes of limitation and filing deadlines are paused while it runs.
 
 **28.4 Rules and arbitrator.** The American Arbitration Association ("AAA") will administer the arbitration under its Consumer Arbitration Rules and, where they apply, its Mass Arbitration Supplementary Rules, as modified by this Section 28. Those rules are at adr.org. If the AAA is unavailable, the parties will agree on another administrator, or a court will appoint one. A single arbitrator will decide the Dispute. The arbitrator may award the same individual relief a court could award to an individual, and must follow these Terms. Any hearing will take place by video or phone, or in the county where you live, as the arbitrator decides. If your claim is for $25,000 or less, the arbitration will be decided on written submissions unless the arbitrator decides a hearing is needed.
 
@@ -380,8 +380,8 @@ In addition, if you bring a claim of sexual assault or sexual harassment, you ma
 **28.8 Mass filings.** If 25 or more demands for arbitration raising substantially similar claims are filed by or with the help of the same or coordinated lawyers or organizations (a "Mass Filing"), these procedures apply in addition to the AAA's rules:
 
 1. Each demand must still go through the informal resolution process in Section 28.3.
-2. The lawyers for the claimants and hypefindr will each select 10 demands, which proceed first as bellwether arbitrations. The other demands are held. They are not considered filed, and no fees for them are due, until they are released under this Section.
-3. After the bellwether arbitrations are decided, the parties will attend a single global mediation, with the mediator's fees paid by hypefindr.
+2. The lawyers for the claimants and Hypefindr will each select 10 demands, which proceed first as bellwether arbitrations. The other demands are held. They are not considered filed, and no fees for them are due, until they are released under this Section.
+3. After the bellwether arbitrations are decided, the parties will attend a single global mediation, with the mediator's fees paid by Hypefindr.
 4. If the remaining demands are not resolved, they proceed in batches of up to 100, with one arbitrator per batch where the administrator allows.
 5. Statutes of limitation and filing deadlines for every held demand are paused from the date the Mass Filing is first submitted until that demand is released.
 6. A court has authority to enforce this Section 28.8, including by staying held demands and deciding fee disputes. If a court decides this Section 28.8 cannot be enforced as to any demand, that demand proceeds individually in court.
@@ -400,9 +400,9 @@ In addition, if you bring a claim of sexual assault or sexual harassment, you ma
 
 ### 29. General
 
-**29.1 Entire agreement.** These Terms, with the documents incorporated in Section 1.3, are the entire agreement between you and hypefindr about the Services. They replace all earlier agreements and understandings on that subject.
+**29.1 Entire agreement.** These Terms, with the documents incorporated in Section 1.3, are the entire agreement between you and Hypefindr about the Services. They replace all earlier agreements and understandings on that subject.
 
-**29.2 Assignment.** You may not assign or transfer these Terms or any right under them. We may assign or transfer them, in whole or in part, without your consent, including to a company formed to run hypefindr, or in a merger, acquisition, reorganization or sale of assets.
+**29.2 Assignment.** You may not assign or transfer these Terms or any right under them. We may assign or transfer them, in whole or in part, without your consent, including to a company formed to run Hypefindr, or in a merger, acquisition, reorganization or sale of assets.
 
 **29.3 Severability.** If any provision of these Terms is found unenforceable, it will be enforced to the maximum extent possible and the rest of these Terms stays in effect. Section 28.6 is governed by its own severability rule.
 
@@ -410,9 +410,9 @@ In addition, if you bring a claim of sexual assault or sexual harassment, you ma
 
 **29.5 Events beyond our control.** We are not liable for any delay or failure caused by events beyond our reasonable control. These include outages of internet, cloud, mapping, streaming or telecommunications providers; cyberattacks; natural disasters; pandemics; war; terrorism; civil unrest; labor disputes; and government action.
 
-**29.6 Relationship.** No agency, partnership, joint venture, employment or fiduciary relationship exists between you and hypefindr because of these Terms or your use of the Services.
+**29.6 Relationship.** No agency, partnership, joint venture, employment or fiduciary relationship exists between you and Hypefindr because of these Terms or your use of the Services.
 
-**29.7 Third-party beneficiaries.** The hypefindr Parties are third-party beneficiaries of Part 5 and Section 28. Apple is a third-party beneficiary as stated in Section 30. Otherwise, these Terms create no rights for anyone else.
+**29.7 Third-party beneficiaries.** The Hypefindr Parties are third-party beneficiaries of Part 5 and Section 28. Apple is a third-party beneficiary as stated in Section 30. Otherwise, these Terms create no rights for anyone else.
 
 **29.8 Interpretation.** "Including" means "including without limitation." Headings are for convenience only. These Terms will not be interpreted against either party because that party drafted them. If we provide a translation, the English version controls.
 
@@ -424,15 +424,15 @@ In addition, if you bring a claim of sexual assault or sexual harassment, you ma
 
 If you downloaded the app from the Apple App Store, these terms also apply and control over anything in these Terms that conflicts with them:
 
-1. These Terms are between you and hypefindr only, not Apple. hypefindr, not Apple, is solely responsible for the app and its content.
+1. These Terms are between you and Hypefindr only, not Apple. Hypefindr, not Apple, is solely responsible for the app and its content.
 2. Your license to use the app is limited to use on Apple-branded products you own or control, as permitted by the Usage Rules in the Apple Media Services Terms and Conditions, except that the app may be accessed by other accounts associated with you through Family Sharing or volume purchasing.
 3. Apple has no obligation at all to provide maintenance or support for the app.
-4. If the app fails to conform to any applicable warranty, you may notify Apple, and Apple will refund the purchase price for the app, if any. To the maximum extent the law allows, Apple has no other warranty obligation for the app. Any other claims, losses, liabilities, damages, costs or expenses from any failure to conform to a warranty are hypefindr's responsibility, to the extent not disclaimed in these Terms.
-5. hypefindr, not Apple, is responsible for addressing any claims by you or a third party relating to the app or your possession or use of it, including product liability claims, claims that the app fails to meet any legal or regulatory requirement, and claims under consumer protection, privacy or similar laws.
-6. If a third party claims that the app or your possession or use of it infringes their intellectual property rights, hypefindr, not Apple, is solely responsible for investigating, defending, settling and discharging that claim.
+4. If the app fails to conform to any applicable warranty, you may notify Apple, and Apple will refund the purchase price for the app, if any. To the maximum extent the law allows, Apple has no other warranty obligation for the app. Any other claims, losses, liabilities, damages, costs or expenses from any failure to conform to a warranty are Hypefindr's responsibility, to the extent not disclaimed in these Terms.
+5. Hypefindr, not Apple, is responsible for addressing any claims by you or a third party relating to the app or your possession or use of it, including product liability claims, claims that the app fails to meet any legal or regulatory requirement, and claims under consumer protection, privacy or similar laws.
+6. If a third party claims that the app or your possession or use of it infringes their intellectual property rights, Hypefindr, not Apple, is solely responsible for investigating, defending, settling and discharging that claim.
 7. You represent and warrant that you are not located in a country subject to a U.S. Government embargo or designated by the U.S. Government as a "terrorist supporting" country, and that you are not on any U.S. Government list of prohibited or restricted parties.
 8. You must comply with applicable third-party terms, such as your wireless carrier's terms, when using the app.
-9. Questions, complaints or claims about the app go to hypefindr at the contact details in Section 32.
+9. Questions, complaints or claims about the app go to Hypefindr at the contact details in Section 32.
 10. Apple and its subsidiaries are third-party beneficiaries of these Terms. When you accept these Terms, Apple has the right, and is deemed to have accepted the right, to enforce them against you as a third-party beneficiary.
 
 ### 31. Google Play terms
@@ -441,6 +441,6 @@ If you downloaded the app from Google Play, Google is not a party to these Terms
 
 ### 32. Contact
 
-hypefindr, {{MAILING_ADDRESS}}
+Hypefindr, {{MAILING_ADDRESS}}
 
 Email {{CONTACT_EMAIL}} for anything about these Terms. Put one of these in the subject line so your message is handled correctly: "Legal Notice," "Notice of Dispute," "Arbitration Opt-Out," "Account Security," "Safety," "Privacy Request," "Copyright," "Security" or "Law Enforcement."

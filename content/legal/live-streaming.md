@@ -55,7 +55,7 @@ You may not stream or post recordings from:
 
 ## 7. Emergencies, crime and police
 
-- **Call first.** If you see an emergency, call 911 or your local emergency number before you think about streaming. Do not rely on viewers or hypefindr to get help.
+- **Call first.** If you see an emergency, call 911 or your local emergency number before you think about streaming. Do not rely on viewers or Hypefindr to get help.
 - **Do not chase danger.** Do not approach fires, shootings, fights, crashes, crowd crushes or other danger to get footage.
 - **Filming police.** Where the law allows you to film police in public, keep a safe distance, follow lawful orders, and do not interfere with officers or first responders.
 - **No crime on stream.** Do not stream yourself or others committing crimes, and do not encourage viewers to commit crimes.
