@@ -5,7 +5,7 @@ import { CONTACT_EMAIL } from "@/lib/constants";
 
 export const metadata: Metadata = {
   title: "About",
-  description: "About Hypefindr — a live, location-based social app for real-world events.",
+  description: "About Hypefindr, a live, location-based social app for real-world events.",
 };
 
 export default function AboutPage() {
@@ -27,20 +27,20 @@ export default function AboutPage() {
         </p>
         <p>
           Instead of a feed of what already happened, Hypefindr gives you a live map of what&apos;s happening this
-          second — nearby, or anywhere on earth. Watch a live stream from an event across town or across the
+          second, nearby or anywhere on earth. Watch a live stream from an event across town or across the
           world. Go live yourself and become the eyes for everyone who can&apos;t be there. Show up and check in
           to the moment. Build a crew and bring people with you.
         </p>
         <p>
-          As you use Hypefindr, you build an identity across four profiles — The Attendee, The Watcher, The Streamer,
-          and The Connector — earning points and titles in each based on how you show up.
+          As you use Hypefindr, you build an identity across four profiles: The Attendee, The Watcher, The Streamer
+          and The Connector. You earn points and titles in each based on how you show up.
         </p>
 
         <div className="about-grid">
           <div className="about-card">
             <h3>Get in touch</h3>
             <p>
-              Questions, feedback, or press inquiries — email us at{" "}
+              For questions, feedback or press inquiries, email us at{" "}
               <a href={`mailto:${CONTACT_EMAIL}`}>{CONTACT_EMAIL}</a>.
             </p>
           </div>

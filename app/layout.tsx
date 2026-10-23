@@ -12,21 +12,21 @@ const inter = Inter({
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
   title: {
-    default: "Hypefindr — Things are happening near you.",
-    template: "%s — Hypefindr",
+    default: "Hypefindr | Things are happening near you.",
+    template: "%s | Hypefindr",
   },
   description:
     "Hypefindr is a live, location-based social app for real-world events. Discover what's happening near you, watch live streams from anywhere, go live, and show up.",
   openGraph: {
     type: "website",
     url: SITE_URL,
-    title: "Hypefindr — Things are happening near you.",
+    title: "Hypefindr | Things are happening near you.",
     description:
       "Discover events near you, watch live streams from anywhere in the world, go live, and show up. Hypefindr shows you what's happening right now.",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Hypefindr — Things are happening near you.",
+    title: "Hypefindr | Things are happening near you.",
     description:
       "Discover events near you, watch live streams from anywhere in the world, go live, and show up.",
   },

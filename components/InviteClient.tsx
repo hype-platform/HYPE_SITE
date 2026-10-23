@@ -18,7 +18,7 @@ export function InviteClient({ code }: { code: string }) {
       <p>Redirecting you to the App Store…</p>
       <div className="invite__code">{code}</div>
       <p>
-        Your invite code: {code} — enter it in the app after you sign up.
+        Your invite code: {code}. Enter it in the app after you sign up.
       </p>
       <a href={APP_STORE_URL} className="btn btn--primary">
         Continue to the App Store

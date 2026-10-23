@@ -93,7 +93,7 @@ export default function Home() {
               Things are happening <span className="text-gradient">near you.</span>
             </h1>
             <p className="hero__subhead">
-              Watch, stream, and show up to what&apos;s live around you — and across the world.
+              Watch, stream, and show up to what&apos;s live around you and across the world.
             </p>
             <div className="hero__cta">
               <AppStoreButton />
@@ -215,7 +215,7 @@ export default function Home() {
               </span>
               <h2 className="section__title">A world that&apos;s actually live.</h2>
               <p className="section__lead">
-                Not a feed of what happened yesterday — a map of what&apos;s happening this second, anywhere on earth.
+                Not a feed of what happened yesterday. A map of what&apos;s happening this second, anywhere on earth.
               </p>
               <ul className="map-section__list">
                 <li>
@@ -229,7 +229,7 @@ export default function Home() {
                   <span className="map-section__dot" />
                   <div>
                     <h4>Watch from anywhere</h4>
-                    <p>Drop into a live stream from across town or across the world — no travel required.</p>
+                    <p>Drop into a live stream from across town or across the world, no travel required.</p>
                   </div>
                 </li>
                 <li>
@@ -251,7 +251,7 @@ export default function Home() {
               <span className="section__eyebrow">Your identity</span>
               <h2 className="section__title">Four ways to use Hypefindr.</h2>
               <p className="section__lead">
-                You unlock who you are through what you do — earning points and titles as you show up, watch, stream, and connect.
+                You unlock who you are through what you do, earning points and titles as you show up, watch, stream, and connect.
               </p>
             </div>
 
