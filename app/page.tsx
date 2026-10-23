@@ -8,7 +8,7 @@ const IDENTITIES = [
     color: "#e06030",
     icon: "/profiles/attendee.png",
     title: "The Attendee",
-    desc: "Shows up. Checks into the moment with photos and video from where it's actually happening.",
+    desc: "Shows up. Checks in at events and shares photos and video from where it's actually happening.",
   },
   {
     color: "#4a9eff",
@@ -84,7 +84,7 @@ export default function Home() {
           </svg>
 
           <div className="hero__content">
-            <span className="wordmark">HYPE</span>
+            <span className="wordmark">Hypefindr</span>
             <h1>Things are happening near you.</h1>
             <p className="hero__subhead">
               Watch, stream, and show up to what&apos;s live around you — and across the world.
@@ -94,7 +94,7 @@ export default function Home() {
             </div>
 
             <div className="hero__frame" aria-hidden="true">
-              <svg viewBox="0 0 280 560" role="img" aria-label="HYPE app preview: live map with nearby events">
+              <svg viewBox="0 0 280 560" role="img" aria-label="Hypefindr app preview: live map with nearby events">
                 <defs>
                   <linearGradient id="phoneBg" x1="0%" y1="0%" x2="100%" y2="100%">
                     <stop offset="0%" stopColor="#12101c" />
@@ -195,7 +195,7 @@ export default function Home() {
           <div className="container">
             <div className="section__head">
               <span className="section__eyebrow">Your identity</span>
-              <h2 className="section__title">Four ways to be at HYPE.</h2>
+              <h2 className="section__title">Four ways to use Hypefindr.</h2>
               <p className="section__lead">
                 You unlock who you are through what you do — earning points and titles as you show up, watch, stream, and connect.
               </p>
@@ -242,8 +242,8 @@ export default function Home() {
           <div className="container">
             <div className="cta-band">
               <div className="cta-band__inner">
-                <h2>Get HYPE.</h2>
-                <p>Things are happening near you, right now.</p>
+                <h2>Get Hypefindr.</h2>
+                <p>Things are happening near you, right now. For ages 18 and over.</p>
                 <div className="cta-band__buttons">
                   <AppStoreButton />
                   <GooglePlayButtonSoon />

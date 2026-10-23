@@ -8,7 +8,7 @@
 
 **1.1 Who we are.** Hypefindr is an independent project created and run by its founders from Northfield, Minnesota, United States. In these Terms, "Hypefindr," "we," "us" and "our" mean the Hypefindr project and the people who create and operate it. These Terms of Service ("Terms") are a binding contract between you and us.
 
-**1.2 The Services.** These Terms govern your use of the Hypefindr mobile app, including any version branded "HYPE"; the website at hypefindr.net and its subdomains; invite and share links; and every feature, content item, communication and service we provide (together, the "Services").
+**1.2 The Services.** These Terms govern your use of the Hypefindr mobile app; the website at hypefindr.net and its subdomains; invite and share links; and every feature, content item, communication and service we provide (together, the "Services").
 
 **1.3 Documents that are part of these Terms.** The following are incorporated into these Terms by reference: the [Privacy Policy](/privacy), [Community Guidelines](/guidelines), [Live Streaming and Recording Policy](/legal/live-streaming), [Events, Safety and Assumption of Risk Policy](/legal/events-safety), [Child Safety Policy](/legal/child-safety), [Content Removal Requests](/legal/content-removal) policy, [Points, Scores and Referral Program Terms](/legal/points-and-referrals), [Enforcement, Moderation and Appeals Policy](/legal/enforcement), [Law Enforcement Guidelines](/legal/law-enforcement) and [Website and Cookie Notice](/legal/cookies). Terms we show you inside a specific feature also apply. If these Terms conflict with another of those documents, these Terms control, unless the other document expressly says it controls on that point.
 
@@ -109,7 +109,7 @@
 
 ### 7. Our intellectual property
 
-**7.1 What we own.** The Services, including the software, code, design, interface, text, graphics, maps as presented, scores, titles, badges, algorithms, data compilations, and the names and logos Hypefindr and HYPE, belong to Hypefindr or its licensors. They are protected by copyright, trademark and other laws. All rights not expressly granted to you are reserved.
+**7.1 What we own.** The Services, including the software, code, design, interface, text, graphics, maps as presented, scores, titles, badges, algorithms, data compilations, and the Hypefindr name and logos, belong to Hypefindr or its licensors. They are protected by copyright, trademark and other laws. All rights not expressly granted to you are reserved.
 
 **7.2 Your license to use the app.** Subject to these Terms, we give you a limited, personal, revocable, non-exclusive, non-transferable, non-sublicensable license to install and use the app on a device you own or control, and to use the Services, for your personal, non-commercial use. An organization may use the Services to promote its own lawful events within the rules of these Terms. This license ends automatically when your account ends or you breach these Terms.
 

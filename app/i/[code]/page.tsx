@@ -5,7 +5,7 @@ import { InviteClient } from "@/components/InviteClient";
 
 export const metadata: Metadata = {
   title: "You're invited",
-  description: "Join HYPE with your invite code.",
+  description: "Join Hypefindr with your invite code.",
   robots: { index: false, follow: false },
 };
 

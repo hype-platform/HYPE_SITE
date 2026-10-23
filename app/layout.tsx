@@ -1,19 +1,11 @@
 import type { Metadata } from "next";
-import { DM_Sans, Syne } from "next/font/google";
+import { Inter } from "next/font/google";
 import { SITE_URL } from "@/lib/constants";
 import "./globals.css";
 
-const syne = Syne({
+const inter = Inter({
   subsets: ["latin"],
-  weight: ["700", "800"],
-  variable: "--font-syne",
-  display: "swap",
-});
-
-const dmSans = DM_Sans({
-  subsets: ["latin"],
-  weight: ["300", "400", "500"],
-  variable: "--font-dm-sans",
+  variable: "--font-inter",
   display: "swap",
 });
 
@@ -24,13 +16,13 @@ export const metadata: Metadata = {
     template: "%s — Hypefindr",
   },
   description:
-    "HYPE is a live, location-based social platform for real-world events. Discover what's happening near you, watch live streams from anywhere, go live, and show up.",
+    "Hypefindr is a live, location-based social app for real-world events. Discover what's happening near you, watch live streams from anywhere, go live, and show up.",
   openGraph: {
     type: "website",
     url: SITE_URL,
     title: "Hypefindr — Things are happening near you.",
     description:
-      "Discover events near you, watch live streams from anywhere in the world, go live, and show up. HYPE is a window into what's happening right now.",
+      "Discover events near you, watch live streams from anywhere in the world, go live, and show up. Hypefindr shows you what's happening right now.",
   },
   twitter: {
     card: "summary_large_image",
@@ -46,7 +38,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="en" className={`${syne.variable} ${dmSans.variable}`}>
+    <html lang="en" className={inter.variable}>
       <body>{children}</body>
     </html>
   );

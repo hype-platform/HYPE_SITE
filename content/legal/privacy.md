@@ -15,7 +15,7 @@ The full policy follows. Capitalized terms not defined here have the meaning giv
 
 **1.1 Who is responsible.** Hypefindr is an independent project run by its founders from {{MAILING_ADDRESS}}. We ("Hypefindr," "we," "us") are responsible for your personal data. Contact details are in Section 16.
 
-**1.2 Scope.** This policy covers personal data we collect through the Hypefindr app (including any version branded "HYPE"), the website hypefindr.net, invite and share links, and our communications with you (together, the "Services"). It also covers people who do not have an account but whose data we receive: website visitors, people who appear in User Content, people named in reports, and people who send us requests.
+**1.2 Scope.** This policy covers personal data we collect through the Hypefindr app, the website hypefindr.net, invite and share links, and our communications with you (together, the "Services"). It also covers people who do not have an account but whose data we receive: website visitors, people who appear in User Content, people named in reports, and people who send us requests.
 
 **1.3 What it does not cover.** It does not cover services run by others, even if you reach them through Hypefindr, such as Apple, Google, ticketing sites or venue websites. Their own privacy policies apply.
 

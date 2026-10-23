@@ -13,7 +13,7 @@ export function InviteClient({ code }: { code: string }) {
 
   return (
     <div className="invite__card">
-      <span className="wordmark wordmark--sm">HYPE</span>
+      <span className="wordmark wordmark--sm">Hypefindr</span>
       <h1 style={{ fontSize: "1.4rem", marginTop: "18px" }}>You&apos;re invited.</h1>
       <p>Redirecting you to the App Store…</p>
       <div className="invite__code">{code}</div>
