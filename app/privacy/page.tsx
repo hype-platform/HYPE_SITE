@@ -1,11 +1,12 @@
 import type { Metadata } from "next";
 import { Nav } from "@/components/Nav";
 import { Footer } from "@/components/Footer";
-import { CommunityGuidelinesContent } from "@/components/CommunityGuidelinesContent";
+import { PrivacyContent } from "@/components/PrivacyContent";
+import { LAST_UPDATED } from "@/lib/constants";
 
 export const metadata: Metadata = {
   title: "Privacy Policy",
-  description: "HYPE's Community Guidelines — the rules that govern your use of the app.",
+  description: "How hypefindr collects, uses, and protects your data.",
 };
 
 export default function PrivacyPage() {
@@ -15,12 +16,12 @@ export default function PrivacyPage() {
 
       <div className="page-header">
         <div className="container">
-          <h1>Community Guidelines</h1>
-          <p className="muted">Effective Date: September 10, 2026 · Jurisdiction: State of Minnesota, United States</p>
+          <h1>Privacy Policy</h1>
+          <p className="muted">Last updated: {LAST_UPDATED}</p>
         </div>
       </div>
 
-      <CommunityGuidelinesContent />
+      <PrivacyContent />
 
       <Footer />
     </>

@@ -2,6 +2,7 @@
 
 import Link from "next/link";
 import { useState } from "react";
+import { BRAND_NAME } from "@/lib/constants";
 
 export function Nav() {
   const [open, setOpen] = useState(false);
@@ -9,8 +10,8 @@ export function Nav() {
   return (
     <header className={`nav${open ? " is-open" : ""}`}>
       <div className="nav__inner">
-        <Link href="/" className="wordmark wordmark--sm" aria-label="HYPE home">
-          HYPE
+        <Link href="/" className="wordmark wordmark--sm" aria-label={`${BRAND_NAME} home`}>
+          {BRAND_NAME}
         </Link>
         <nav className="nav__links" aria-label="Primary">
           <Link href="/#features">Features</Link>

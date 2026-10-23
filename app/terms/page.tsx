@@ -1,11 +1,12 @@
 import type { Metadata } from "next";
 import { Nav } from "@/components/Nav";
 import { Footer } from "@/components/Footer";
-import { CommunityGuidelinesContent } from "@/components/CommunityGuidelinesContent";
+import { TermsContent } from "@/components/TermsContent";
+import { LAST_UPDATED } from "@/lib/constants";
 
 export const metadata: Metadata = {
   title: "Terms of Service",
-  description: "HYPE's Community Guidelines — the rules that govern your use of the app.",
+  description: "The terms that govern your use of the hypefindr app.",
 };
 
 export default function TermsPage() {
@@ -15,12 +16,12 @@ export default function TermsPage() {
 
       <div className="page-header">
         <div className="container">
-          <h1>Community Guidelines</h1>
-          <p className="muted">Effective Date: September 10, 2026 · Jurisdiction: State of Minnesota, United States</p>
+          <h1>Terms of Service</h1>
+          <p className="muted">Last updated: {LAST_UPDATED}</p>
         </div>
       </div>
 
-      <CommunityGuidelinesContent />
+      <TermsContent />
 
       <Footer />
     </>
