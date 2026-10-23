@@ -498,15 +498,10 @@ p {
   pointer-events: none;
 }
 
-.identity-card__emoji {
-  font-size: 1.8rem;
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  width: 52px;
-  height: 52px;
-  border-radius: 14px;
-  background: color-mix(in srgb, var(--card-color, var(--accent)) 22%, transparent);
+.identity-card__icon {
+  display: block;
+  width: 72px;
+  height: 72px;
   margin-bottom: 18px;
   position: relative;
 }

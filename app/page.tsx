@@ -1,3 +1,4 @@
+import Image from "next/image";
 import { Nav } from "@/components/Nav";
 import { Footer } from "@/components/Footer";
 import { AppStoreButton, GooglePlayButtonSoon } from "@/components/AppStoreButton";
@@ -5,25 +6,25 @@ import { AppStoreButton, GooglePlayButtonSoon } from "@/components/AppStoreButto
 const IDENTITIES = [
   {
     color: "#e06030",
-    emoji: "🎉",
+    icon: "/profiles/attendee.png",
     title: "The Attendee",
     desc: "Shows up. Checks into the moment with photos and video from where it's actually happening.",
   },
   {
     color: "#4a9eff",
-    emoji: "👁️",
+    icon: "/profiles/watcher.png",
     title: "The Watcher",
     desc: "Watches streams. Tunes into live events anywhere in the world, in real time.",
   },
   {
     color: "#ff9a30",
-    emoji: "📡",
+    icon: "/profiles/streamer.png",
     title: "The Streamer",
     desc: "Goes live. Becomes the eyes for everyone who can't be there in person.",
   },
   {
     color: "#1ec8b0",
-    emoji: "🤝",
+    icon: "/profiles/connector.png",
     title: "The Connector",
     desc: "Brings people. Builds a crew and invites friends into what's happening.",
   },
@@ -207,7 +208,7 @@ export default function Home() {
                   className="identity-card"
                   style={{ "--card-color": identity.color } as React.CSSProperties}
                 >
-                  <div className="identity-card__emoji">{identity.emoji}</div>
+                  <Image className="identity-card__icon" src={identity.icon} alt="" width={72} height={72} />
                   <h3 className="identity-card__title">{identity.title}</h3>
                   <p className="identity-card__desc">{identity.desc}</p>
                 </div>
