@@ -12,7 +12,7 @@ Copyright Agent, Hypefindr, {{MAILING_ADDRESS}} · {{CONTACT_EMAIL}} (subject "C
 
 1. Your physical or electronic signature, as the copyright owner or a person authorized to act for them.
 2. Identification of the copyrighted work you claim is infringed, or a representative list if there are several.
-3. Identification of the material you claim is infringing, with enough detail for us to find it, such as the link, username, and the time in the stream.
+3. Identification of the material you claim is infringing, with enough detail for us to find it, such as the link, the username, and when the post or stream appeared.
 4. Your name, address, phone number and email address.
 5. A statement that you have a good-faith belief that the use is not authorized by the copyright owner, its agent or the law.
 6. A statement that the information in the notice is accurate and, under penalty of perjury, that you are the owner or authorized to act for the owner.
@@ -21,11 +21,11 @@ Incomplete notices may not be acted on. Before sending a notice, consider whethe
 
 ### 1.3 Live events
 
-Rights holders for live events, such as sports leagues, promoters and venues, can email {{CONTACT_EMAIL}} with the subject "Live Takedown" to report a stream in progress. Include the stream link or username and the event. We may end a stream in progress on a credible notice.
+Rights holders for live events, such as sports leagues, promoters and venues, can email {{CONTACT_EMAIL}} with the subject "Live Takedown" to report a stream in progress. Include the stream link or username and the event. We may take down a stream in progress on a credible notice.
 
 ### 1.4 What we do with a notice
 
-We remove or disable access to the material, notify the user, and may give them a copy of the notice, including your name and contact details. The user receives a copyright strike.
+We remove or disable access to the material, notify the user by email or in the app where we can, and may give them a copy of the notice, including your name and contact details. We record the notice against the user's account.
 
 ### 1.5 Counter-notice
 
@@ -40,10 +40,9 @@ We forward the counter-notice, including your contact details, to the person who
 
 ### 1.6 Repeat infringers
 
-- A valid notice results in one strike. Several notices received together about the same account may count as one.
-- Strikes expire 12 months after they are issued. A strike is removed if the material is restored after a counter-notice or the notice is withdrawn.
-- An account with three active strikes is terminated. We may terminate sooner, including for a single egregious or live-event infringement.
-- A user whose account is terminated for repeat infringement may not create a new account.
+- We keep a record of every valid notice against an account. Several notices received together about the same account may count as one. A notice no longer counts if the material is restored after a counter-notice or the notice is withdrawn.
+- An account with three valid notices in 12 months is banned. We may ban sooner, including for a single egregious or live-event infringement.
+- A user whose account is banned for repeat infringement may not create a new account.
 
 ## 2. Intimate images shared without consent (TAKE IT DOWN Act)
 
@@ -51,14 +50,14 @@ We forward the counter-notice, including your contact details, to the person who
 
 **2.2 Who can ask.** The person shown, or someone authorized to act for them.
 
-**2.3 How to ask.** Use the in-app report option for intimate images, or email {{CONTACT_EMAIL}} with the subject "Intimate Image Removal." Your request must include:
+**2.3 How to ask.** Email {{CONTACT_EMAIL}} with the subject "Intimate Image Removal." You can also report the post or live stream in the app with the reason "Nudity or sexual," which hides it once 3 people report it, but the email is what starts the 48-hour process. Your request must include:
 
 1. Your physical or electronic signature (typing your full name is enough).
 2. The link, username or other information we need to find the image or video.
 3. A short statement that you believe in good faith that it is an intimate image of you shared without your consent.
 4. How to contact you or your authorized representative.
 
-**2.4 What we do.** We send you a tracking number. Within 48 hours of a valid request, we remove the image or video and make reasonable efforts to find and remove identical copies on Hypefindr. You do not need to report each copy. We permanently ban the account that posted it, and if the image shows a minor, we report it to NCMEC. We act in good faith on requests that reasonably appear valid.
+**2.4 What we do.** We reply to confirm we have your request. Within 48 hours of a valid request, we remove the image or video and make reasonable efforts to find and remove identical copies on Hypefindr. You do not need to report each copy. We permanently ban the account that posted it, and if the image shows a minor, we report it to NCMEC. We act in good faith on requests that reasonably appear valid.
 
 **2.5 Other help.** US federal law, Minnesota law (Minn. Stat. §§ 604.31 and 617.261) and the laws of many other places give people whose intimate images are shared without consent the right to sue, and make sharing them a crime. You may also report to the police. If the images were taken when you were under 18, NCMEC's Take It Down service (takeitdown.ncmec.org) can help.
 

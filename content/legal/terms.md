@@ -8,7 +8,7 @@
 
 **1.1 Who we are.** Hypefindr is an independent project created and run by its founders from Northfield, Minnesota, United States. In these Terms, "Hypefindr," "we," "us" and "our" mean the Hypefindr project and the people who create and operate it. These Terms of Service ("Terms") are a binding contract between you and us.
 
-**1.2 The Services.** These Terms govern your use of the Hypefindr mobile app; the website at hypefindr.net and its subdomains; invite and share links; and every feature, content item, communication and service we provide (together, the "Services").
+**1.2 The Services.** These Terms govern your use of the Hypefindr iPhone app; the website at hypefindr.net and its subdomains; the share pages at go.hyped.stream; invite and share links; and every feature, content item, communication and service we provide (together, the "Services").
 
 **1.3 Documents that are part of these Terms.** The following are incorporated into these Terms by reference: the [Privacy Policy](/privacy), [Community Guidelines](/guidelines), [Live Streaming and Recording Policy](/legal/live-streaming), [Events, Safety and Assumption of Risk Policy](/legal/events-safety), [Child Safety Policy](/legal/child-safety), [Content Removal Requests](/legal/content-removal) policy, [Points, Scores and Referral Program Terms](/legal/points-and-referrals), [Enforcement, Moderation and Appeals Policy](/legal/enforcement), [Law Enforcement Guidelines](/legal/law-enforcement) and [Website and Cookie Notice](/legal/cookies). Terms we show you inside a specific feature also apply. If these Terms conflict with another of those documents, these Terms control, unless the other document expressly says it controls on that point.
 
@@ -44,15 +44,15 @@
 
 **3.3 Usernames.** We license your username to you; you do not own it. We may change or reclaim any username at any time, including for a trademark complaint, impersonation, offensive or misleading names, squatting, or inactivity.
 
-**3.4 Security.** You are responsible for everything done through your account until you tell us it was accessed without your permission. Keep your device, email, phone number, and Apple or Google sign-in secure. If you lose control of the phone number or email linked to your account, including when a carrier reassigns your old number, someone else may get into your account. We are not responsible for that. If you suspect unauthorized access, email {{CONTACT_EMAIL}} immediately with the subject "Account Security."
+**3.4 Security.** You are responsible for everything done through your account until you tell us it was accessed without your permission. Keep your device, email, phone number, password, and Apple or Google sign-in secure. If you lose control of the phone number or email linked to your account, including when a carrier reassigns your old number, someone else may get into your account. We are not responsible for that. If you suspect unauthorized access, email {{CONTACT_EMAIL}} immediately with the subject "Account Security."
 
 **3.5 Verification.** We may require you to verify your phone number, email, identity or age at any time. We may limit features until you do.
 
-**3.6 Business, venue and official accounts.** An account for an organization must be run by an authorized representative and must not suggest that Hypefindr endorses or partners with it. Verification badges and labels are given at our discretion, can be removed at any time, and confirm only what the label says. A badge does not mean we vouch for the account, its events or its safety.
+**3.6 Business, venue and organization accounts.** An account for an organization must be run by an authorized representative and must not suggest that Hypefindr endorses or partners with it. Hypefindr does not verify accounts, and nothing in the app means we vouch for an account, its events or its safety.
 
 **3.7 Inactive accounts.** We may delete an account that has not been used for 24 months, after notice to the email or phone number on file.
 
-**3.8 Deleting your account.** You can delete your account at any time in the app (Profile → Delete account) or by emailing {{CONTACT_EMAIL}}. Deletion is permanent and cannot be undone. The Privacy Policy explains what we delete and what we keep. Content that other people saved, reshared, screen-recorded or downloaded, and content we must keep by law, may survive deletion.
+**3.8 Deleting your account.** You can delete your account at any time in the app (Profile → Settings → Delete account) or by emailing {{CONTACT_EMAIL}}. Deletion is permanent and cannot be undone. The Privacy Policy explains what we delete and what we keep. Content that other people saved, reshared, screen-recorded or downloaded, and content we must keep by law, may survive deletion.
 
 **3.9 Deceased or incapacitated users.** An immediate family member or legal representative may ask us to deactivate or delete the account of a user who has died or is incapacitated, with proof we reasonably require. We will not give anyone the login to another person's account.
 
@@ -76,7 +76,7 @@
 
 ### 6. Your content
 
-**6.1 What counts as your content.** "User Content" means anything you post, stream, upload, send, record or create through the Services. That includes photos, videos, live streams and their recordings, audio, chat, comments, messages, reactions, event listings, Crew names and descriptions, profile details, check-ins, and anything you share from Hype Wrapped.
+**6.1 What counts as your content.** "User Content" means anything you post, stream, upload, send, record or create through the Services. That includes photos, videos, captions, headlines and stickers; live streams and their preview clips; audio; live chat messages and asks; reactions; event and plan listings, with their covers, photos and videos; Crew names; profile details; Pull ups and check-ins; friend requests, Meet Up requests and Let Them Know alerts; and anything you share from Wrapped.
 
 **6.2 You keep ownership.** As between you and Hypefindr, you keep whatever ownership rights you have in your User Content. The license in Section 6.3 is not a transfer of ownership.
 
@@ -88,7 +88,7 @@
 
 **6.6 No payment, no obligation to use.** You will not be paid for User Content or for any use we make of it under these Terms. We are not obligated to post, display, keep or promote any User Content. To the extent the law allows, you waive any moral rights or similar rights of attribution and integrity in User Content as used under these Terms.
 
-**6.7 Automated systems.** We may use User Content and data about how the Services are used to build, train and improve our own automated systems, including systems for safety, moderation, ranking and recommendations. We do not sell or license your User Content to third parties to train their generative AI models.
+**6.7 Automated systems.** We use data about how the Services are used to run our own automated systems for ranking, recommendations and safety, such as the chat word filter and hiding content after repeated reports. We do not sell or license your User Content to third parties to train their generative AI models.
 
 **6.8 Your promises about your content.** For every piece of User Content, you promise that:
 
@@ -97,13 +97,13 @@
 - It does not infringe or violate anyone's copyright, trademark, privacy, publicity or other rights, and does not break any law, these Terms or the Community Guidelines.
 - You will pay any royalties, fees or other money owed to anyone because of it, including for music, performances or broadcasts it contains.
 
-**6.9 Public by default.** Most User Content is visible to every Hypefindr user. Content you share by link can be seen by anyone with the link, and may be indexed by search engines. Anyone can screenshot, screen-record or download what they see. Live streams are seen as they happen and cannot be unseen. Once you post or stream something, you cannot control every copy of it. Privacy settings limit who sees content inside the Services; they do not guarantee that no one else will see it.
+**6.9 Public by default.** Most User Content is visible to every Hypefindr user. Content you share by link can be seen by anyone with the link, including people without an account, and may be indexed by search engines. Anyone can screenshot, screen-record or download what they see. Live streams are seen as they happen and cannot be unseen. Once you post or stream something, you cannot control every copy of it. Visibility settings (Public, Friends or Only you) control who sees your posts on your profile. A post you add to an event also appears with that event to anyone who can see the event. No setting guarantees that no one else will see your content.
 
 **6.10 We host; we do not author or check.** We do not pre-screen User Content and we do not endorse it. User Content is the sole responsibility of the person who posted it. We are a provider of an interactive computer service and are not the publisher or speaker of User Content. We may, but have no duty to, monitor, review, edit, label, restrict, age-gate, demote or remove any User Content at any time, for any reason or no reason, with or without notice.
 
-**6.11 We do not store your content for you.** Hypefindr is not a backup service. We may delete stream recordings and other User Content at any time, including after a set storage period, and we are not liable for any loss. Keep your own copies of anything that matters to you.
+**6.11 We do not store your content for you.** Hypefindr is not a backup service. We do not record live streams. Your profile keeps only your 30 most recent posts: when you add another, the oldest is deleted automatically. We may delete other User Content at any time, and we are not liable for any loss. Keep your own copies of anything that matters to you.
 
-**6.12 We record and review activity on the Services.** You agree that Hypefindr and its service providers may record, store, scan and review live streams, stream chat, comments, messages (including private messages), reports and other communications sent through the Services. We do this to operate the Services, detect and prevent abuse, child exploitation, fraud and illegal activity, enforce these Terms, and comply with law. You consent to this on behalf of yourself, and you confirm you have authority to consent for anyone you communicate with through the Services.
+**6.12 We store and review activity on the Services.** You agree that Hypefindr and its service providers may store, scan and review posts, live chat (including through an automatic word filter), reports and other communications sent through the Services, and may watch any live stream while it is on air. We do this to operate the Services, detect and prevent abuse, child exploitation, fraud and illegal activity, enforce these Terms, and comply with law. You consent to this on behalf of yourself, and you confirm you have authority to consent for anyone you communicate with through the Services.
 
 **6.13 Content from others.** You may see User Content that is offensive, false, misleading, harmful, illegal, mislabeled or dangerous. You view and rely on it at your own risk.
 
@@ -142,23 +142,23 @@ We respond to notices of claimed copyright infringement under the Digital Millen
 
 **10.3 Streaming rules.** You must follow the Live Streaming and Recording Policy, including recording-consent laws, venue rules, restricted places, and the ban on streaming copyrighted performances and broadcasts you do not have rights to.
 
-**10.4 Live content is not reviewed in advance.** We do not watch streams before or while they air. We may interrupt, end, mute, blur, delay, age-gate, label or remove any stream at any time, and we may restrict the account behind it.
+**10.4 Live content is not reviewed in advance.** We do not review streams before they air and we do not watch every stream while it airs. We may remove any stream from every feed and the map, hide its chat messages, and suspend or ban the account behind it, at any time.
 
 **10.5 Viewers watch at their own risk.** Streams are unscripted and happen in real places. A stream may suddenly show violence, injury, accidents, nudity, crime, police activity or other disturbing events.
 
-**10.6 Streaming reveals where you are.** Your stream appears on the map at the place you are streaming from, close enough for people to find it. Viewers can work out exactly where you are from the map, the video, signs and landmarks, in real time. You accept that risk every time you go live.
+**10.6 Streaming reveals where you are.** Your stream appears on the map at the place you are streaming from, close enough for people to find it, and its preview clip stays on the event after you stop. Viewers can work out exactly where you are from the map, the video, signs and landmarks, in real time. You accept that risk every time you go live.
 
 **10.7 No payment for streaming.** You are not paid for streaming or for any views, reactions or attendance it generates. If we launch tips, gifts, subscriptions, revenue sharing or any other monetization, separate terms will govern it.
 
 ### 11. Location features and check-ins
 
-**11.1 How the app uses your location.** With your permission, the app uses your device's precise location while it is open to show what is near you and to place your posts, streams and events on the map. If you grant "Always" location permission, the app also uses your location in the background to notice when you arrive at an upcoming event and ask whether you want to check in. The Privacy Policy explains exactly what we collect, keep and share.
+**11.1 How the app uses your location.** With your permission, the app uses your device's precise location while it is open to show what is near you and to place your posts, streams and events on the map. "Always" location is optional and is asked for only after you Pull up to an event. If you allow it, your iPhone tells the app when you arrive at an event you pulled up to, and the app checks you in automatically, even when it is closed. The Privacy Policy explains exactly what we collect, keep and share.
 
-**11.2 What your location shows other people.** Events are shown at their actual location so people can find them. Posts and streams are shown at the place they were created, close enough to find it. Check-ins show other users that you were at an event, and may show it while you are still there. Taken together, this can reveal where you are, where you live, work or study, and your routine. Before you post, stream or check in, decide whether you are comfortable with strangers knowing where you are. If anyone is stalking, threatening or looking for you, do not check in or go live.
+**11.2 What your location shows other people.** Events are shown at their actual location so people can find them. Posts and streams are shown at the place they were created, close enough to find it. Check-ins appear in your attendance passport, which other users can see, and your friends can see where your most recent post or stream was, sometimes while you are still there. Taken together, this can reveal where you are, where you live, work or study, and your routine. Before you post, stream or check in, decide whether you are comfortable with strangers knowing where you are. If anyone is stalking, threatening or looking for you, do not check in or go live.
 
 **11.3 Maps and locations may be wrong.** Locations, maps, place names, distances, directions, event times and "live now" indicators may be inaccurate, outdated or incomplete. Directions may lead through closed, private, unlit or unsafe areas. Do not rely on the Services for navigation or safety decisions. Never use the app while driving or operating any vehicle.
 
-**11.4 Check-ins must be honest.** A check-in is your yes-or-no answer when the app asks whether you are at an event. Only answer yes if you are physically there. You may not fake your location by any method, including GPS spoofing apps, emulators, modified devices, VPN or proxy tricks, or another person's device. We may void any check-in, reverse any score or title that depended on it, and suspend or ban your account.
+**11.4 Check-ins must be honest.** A check-in records that you were physically at an event. It happens automatically when you arrive, if you allowed "Always" location, or when you tap a check-in prompt or reminder, and our server confirms you are within about 150 meters of the event while it is on. Only check in if you are really there. You may not fake your location by any method, including GPS spoofing apps, emulators, modified devices, VPN or proxy tricks, or another person's device. We may void any check-in, reverse any score or title that depended on it, and suspend or ban your account.
 
 **11.5 Turning location off.** You can withdraw location permission at any time in your device settings. Some features, including automatic check-ins and nearby discovery, will stop working.
 
@@ -182,7 +182,7 @@ We respond to notices of claimed copyright infringement under the Digital Millen
 
 **12.4 Tickets and payments.** Hypefindr does not sell tickets or process payments for events. Any ticket, cover charge, deposit or other payment is solely between you and the person you pay. We are not responsible for refunds, cancellations, counterfeit tickets, fraud or chargebacks. Never pay someone you met through Hypefindr by gift card, wire, cryptocurrency or any other untraceable method.
 
-**12.5 Atmosphere Score and other indicators.** Atmosphere Scores, crowd indicators, "live now" labels and similar signals are generated from user activity and our algorithms. They are not statements of fact by Hypefindr, not reviews by Hypefindr, and not safety ratings. A high score does not mean an event is safe, lawful or as described.
+**12.5 Counts and other indicators.** Pull up and check-in counts, energy, atmosphere averages, "live now" labels and similar signals are generated from user activity and our algorithms. They are not statements of fact by Hypefindr, not reviews by Hypefindr, and not safety ratings. A high score does not mean an event is safe, lawful or as described.
 
 **12.6 We control listings.** We may remove, hide, edit for formatting, relabel, age-gate, or limit the reach of any event listing at any time.
 
@@ -198,25 +198,25 @@ We respond to notices of claimed copyright infringement under the Digital Millen
 
 ### 14. Emergencies: Hypefindr is not an emergency service
 
-**14.1 Call your local emergency number.** If you or anyone else is in danger, call 911 in the United States, or your local emergency number. Do not use a stream, chat, post or report to Hypefindr to get help in an emergency. We do not monitor streams in real time, and a report may not be read for hours or longer.
+**14.1 Call your local emergency number.** If you or anyone else is in danger, call 911 in the United States, or your local emergency number. Do not use a stream, chat, post or report to Hypefindr to get help in an emergency. We do not monitor streams in real time, and we aim to review reports within 24 hours, which is far too slow for an emergency.
 
 **14.2 We may contact authorities.** We may, but have no duty to, contact emergency services or law enforcement when we believe someone may be at risk of death or serious injury, and share information with them, including location. We are not liable for contacting or not contacting them.
 
 **14.3 Crisis support.** If you are thinking about suicide or self-harm, call or text 988 in the United States to reach the 988 Suicide & Crisis Lifeline, available 24 hours a day, or contact a local crisis line.
 
-### 15. Scores, titles, badges, crowns, streaks and invites
+### 15. Scores, titles, badges, streaks and invites
 
-Hype Score, Atmosphere Score, Streaks, Ripples, titles, badges, City Crown, Referral Trail, invite codes, Hype Wrapped and similar features are governed by the Points, Scores and Referral Program Terms. They have no monetary value, are not your property, cannot be sold or transferred, and can be changed, reset, revoked or discontinued by us at any time. They are not a contest, sweepstakes or game of chance.
+Hype Score, titles, badges, streaks, passports, atmosphere averages, invite codes, Wrapped and similar features are governed by the Points, Scores and Referral Program Terms. They have no monetary value, are not your property, cannot be sold or transferred, and can be changed, reset, revoked or discontinued by us at any time. They are not a contest, sweepstakes or game of chance.
 
-### 16. Messages, Crews and interactions
+### 16. Chat, Crews and interactions
 
-**16.1 Messages are not private from us.** Chat and messages on Hypefindr are not end-to-end encrypted. We can access them as described in Section 6.12 and the Privacy Policy.
+**16.1 Chat is not private.** Hypefindr has no private messaging. Live chat is public to everyone watching, is not end-to-end encrypted, and we can access it as described in Section 6.12 and the Privacy Policy.
 
 **16.2 Crews.** A Crew is a feature of the app. It is not a legal entity, partnership, club or organization sponsored by Hypefindr. Crew founders and leaders are not our agents and have no authority to act for us. Crew names and descriptions are User Content. We may rename, restrict or dissolve any Crew.
 
 **16.3 Blocking has limits.** Blocking and other safety tools reduce contact but cannot stop all of it. A blocked person may still see public content, use share links, create another account in breach of these Terms, or find you in person at a public event.
 
-**16.4 Limits on interaction.** We may limit how many messages, invitations, follows, reactions, posts, check-ins or streams any account can send or make, and may restrict who can contact whom.
+**16.4 Limits on interaction.** We limit how fast anyone can send chat messages, and we may limit how many friend requests, Meet Up requests, Let Them Know alerts, reactions, posts, check-ins or streams any account can send or make, and restrict who can contact whom.
 
 ## Part 4. Rules, enforcement and termination
 
@@ -233,11 +233,11 @@ The Community Guidelines set out the detailed rules. In addition, you may not us
 - Buy, sell, trade, give away or promote illegal goods or services, firearms, ammunition, firearm parts, explosives, drugs, prescription medicine, alcohol, tobacco, vaping products, cannabis, counterfeit goods or stolen property.
 - Offer, request or facilitate prostitution, commercial sex, escort services, sexual services, or sex or labor trafficking.
 - Run, promote or facilitate gambling or betting.
-- Fake your location, fake a check-in, or manipulate any score, title, ranking, Atmosphere Score, City Crown, Ripple, Streak, referral or count.
+- Fake your location, fake a check-in, or manipulate any score, title, badge, streak, ranking, referral or count.
 - Buy, sell or trade accounts, usernames, followers, views, reactions, check-ins or invite codes.
 - Create fake, duplicate, automated or bot accounts, or create a new account to get around a suspension, ban or block.
 - Impersonate any person, business, organization, public official, or anyone who works on Hypefindr, or misrepresent your affiliation with anyone.
-- Send spam, unsolicited commercial messages, chain messages or mass invitations.
+- Send spam, unsolicited commercial messages, chain messages, mass friend or Meet Up requests, or mass invitations.
 - Phish, collect other users' login details or personal information, or distribute malware.
 - Hack, probe, scan or test the vulnerability of the Services, overload them, bypass rate limits, age gates, geofences, blocks or any security or access control, or access them through any unofficial app, client or automated means. Good-faith security research reported to {{CONTACT_EMAIL}} with the subject "Security," without accessing other users' data or disrupting the Services, is not a violation.
 - Use the Services to surveil, profile or track any user or group of users, including for a government agency, employer, private investigator or data broker, outside valid legal process.
@@ -252,13 +252,13 @@ The Community Guidelines set out the detailed rules. In addition, you may not us
 
 **18.1 We decide.** We decide, in our sole discretion, whether User Content or conduct breaks these Terms or the Community Guidelines. We may consider conduct outside the Services, including conduct at events found through Hypefindr, criminal charges or convictions, and credible reports of violence or sexual misconduct.
 
-**18.2 What we may do.** We may take any of these actions, alone or together, with or without notice: remove or restrict content; limit reach or discoverability; age-gate or label content; issue warnings or strikes; remove features such as streaming, hosting, messaging or check-ins; void scores, titles or referrals; suspend or permanently ban an account; preserve data; and report to law enforcement or the National Center for Missing & Exploited Children (NCMEC).
+**18.2 What we may do.** We may take any of these actions, alone or together, with or without notice: hide or remove content; suspend an account for a period, during which it cannot sign in; permanently ban an account; void scores, titles or referrals; preserve data; and report to law enforcement or the National Center for Missing & Exploited Children (NCMEC).
 
 **18.3 Notice.** We usually tell you when we act against your account or content. We may not, if telling you could harm someone, interfere with an investigation, help someone evade detection, or break the law.
 
 **18.4 Appeals.** You may appeal as described in the Enforcement, Moderation and Appeals Policy. An appeal is a review by us, not a legal proceeding. Section 28 governs any legal claim.
 
-**18.5 Automated tools.** We may use automated tools alongside human review. They make mistakes.
+**18.5 Automated tools.** Some actions are automatic: an automatic word filter hides chat messages, and content reported by 3 different people is hidden until someone reviews it. A person reviews every report. Automated tools make mistakes.
 
 **18.6 No duty to you.** Our moderation does not create any duty to you or to anyone else. Not enforcing a rule in one case does not waive our right to enforce it in another. We are not liable for removing, or for failing to remove, any content or account.
 
@@ -276,15 +276,15 @@ The Community Guidelines set out the detailed rules. In addition, you may not us
 
 ### 20. Third-party services and links
 
-The Services rely on and link to services we do not control, including Sign in with Apple, Sign in with Google, Mapbox maps, ticketing sites, venue websites and other users' links. Their terms and privacy policies apply to your use of them. We do not endorse them and are not responsible for their content, availability, security, accuracy or conduct, or for any transaction between you and them.
+The Services rely on and link to services we do not control, including Sign in with Apple, Sign in with Google, Mapbox maps, the ride and map apps you can open for directions (such as Uber, Lyft, Waze, Google Maps and Apple Maps), ticketing sites, venue websites and other users' links. Their terms and privacy policies apply to your use of them. We do not endorse them and are not responsible for their content, availability, security, accuracy or conduct, or for any transaction between you and them.
 
 ### 21. Paid features
 
-The Services are currently free. If we offer paid features, subscriptions or virtual items, the price and key terms will be shown before you buy, and purchases made through the Apple App Store or Google Play are processed by them under their terms and refund policies. Virtual items and premium features are a limited license, have no cash value, cannot be exchanged for money, and may be changed or discontinued. Any subscription that renews automatically will say so before you buy and can be canceled as the applicable store and law provide. Except where the law requires otherwise, all purchases are final and non-refundable.
+The Services are currently free. If we offer paid features, subscriptions or virtual items, the price and key terms will be shown before you buy, and purchases made through the Apple App Store are processed by Apple under its terms and refund policies. Virtual items and premium features are a limited license, have no cash value, cannot be exchanged for money, and may be changed or discontinued. Any subscription that renews automatically will say so before you buy and can be canceled as the applicable store and law provide. Except where the law requires otherwise, all purchases are final and non-refundable.
 
 ### 22. Devices, data charges and updates
 
-You need a compatible device and an internet connection to use the Services. You are responsible for all mobile data, roaming and other charges from your carrier. Background location and live streaming use significant battery and data. We may require you to install updates to keep using the Services, and older versions may stop working.
+You need a compatible device and an internet connection to use the Services. You are responsible for all mobile data, roaming and other charges from your carrier. Live streaming and video use significant battery and data. We may require you to install updates to keep using the Services, and older versions may stop working.
 
 ## Part 5. Disclaimers, risk, liability and indemnity
 
@@ -301,7 +301,7 @@ In this Part, "Hypefindr Parties" means Hypefindr, the people who create and ope
 - **ANY EVENT EXISTS, IS LAWFUL, IS SAFE, IS AS DESCRIBED, OR WILL TAKE PLACE;**
 - **ANY USER IS WHO THEY CLAIM TO BE, IS THE AGE THEY CLAIM, OR IS SAFE TO MEET;**
 - **MODERATION, AGE GATES, BLOCKING OR REPORTING TOOLS WILL DETECT OR STOP HARMFUL CONTENT OR CONDUCT;**
-- **ANY STREAM, RECORDING, MESSAGE OR OTHER CONTENT WILL BE DELIVERED, RECORDED OR STORED.**
+- **ANY STREAM, POST, CHAT MESSAGE, NOTIFICATION OR OTHER CONTENT WILL BE DELIVERED OR STORED.**
 
 **23.3 No professional advice; your wellbeing.** Nothing on the Services is legal, medical, safety, travel or other professional advice. You control how much you use the Services. Use notification settings, take breaks, and stop using the Services if they affect your sleep, mood, safety, relationships, school or work. If you are struggling, call or text 988 in the United States, or contact a local crisis line.
 
@@ -435,9 +435,9 @@ If you downloaded the app from the Apple App Store, these terms also apply and c
 9. Questions, complaints or claims about the app go to Hypefindr at the contact details in Section 32.
 10. Apple and its subsidiaries are third-party beneficiaries of these Terms. When you accept these Terms, Apple has the right, and is deemed to have accepted the right, to enforce them against you as a third-party beneficiary.
 
-### 31. Google Play terms
+### 31. Other app stores
 
-If you downloaded the app from Google Play, Google is not a party to these Terms and has no responsibility for the app. The Google Play Terms of Service also apply to your download and use of the app.
+Hypefindr is currently available only for iPhone, from the Apple App Store. If we offer the app through another store, that store is not a party to these Terms, and its own terms also apply to your download and use of the app.
 
 ### 32. Contact
 

@@ -52,13 +52,13 @@ export const LEGAL_DOCS = [
     slug: "points-and-referrals",
     href: "/legal/points-and-referrals",
     title: "Points, Scores and Referral Program Terms",
-    description: "Hype Score, City Crown, Streaks, Ripples and invites have no monetary value.",
+    description: "Hype Score, titles, badges, streaks and invites have no monetary value.",
   },
   {
     slug: "enforcement",
     href: "/legal/enforcement",
     title: "Enforcement, Moderation and Appeals",
-    description: "How Hypefindr reviews reports, applies strikes, suspends or bans accounts, and handles appeals.",
+    description: "How Hypefindr reviews reports, removes content, suspends or bans accounts, and handles appeals.",
   },
   {
     slug: "law-enforcement",

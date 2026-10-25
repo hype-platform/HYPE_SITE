@@ -4,7 +4,7 @@ Hypefindr is only for adults, and it has zero tolerance for the sexual exploitat
 
 ## 1. You must be 18 or older
 
-You must be at least 18 to have a Hypefindr account. Sign-up blocks anyone who enters a date of birth under 18. If we learn that a user is under 18, we delete the account and its data. A parent's permission does not change this.
+You must be at least 18 to have a Hypefindr account. Every account must give a name and date of birth before using the app, and our server refuses any date of birth under 18. If we learn that a user is under 18, we delete the account and its data. A parent's permission does not change this.
 
 ## 2. What is never allowed
 
@@ -13,15 +13,15 @@ Every item here is **zero tolerance**: an immediate permanent ban and, where the
 - **Child sexual abuse material (CSAM)** in any form: photos, video, streams, drawings, animation, AI-generated or edited images, or text describing sexual activity with a minor.
 - **Sexualizing minors,** including sexual comments about a minor or a minor's body, and sharing "non-nude" images of minors in a sexualized way.
 - **Grooming and contact:** using Hypefindr to find, contact, build trust with or meet anyone under 18 for any sexual or exploitative purpose, including asking for photos, secrecy or personal details, offering gifts or money, or moving the conversation to another app.
-- **Private meetings:** using messages, Crews or events to arrange a private one-on-one meeting with a minor you do not already know offline.
+- **Private meetings:** using chat, Meet Up requests, Crews or events to arrange a private one-on-one meeting with a minor you do not already know offline.
 - **Sextortion:** threatening to share intimate images of a minor, or of anyone, to get money, more images or anything else.
 - **Trafficking:** recruiting, advertising, buying or selling a minor for sex or labor.
-- **Exposing minors to sexual content,** including sending sexual images or messages to a minor.
+- **Exposing minors to sexual content,** including showing or sending sexual images or messages to a minor.
 - **Harmful content involving minors:** minors being abused, endangered, humiliated, or given alcohol, drugs or weapons.
 
 ## 3. How we find it
 
-We act on user reports and on what we see when we review content and accounts.
+We act on user reports and emails, and on what we see when we review content and accounts. Live chat also passes through an automatic word filter. A person on our team reviews every report.
 
 ## 4. What we do when we find it
 
@@ -34,7 +34,7 @@ We do not tell the reported account that a report was made to NCMEC.
 
 ## 5. How to report
 
-- **In the app:** report the account, message, post or stream and choose the child safety reason.
+- **In the app:** report the post, live stream, event or chat message and choose "Nudity or sexual" or "Something else." Then email us as well, so we know it concerns a child.
 - **By email:** {{CONTACT_EMAIL}}, subject "Child Safety." Describe what you saw and include links or usernames. **Do not send the images themselves.**
 - **To NCMEC directly:** report.cybertip.org or 1-800-843-5678.
 - **If a minor's intimate images are being shared:** NCMEC's Take It Down service at takeitdown.ncmec.org can help remove them from participating platforms.
@@ -43,7 +43,7 @@ Never screenshot, download, save or forward child sexual abuse material, even to
 
 ## 6. Someone under 18 on Hypefindr
 
-If you believe someone under 18 has an account, report the profile in the app or email {{CONTACT_EMAIL}} with the subject "Underage Account" and the username. Parents and guardians can do the same. We delete the account and its data.
+If you believe someone under 18 has an account, email {{CONTACT_EMAIL}} with the subject "Underage Account" and the username, or report one of their posts or live streams in the app and choose "Something else." Parents and guardians can do the same. We delete the account and its data.
 
 ## 7. Minors in content
 

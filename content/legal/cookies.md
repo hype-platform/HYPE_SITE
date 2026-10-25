@@ -1,10 +1,10 @@
-hypefindr.net currently sets no cookies and runs no analytics, advertising or tracking scripts. This notice covers the website only. The [Privacy Policy](/privacy) covers the app.
+hypefindr.net currently sets no cookies and runs no analytics, advertising or tracking scripts. This notice covers the website only. The [Privacy Policy](/privacy) covers the app and the share pages at go.hyped.stream.
 
 ## 1. What the website collects
 
 | What | Why | How long |
 | --- | --- | --- |
-| Server logs kept by our hosting provider: IP address, browser and device type, page requested (including any invite code in the link), referring page, date and time | Delivering pages, security, preventing abuse | Up to 30 days, unless needed to investigate abuse |
+| Server logs kept by our hosting provider, Vercel: IP address, browser and device type, page requested (including any invite code in the link), referring page, date and time | Delivering pages, security, preventing abuse | Up to 30 days, unless needed to investigate abuse |
 | Emails you send to the address listed on the site | Answering you | As described in the Privacy Policy |
 
 Fonts and images are served from our own domain, so loading a page does not send your information to font or image services.

@@ -7,7 +7,7 @@ Hypefindr shows you what is happening. It does not run any of it. Every event on
 | Show events, posts and streams that users create | Organize, host, promote, staff, secure, insure or supervise any event |
 | Remove listings and accounts that break our rules, when we learn of them | Check that events exist, are lawful, have permits, are safe or are accurately described |
 | Give you tools to report, block and hide content | Verify the identity, age or background of hosts or attendees |
-| Show crowd signals such as Atmosphere Score | Rate safety, check capacity, or guarantee anything about a crowd |
+| Show signals such as Pull up and check-in counts, energy and atmosphere averages | Rate safety, check capacity, or guarantee anything about a crowd |
 
 ## 2. If you host or list an event
 
@@ -17,7 +17,7 @@ You are the organizer, and you alone are responsible for the event and for every
 2. **Have the right to the place.** Get the owner's or venue's permission. Never list a private home without the owner's consent, and never publish an address you are not authorized to share.
 3. **Get permits and follow the law.** Obtain every permit and license required, and follow fire-code capacity, noise, liquor, food safety, accessibility, zoning and public assembly laws.
 4. **Control the crowd.** Do not invite more people than the place can safely hold. Provide security, crowd management, first aid and clear exits suited to the crowd you expect.
-5. **Check ID.** For any event with an age limit, check government ID at the door. The app's age tag is not age verification.
+5. **Check ID.** For any event with an age limit, check government ID at the door. The app's 18+ or 21+ rating is not age verification.
 6. **Never serve minors.** Do not provide alcohol, cannabis, tobacco, vapes or drugs to anyone under the legal age.
 7. **Plan for emergencies.** Know the nearest exits, how to reach emergency services, and who is in charge if something goes wrong.
 8. **Cancel properly.** If the event is canceled or changed, update or remove the listing immediately. Refunds for anything you charged are your responsibility.
@@ -36,7 +36,7 @@ You are the organizer, and you alone are responsible for the event and for every
 
 ## 4. Age limits at events
 
-Every Hypefindr user must be 18 or older, but the events people list may be open to anyone. Age tags (All ages, 18+, 21+) describe who may attend an event. They depend on what hosts tell us and on the dates of birth users give us. We cannot guarantee that everyone at an 18+ or 21+ event is of age, or that an "All ages" event is suitable for children. Hosts must check ID. Parents and guardians are responsible for the events their children attend.
+Every Hypefindr user must be 18 or older, but the real-world events people list may be open to anyone. Every event and post in the app is rated 18+ (the default) or 21+. A 21+ rating means the app shows it only to users whose date of birth says they are 21 or older. Ratings depend on what hosts choose and on the dates of birth users give us. We cannot guarantee that everyone at an event is of age. Hosts must check ID. Parents and guardians are responsible for the events their children attend.
 
 ## 5. Public happenings no one listed
 
@@ -48,7 +48,7 @@ You may share lawful protests and demonstrations. Hypefindr takes no position on
 
 ## 7. Weather, cancellations and changes
 
-Events may be canceled, moved or changed without the listing being updated. We do not reliably notify users of changes. Check weather and official sources before you go.
+Events may be canceled, moved or changed without the listing being updated. Reminders for events you pulled up to are sent automatically and do not mean the details are still right. Check weather and official sources before you go.
 
 ## 8. Tickets and payments
 
@@ -56,12 +56,12 @@ Hypefindr does not sell tickets or process payments for events. Any money you pa
 
 ## 9. Venues and businesses
 
-If your venue or business is named in an event you did not approve, or a listing falsely claims your affiliation or uses your property without permission, email {{CONTACT_EMAIL}} with the subject "Venue Request," the link to the listing, and proof of your connection to the venue. We will review it and may remove or relabel the listing. We do not remove truthful posts, photos, opinions or Atmosphere Scores just because they are negative. Atmosphere Scores reflect user activity and our algorithms, not Hypefindr's opinion.
+If your venue or business is named in an event you did not approve, or a listing falsely claims your affiliation or uses your property without permission, email {{CONTACT_EMAIL}} with the subject "Venue Request," the link to the listing, and proof of your connection to the venue. We will review it and may remove or relabel the listing. We do not remove truthful posts, photos or opinions just because they are negative. Counts, energy and atmosphere averages reflect user activity and our algorithms, not Hypefindr's opinion.
 
 ## 10. If something happened at an event
 
 1. Call 911, your local emergency number, or the police.
-2. Report the event, host or users in the app.
+2. Report the event, or the posts and live streams involved, in the app, or email {{CONTACT_EMAIL}} with the subject "Safety."
 3. Ask the police to contact us if they need records. We preserve relevant data when we receive a valid preservation request.
 
 We do not investigate crimes, and we do not give information about users to other users or their lawyers without valid legal process, such as a subpoena. See the [Law Enforcement Guidelines](/legal/law-enforcement).

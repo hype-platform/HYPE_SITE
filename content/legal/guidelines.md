@@ -4,11 +4,11 @@ Hypefindr has zero tolerance for objectionable content and abusive users. These 
 
 ## How these rules apply
 
-- **Everywhere on Hypefindr.** Profiles, usernames, photos, bios, posts, live streams, stream chat, direct messages, comments, events, Crews, check-ins, reactions and anything shared from Hype Wrapped.
+- **Everywhere on Hypefindr.** Profiles, usernames, photos, bios, posts, captions, live streams and their preview clips, live chat and asks, events and plans, Crews, Pull ups, check-ins, reactions, friend requests, Meet Up requests, Let Them Know alerts, share links and anything shared from Wrapped.
 - **At events.** What you do at an event you found, listed, promoted or streamed through Hypefindr counts, even when your phone is in your pocket.
 - **Off Hypefindr.** We may act on conduct elsewhere that puts our users at risk, such as a conviction for a violent or sexual offense, credible reports of abuse, or organizing harm against our users on another platform.
 - **For everyone you bring in.** You are responsible for guests on your stream, people at your event, and the chat you choose to display.
-- **Context matters, but we decide.** News, documentary, education and awareness content may be allowed when it does not glorify harm. We may label it, blur it, age-gate it or limit its reach. We decide what crosses the line.
+- **Context matters, but we decide.** News, documentary, education and awareness content may be allowed when it does not glorify harm. We may still remove it. We decide what crosses the line.
 - **Zero tolerance.** Rules marked **[Zero tolerance]** lead to an immediate permanent ban with no warning. Where the law requires or permits, we report to law enforcement or NCMEC.
 - **Getting around a rule breaks the rule.** Coded language, misspellings, emojis, "jokes," "asking for a friend," links to other sites, and splitting content across posts are all treated the same as saying it directly.
 
@@ -24,7 +24,7 @@ Not allowed:
 - Showing or brandishing weapons to intimidate, or carrying weapons into events where they are banned.
 - Instructions for making weapons, explosives, untraceable firearms or incendiary devices.
 - Wishing death or serious harm on anyone.
-- Graphic violence or gore shown for shock value, and footage of real people being seriously injured or killed, except limited news content that we may age-gate.
+- Graphic violence or gore shown for shock value, and footage of real people being seriously injured or killed, except limited news content that we may allow.
 
 ## 2. Dangerous acts
 
@@ -47,7 +47,7 @@ Not allowed:
 - Streaming or posting self-harm or a suicide attempt.
 - Encouraging another person to hurt themselves, including in chat.
 
-If we see someone at risk, we may end the stream, show support resources, and contact emergency services. Sharing recovery stories is allowed without graphic detail. If you are struggling, call or text **988** in the United States to reach the 988 Suicide & Crisis Lifeline, any time, or contact a local crisis line.
+If we see someone at risk, we may take the stream down and contact emergency services. Sharing recovery stories is allowed without graphic detail. If you are struggling, call or text **988** in the United States to reach the 988 Suicide & Crisis Lifeline, any time, or contact a local crisis line.
 
 ## 4. Child safety
 
@@ -72,7 +72,7 @@ Hypefindr is not a place for sexual content, even though every user is an adult.
 - **[Zero tolerance]** Sharing or threatening to share intimate images of anyone without their consent, including AI-generated or edited "deepfake" images. We remove reported intimate images within 48 hours under the TAKE IT DOWN Act.
 - **[Zero tolerance]** Upskirting, downblousing, voyeurism, and filming anyone in a bathroom, locker room, changing area or bedroom.
 - Offering, requesting or advertising sex, escorting, "sugar" arrangements or sexual services, or linking to adult content sites.
-- Unwanted sexual messages, comments, images or advances, online or at events.
+- Unwanted sexual chat messages, requests, images or advances, online or at events.
 
 ## 6. Hate and discrimination
 
@@ -140,7 +140,7 @@ If you list, host or promote an event, the [Events, Safety and Assumption of Ris
 - Events that misstate what, where or when they are, or that will not happen.
 - Events at private homes without the owner's consent, or that publish an address you are not authorized to share.
 - Events that involve illegal activity, including underage drinking, drug sales, illegal gambling, unpermitted street gatherings, fights or takeovers.
-- Tagging an event "All ages" when it involves alcohol, adult entertainment or other content not suitable for minors.
+- Leaving the 21+ rating off an event or post that involves alcohol or anything else that should only reach people 21 or older.
 - Announcing giveaways, surprise appearances or meetups likely to draw more people than the place can safely hold, without arrangements with the venue and, where required, the authorities.
 - Charging for events through Hypefindr by asking for gift cards, wire transfers, cryptocurrency or similar untraceable payments.
 - Listing or promoting someone else's event, venue or brand in a way that suggests you are the official organizer when you are not.
@@ -149,9 +149,9 @@ If you list, host or promote an event, the [Events, Safety and Assumption of Ris
 
 Not allowed:
 
-- Answering yes to a check-in when you are not at the event, or checking in for other people.
+- Checking in when you are not at the event, or checking in for other people.
 - Faking your location by any method, including GPS spoofing apps, emulators, modified devices, VPN tricks, or someone else's phone.
-- Inflating any score, title, Streak, Ripple, Atmosphere Score, City Crown or referral count through bots, scripts, coordinated fake activity, multiple accounts or paid help.
+- Inflating any score, title, badge, streak, atmosphere average, Pull up count or referral count through bots, scripts, coordinated fake activity, multiple accounts or paid help.
 - Buying, selling, trading or giving away accounts, usernames, followers, views, reactions, check-ins or invite codes.
 - Mass-inviting people, or creating fake accounts to claim referrals.
 - Exploiting bugs to gain scores or features. Report bugs to {{CONTACT_EMAIL}} with the subject "Security" instead.
@@ -173,7 +173,7 @@ Not allowed:
 
 Not allowed:
 
-- Repetitive, unsolicited or irrelevant posts, messages, comments or invitations.
+- Repetitive, unsolicited or irrelevant posts, chat messages, friend requests, Meet Up requests, Let Them Know alerts or invitations.
 - Fake giveaways, fake ticket sales, ticket scalping where it is illegal, and selling tickets you do not have.
 - Phishing, collecting login details or verification codes, or sending malicious links.
 - Investment, cryptocurrency, money-flipping, pyramid and "get rich" schemes.
@@ -221,14 +221,14 @@ Not allowed:
 ## 18. Paid promotion and commercial content
 
 - If you are paid, sponsored, given free products or entry, or otherwise rewarded to post, stream or promote something, you must clearly disclose it, as the law requires (in the United States, the FTC Endorsement Guides). Use plain words such as "#ad" or "paid partnership" at the start of the post or stream.
-- Businesses and venues may promote their own lawful events. They may not post fake reviews, fake check-ins or fake attendance, or pay users to inflate Atmosphere Scores.
+- Businesses and venues may promote their own lawful events. They may not post fake check-ins or fake attendance, or pay users to inflate reactions, Pull ups or check-ins.
 - Content made for pay that features a child is subject to Minnesota's law on minors in content creation and similar laws. Creators are responsible for complying.
 
 ## 19. How to report
 
 1. **Danger now:** call 911 or your local emergency number first.
-2. **In the app:** use the report button on any profile, post, stream, chat message, event or Crew. Choose the closest reason and add details.
-3. **Block:** block any account from its profile. Blocking is not a substitute for reporting.
+2. **In the app:** use the report button on any post, live stream, event or upcoming plan, or press and hold a chat message. Choose the closest reason: Spam or scam, Nudity or sexual, Violence or danger, Hate or harassment, Self-harm, or Something else. To report a person, report something they posted, or email us.
+3. **Block:** block someone from their profile, from the report sheet, or by pressing and holding their chat message. You stop seeing each other's content and chat. Blocking is not a substitute for reporting.
 4. **By email:** {{CONTACT_EMAIL}}, with the subject "Safety" for safety issues, "Copyright" or "Intimate Image Removal" for removal requests, and "Underage Account" for anyone under 18.
 5. **Without an account:** use the email address above. You do not need an account to report.
 
@@ -236,8 +236,9 @@ We do not tell the reported person who reported them, except where the law requi
 
 ## 20. What happens next
 
-- We aim to review reports within 24 hours, and faster for reports involving threats, child safety or intimate images. Intimate image removal requests under the TAKE IT DOWN Act are handled within 48 hours of a valid request.
-- If content or conduct breaks these guidelines, we remove it and act against the account. Actions range from a warning to a permanent ban, depending on severity and history. The [Enforcement, Moderation and Appeals Policy](/legal/enforcement) explains how.
+- Anything 3 different people report is hidden from everyone straight away, before anyone reviews it.
+- A person on our team reviews every report. We aim to act within 24 hours, and faster for reports involving threats, child safety or intimate images. Intimate image removal requests under the TAKE IT DOWN Act are handled within 48 hours of a valid request.
+- If content or conduct breaks these guidelines, we remove the content and may suspend the account for 7 or 30 days or ban it permanently, depending on severity and history. If it does not break them, we keep it up, and if it was hidden, it shows again. The [Enforcement, Moderation and Appeals Policy](/legal/enforcement) explains how.
 - Zero-tolerance violations lead to a permanent ban and, where required or appropriate, a report to law enforcement or NCMEC.
 - You can appeal most decisions.
 - False or abusive reporting is itself a violation.
