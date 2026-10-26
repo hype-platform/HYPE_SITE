@@ -1,4 +1,4 @@
-hypefindr.net currently sets no cookies and runs no analytics, advertising or tracking scripts. This notice covers the website only. The [Privacy Policy](/privacy) covers the app and the share pages at go.hyped.stream.
+hypefindr.net sets no cookies for visitors and runs no analytics, advertising or tracking scripts. The one exception is our internal staff dashboard at hypefindr.net/hype-analytics: when someone who works on Hypefindr signs in to it, it sets one sign-in cookie, used only on that part of the site. This notice covers the website only. The [Privacy Policy](/privacy) covers the app and the share pages at go.hyped.stream.
 
 ## 1. What the website collects
 
@@ -19,7 +19,7 @@ The website honors Global Privacy Control. Because we do not sell personal data 
 
 ## 4. Changes
 
-If we add cookies, analytics or any other tracking technology to the website, we will update this notice before we do, and ask for your consent where the law requires.
+If we add cookies for visitors, analytics or any other tracking technology to the website, we will update this notice before we do, and ask for your consent where the law requires.
 
 ## 5. Contact
 

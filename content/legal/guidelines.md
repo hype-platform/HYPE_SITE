@@ -237,7 +237,7 @@ We do not tell the reported person who reported them, except where the law requi
 ## 20. What happens next
 
 - Anything 3 different people report is hidden from everyone straight away, before anyone reviews it.
-- A person on our team reviews every report. We aim to act within 24 hours, and faster for reports involving threats, child safety or intimate images. Intimate image removal requests under the TAKE IT DOWN Act are handled within 48 hours of a valid request.
+- A person on our team reviews every report within 24 hours, and faster for reports involving threats, child safety or intimate images. Intimate image removal requests under the TAKE IT DOWN Act are handled within 48 hours of a valid request.
 - If content or conduct breaks these guidelines, we remove the content and may suspend the account for 7 or 30 days or ban it permanently, depending on severity and history. If it does not break them, we keep it up, and if it was hidden, it shows again. The [Enforcement, Moderation and Appeals Policy](/legal/enforcement) explains how.
 - Zero-tolerance violations lead to a permanent ban and, where required or appropriate, a report to law enforcement or NCMEC.
 - You can appeal most decisions.

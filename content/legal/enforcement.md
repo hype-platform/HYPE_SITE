@@ -15,7 +15,7 @@ This policy explains how we find violations, how reports are reviewed, what we c
 
 ## 3. How a person reviews
 
-Every report goes into a review queue that only the people who run Hypefindr can open. Reports about the same thing are reviewed together. Items waiting more than 24 hours are shown first, and we aim to decide every report within 24 hours, and faster for threats, child safety and intimate images. The reviewer sees the reported content, who posted it, the reasons given and when, and may look at the account's history and reliable information from outside Hypefindr.
+Every report goes into a review queue that only people who work on Hypefindr can open, each with their own staff account, and only if their role allows it. Reports about the same thing are reviewed together. We review every report within 24 hours, and faster for threats, child safety and intimate images. Anything waiting longer is shown first. The reviewer sees the reported content, who posted it, the reasons given and when, and may look at the account's history and reliable information from outside Hypefindr.
 
 Every decision is logged with the reviewer's name, the time, the decision, an optional note, the reports it closed and how long the oldest report waited.
 

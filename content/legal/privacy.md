@@ -1,12 +1,12 @@
 ## Summary
 
 - Hypefindr is only for people 18 and older.
-- We collect your phone number or email, your profile details and date of birth, the photos, videos and live streams you make, your live chat messages, your Pull ups and check-ins, and how you use the app.
+- We collect your phone number or email, your profile details and date of birth, the photos, videos and live streams you make, your live chat messages, your Pull ups and check-ins, how you use the app, and reports of app errors.
 - We use your location while the app is open to show what is near you. If you also allow "Always" location, your iPhone tells the app when you arrive at an event you said you are going to, so it can check you in. We never store your device's coordinates or a history of where you have been.
 - Your posts, live streams and events appear on the map where they were made. Friends can see where your latest post or live stream was.
 - Live streams are not recorded.
-- We do not sell your personal data, show ads, or use advertising or analytics trackers.
-- The people who run Hypefindr review reports and can see the content and live chat they concern.
+- We do not sell your personal data or show ads. We measure how the app is used in our own database, not with other companies' analytics or advertising services.
+- A person on our team reviews every report within 24 hours and can see the content and live chat it concerns.
 - You can delete your account at any time in the app.
 
 The full policy follows. Capitalized terms not defined here have the meaning given in the [Terms of Service](/terms).
@@ -39,15 +39,19 @@ The full policy follows. Capitalized terms not defined here have the meaning giv
 
 **Activity.** What appears on your screen in Discover and on the map, what you tap, how long you watch lives and look at posts, which lives you watch, your reactions, saves, shares and follows, your Pull ups and check-ins, and the notifications you read or archive. We use this to rank what you see (Section 8) and to understand how Hypefindr is used.
 
-**Device and sign-in data.** When you sign in, our authentication provider records your IP address and your app's user agent, which shows the app build and iOS version, for each sign-in session. We also store your push notification token and whether you have notifications switched on. The app contains no advertising, analytics or crash-reporting software.
+**App usage events.** The app sends our own database a record when you open and close it, which screens you view and for how long, when you tap a notification, and when you take key actions, such as signing up, sharing, pulling up, checking in, publishing a post or plan, choosing a place, opening a ride app, or sending a friend request, Meet Up request or Let Them Know alert. On a phone's first launch it also records the link the app was opened with, without the part after the "?" except any campaign tags. These records hold the event, the time and a few details about it, such as an event's ID or whether a post was a photo or video, never the content of your posts or messages.
 
-**Before you sign in.** When you first open the app, it starts a temporary anonymous session with our authentication provider so that it can load. That session has an identifier but no name or contact details.
+**Error reports.** If something goes wrong in the app, it sends us the error message and the first few lines of the technical error report, so we can fix it.
+
+**Device and sign-in data.** With app usage events and error reports, the app sends your device model, iOS version, the app's version and build, your language and region setting, your time zone, and a random install ID. The app creates that ID on its first launch and keeps it on your phone until you delete the app. When you sign in, our authentication provider records your IP address and your app's user agent, which also shows the app build and iOS version, for each sign-in session. We also store your push notification token and whether you have notifications switched on. The app contains no advertising software. The map and Google sign-in software built into the app collect some data for Mapbox and Google, as Section 10.2 describes.
+
+**Before you sign in.** When you first open the app, it starts a temporary anonymous session with our authentication provider so that it can load. That session has an identifier but no name or contact details. App usage events and error reports are sent from the start, including before you sign in.
 
 **Live stream data.** When a live started and ended, its event and place, its peak viewer count, reactions, and the settings you chose for it.
 
 **Data we generate about you.** Your Hype Score (the points you earn in your active profile type), titles, badges, weekly streak, attendance passport, stream passport and broadcast list, your atmosphere average from reactions, your Wrapped summary, ranking signals, and moderation records (reports about your content, whether content was hidden, and any suspension or ban).
 
-**Website and share page data.** hypefindr.net uses no cookies. The [Website and Cookie Notice](/legal/cookies) explains what it does collect. The share pages at go.hyped.stream are served by Cloudflare, which receives your IP address and the link you opened.
+**Website and share page data.** hypefindr.net sets no cookies for visitors. The [Website and Cookie Notice](/legal/cookies) explains what it does collect. The share pages at go.hyped.stream are served by Cloudflare, which receives your IP address and the link you opened.
 
 ### 2.3 Information from other sources
 
@@ -80,6 +84,7 @@ Without "Always," you get a reminder when an event you pulled up to starts and a
 - **Content locations.** A post, live stream or event stores the place where it was made or planned, with a place name, and appears on the map at that place for as long as the content exists. When you create a plan, you can show its exact spot or a general area.
 - **Check-ins.** When you check in, the app sends your current position to our server once. The server checks that you are within 150 meters of the event (plus 50 meters for GPS error) during its check-in window, which runs from 1 hour before it starts until it ends. We then store only that you checked in, the distance in meters, and how it happened (automatically, from a notification, from a prompt or by tapping). Your position is discarded.
 - **Nearby results.** When Discover, the map or a feature such as going live needs to know what is near you, the app sends your position to our server with that request. We use it to answer the request and do not store it.
+- **Place search.** When you search for a place to tag, the app sends what you type and your location rounded to about 100 meters, so the closest matches come first. We do not keep a record of who searched for what. Cloudflare may keep a copy of the answer to a search for up to a day, with nothing that identifies you, so the same search is faster next time.
 - **On your phone only.** The list of events your iPhone is watching for auto check-in stays on your phone and is cleared when you sign out or delete your account. A check-in made while you are offline waits on your phone, with its position, until it can be sent.
 - **No movement history.** We do not keep a record of your device's coordinates or your movements.
 
@@ -144,7 +149,7 @@ The last column gives the legal basis we rely on where a law such as the GDPR re
 | Keep people safe: filter chat, hide content after repeated reports, review reports, enforce our rules, and report child sexual abuse material as the law requires | All categories | Legal obligation; legitimate interests |
 | Rank events, posts and live streams, and decide which notifications to send | Activity, location at the time of the request, interests, friends, Pull ups, check-ins | Contract; legitimate interests |
 | Send verification codes, reminders, check-in notifications, friend activity, service notices, policy changes and replies to your requests | Phone, email, push token | Contract; legal obligation |
-| Understand how Hypefindr is used and fix problems, in an internal dashboard that reads our own database and that only the people who run Hypefindr can open | Activity, account, content, device and sign-in data | Legitimate interests |
+| Understand how Hypefindr is used, find and fix errors, and see which app versions and devices people use, in an internal dashboard that reads our own database. Only people who work on Hypefindr can open it, each with their own staff account and only the parts their role needs | Activity, app usage events, error reports, account, content, device and sign-in data | Legitimate interests |
 | Comply with law, respond to legal process, enforce our Terms, and establish or defend legal claims | All categories | Legal obligation; legitimate interests |
 | Respond to emergencies involving risk of death or serious injury | All categories, including location | Vital interests |
 | Transfer Hypefindr to a company or a new owner | All categories | Legitimate interests |
@@ -165,7 +170,7 @@ The last column gives the legal basis we rely on where a law such as the GDPR re
 
 - Sell your personal data.
 - Share your personal data for cross-context behavioral or targeted advertising.
-- Use advertising or analytics software from other companies, or track you across other companies' apps and websites.
+- Use advertising software, use other companies' analytics services to study how you use Hypefindr, or track you across other companies' apps and websites. (The Mapbox and Google software built into the app collects limited data for those companies' own services, as Section 10.2 describes.)
 - Sell or share location data with data brokers or advertisers.
 - Use your chat messages for advertising.
 - Create biometric identifiers from your face or voice.
@@ -193,23 +198,23 @@ A host sees how many people pulled up to their event. Anyone with a share link (
 
 ### 10.2 Service providers
 
-These companies process personal data for us. They may use it only to provide their services to us, and must protect it.
+These companies process personal data for us. They may use it only to provide their services to us, and must protect it. The exceptions are the Mapbox and Google software built into the app, which also collects the data the table describes for those companies' own services, under their own privacy policies.
 
 | Provider | What it does for us | Data it receives |
 | --- | --- | --- |
-| Supabase | Sign-in, database, server functions, realtime updates, profile photo storage, and sign-in and password reset emails | Account data, content records, chat, check-ins, activity, profile photos, and the IP address and user agent of each sign-in session |
-| Cloudflare | Storing and delivering photos, videos and preview clips (R2), and serving share pages at go.hyped.stream | Media files, IP address, the share link opened |
+| Supabase | Sign-in, database, server functions, realtime updates, profile photo storage, and sign-in and password reset emails | Account data, content records, chat, check-ins, activity, app usage events and error reports, profile photos, and the IP address and user agent of each sign-in session |
+| Cloudflare | Storing and delivering photos, videos and preview clips (R2), serving share pages at go.hyped.stream, and our place search, which looks up venues in a copy of Foursquare's open places data | Media files, IP address, the share link opened; for place search, what you type, your IP address, and your location rounded to about 100 meters or the spot where you dropped a pin. Nothing is sent to Foursquare |
 | LiveKit | Live video | Live video and audio, IP address |
-| Mapbox | Maps, place search and directions | Your location when you use the map, search or directions, and your IP address. Mapbox's map software in the app may also send Mapbox technical and location data under Mapbox's own privacy policy |
+| Mapbox | Maps, directions, and place search when our own search finds nothing | Your location when you use the map, search or directions, and your IP address. Mapbox's map software in the app also collects location, usage, performance and diagnostic data that Mapbox does not link to your identity, for its own services, under Mapbox's privacy policy |
 | Expo | Delivering push notifications to Apple | Push token and notification content |
 | Apple | Sign in with Apple, push notifications, the App Store | Sign-in identifiers, push token and notification content |
-| Google | Sign in with Google, and our email inbox (Gmail) | Sign-in identifiers, and emails you send us |
+| Google | Sign in with Google, and our email inbox (Gmail) | Sign-in identifiers, and emails you send us. Google's sign-in software in the app also collects sign-in data, an approximate location, a device identifier and usage data, linked to your Google account, under Google's privacy policy |
 | Twilio, through Supabase | Sending verification texts | Phone number and verification code |
-| Vercel | Hosting hypefindr.net | IP address, browser data, pages requested |
+| Vercel | Hosting hypefindr.net and our staff dashboard | IP address, browser data, pages requested |
 
 ### 10.3 When you direct us
 
-We share information when you ask us to, for example when you share a link, an invite or your Wrapped summary. When you choose a ride or map app (such as Uber, Lyft, Waze, Google Maps or Apple Maps) for directions, we pass the event's location to that app, and its privacy policy applies.
+We share information when you ask us to, for example when you share a link, an invite or your Wrapped summary. When you choose a ride or map app (such as Uber, Lyft, Waze, Google Maps or Apple Maps) for directions, we pass the event's location to that app, and when you add an event to your calendar, Google Calendar opens with the event's details. That company's privacy policy then applies.
 
 ### 10.4 Legal, safety and rights requests
 
@@ -234,13 +239,14 @@ We may share data that has been aggregated or de-identified so that it cannot re
 | Data | How long we keep it |
 | --- | --- |
 | Account details | Until you delete your account |
-| Posts | Your profile keeps your 30 most recent posts. When you add another, the oldest is deleted automatically. A post that is deleted, automatically or by you, disappears from Hypefindr straight away, but its photo or video file may stay in our storage until you delete your account |
+| Posts | Your profile keeps your 30 most recent posts. When you add another, the oldest is deleted automatically. A post that is deleted, automatically or by you, disappears from Hypefindr straight away, and its photo or video file is deleted from our storage shortly after, usually within minutes |
 | Events and plans you create | Until you delete them or your account. When you delete your account, an event nobody else posted to is deleted. An event other people posted to stays, with their posts, but is no longer linked to you and gets a new cover image |
 | Live streams | Not recorded. The record that a live happened (times, event and viewer counts) is kept until you delete your account. The preview clip stays with its event |
 | Live chat | Deleted 7 days after the live ends, or 90 days if the message was reported |
 | Check-ins (yes, the distance and how) | Until you delete your account |
 | Your device's coordinates | Not stored |
 | Activity history (what you saw, tapped and watched) | Until you delete your account |
+| App usage events and error reports | 13 months. When you delete your account they are no longer linked to it, but they keep the random install ID until they are deleted |
 | Notifications | Until you delete your account. Archiving one hides it |
 | Sign-in session records (IP address and user agent) | Until that session ends or you delete your account |
 | Reports you file | Until you delete your account |
@@ -249,11 +255,11 @@ We may share data that has been aggregated or de-identified so that it cannot re
 | Emails you send us, including removal and privacy requests | Up to 3 years |
 | Backups kept by our database provider | Overwritten within 90 days |
 
-**When you delete your account** (Profile → Settings → Delete account), we delete straight away your sign-in account and profile; your posts and their files; your profile photo; your live streams' records; your notifications, friendships, blocks and Let Them Know history; your events as described in the table; and everything else linked to your account, including your check-ins, Pull ups, reactions, chat messages, Crew memberships, points and activity history. Data we must keep because of a legal hold, a pending dispute, a government request or a legal obligation is kept until the obligation ends. Data that has been aggregated or de-identified may be kept indefinitely.
+**When you delete your account** (Profile → Settings → Delete account), if you signed in with Apple, you confirm with Apple and we revoke Hypefindr's access to your Apple account first. We then delete straight away your sign-in account and profile; your posts and their files; your profile photo; your live streams' records; your notifications, friendships, blocks and Let Them Know history; your events as described in the table; and everything else linked to your account, including your check-ins, Pull ups, reactions, chat messages, Crew memberships, points and activity history. Data we must keep because of a legal hold, a pending dispute, a government request or a legal obligation is kept until the obligation ends. Data that has been aggregated or de-identified may be kept indefinitely.
 
 ## 12. Security and data breaches
 
-**12.1 How we protect data.** We use encryption in transit (TLS), encryption at rest through our hosting providers, and database access rules that apply on our servers, and we limit access to personal data to the people who run Hypefindr.
+**12.1 How we protect data.** We use encryption in transit (TLS), encryption at rest through our hosting providers, and database access rules that apply on our servers, and we limit access to personal data to the people who work on Hypefindr and need it, through individual staff accounts with roles.
 
 **12.2 No system is perfectly secure.** We cannot guarantee that information will never be accessed, disclosed, altered or destroyed by a breach of our safeguards. You use the Services at your own risk. Protect your account by securing your device with a passcode, keeping control of your phone number, email and password, and never sharing verification codes.
 

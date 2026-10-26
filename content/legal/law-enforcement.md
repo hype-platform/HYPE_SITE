@@ -17,7 +17,7 @@ Email {{CONTACT_EMAIL}} with the subject "Law Enforcement," or send by mail to H
 | Information | Examples | Process required |
 | --- | --- | --- |
 | Basic subscriber information | Name, email, phone number, account creation date, sign-up IP address, session IP addresses | Subpoena, under 18 U.S.C. § 2703(c)(2) |
-| Other non-content records | Sign-in session records (IP address and app user agent), friend lists, Crew membership, Pull ups, records of moderation decisions | Court order under 18 U.S.C. § 2703(d), or search warrant |
+| Other non-content records | Sign-in session records (IP address and app user agent), app usage events and error reports (device model, iOS and app version, install ID), friend lists, Crew membership, Pull ups, records of moderation decisions | Court order under 18 U.S.C. § 2703(d), or search warrant |
 | Location records | Check-in records (the event, the time, the distance in meters and how the check-in happened), and the locations attached to posts, streams and events | Search warrant |
 | Content | Posts, photos, videos, live stream preview clips, live chat | Search warrant, under 18 U.S.C. § 2703(a) and (b) |
 | Real-time or prospective data | Interception, pen register or trap and trace | The order the law requires; we may lack the technical ability to comply |

@@ -103,7 +103,7 @@
 
 **6.11 We do not store your content for you.** Hypefindr is not a backup service. We do not record live streams. Your profile keeps only your 30 most recent posts: when you add another, the oldest is deleted automatically. We may delete other User Content at any time, and we are not liable for any loss. Keep your own copies of anything that matters to you.
 
-**6.12 We store and review activity on the Services.** You agree that Hypefindr and its service providers may store, scan and review posts, live chat (including through an automatic word filter), reports and other communications sent through the Services, and may watch any live stream while it is on air. We do this to operate the Services, detect and prevent abuse, child exploitation, fraud and illegal activity, enforce these Terms, and comply with law. You consent to this on behalf of yourself, and you confirm you have authority to consent for anyone you communicate with through the Services.
+**6.12 We store and review activity on the Services.** You agree that Hypefindr and its service providers may store, scan and review posts, live chat (including through an automatic word filter), reports and other communications sent through the Services, and may watch any live stream while it is on air. You also agree that the app sends us records of how it is used and reports of app errors, as the Privacy Policy describes. We do this to operate the Services, detect and prevent abuse, child exploitation, fraud and illegal activity, enforce these Terms, and comply with law. You consent to this on behalf of yourself, and you confirm you have authority to consent for anyone you communicate with through the Services.
 
 **6.13 Content from others.** You may see User Content that is offensive, false, misleading, harmful, illegal, mislabeled or dangerous. You view and rely on it at your own risk.
 
@@ -122,7 +122,7 @@
 - Frame or mirror the Services, or remove, hide or change any proprietary notice, label or watermark.
 - Use our names, logos or trademarks, or anything confusingly similar, without our prior written permission.
 
-**7.4 Third-party components.** The app includes open-source and third-party components that are licensed under their own terms. Map data and map tiles come from Mapbox and OpenStreetMap contributors and are subject to their terms and attribution requirements.
+**7.4 Third-party components.** The app includes open-source and third-party components that are licensed under their own terms. Map data and map tiles come from Mapbox and OpenStreetMap contributors, and venue data comes from Foursquare Open Source Places, each subject to its own terms and attribution requirements.
 
 ### 8. Feedback
 
@@ -198,7 +198,7 @@ We respond to notices of claimed copyright infringement under the Digital Millen
 
 ### 14. Emergencies: Hypefindr is not an emergency service
 
-**14.1 Call your local emergency number.** If you or anyone else is in danger, call 911 in the United States, or your local emergency number. Do not use a stream, chat, post or report to Hypefindr to get help in an emergency. We do not monitor streams in real time, and we aim to review reports within 24 hours, which is far too slow for an emergency.
+**14.1 Call your local emergency number.** If you or anyone else is in danger, call 911 in the United States, or your local emergency number. Do not use a stream, chat, post or report to Hypefindr to get help in an emergency. We do not monitor streams in real time, and reports are reviewed within 24 hours, which is far too slow for an emergency.
 
 **14.2 We may contact authorities.** We may, but have no duty to, contact emergency services or law enforcement when we believe someone may be at risk of death or serious injury, and share information with them, including location. We are not liable for contacting or not contacting them.
 
