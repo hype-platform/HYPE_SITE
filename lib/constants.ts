@@ -1,5 +1,5 @@
 // Single place to swap in the real App Store link once the app is live.
-export const APP_STORE_URL = "https://apps.apple.com/app/idXXXXXXXXXX";
+export const APP_STORE_URL = "https://apps.apple.com/app/id6825633668";
 
 export const CONTACT_EMAIL = "hype.hypefindr@gmail.com";
 
