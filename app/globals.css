@@ -890,49 +890,6 @@ p {
 }
 
 /* ==========================================================================
-   Invite page
-   ========================================================================== */
-
-.invite {
-  min-height: 70vh;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  text-align: center;
-  padding-block: 96px;
-}
-
-.invite__card {
-  max-width: 440px;
-  border: 1px solid var(--hairline);
-  border-radius: var(--radius-lg);
-  background: var(--bg-raised);
-  padding: 48px 32px;
-}
-
-.invite__code {
-  font-family: var(--font-display);
-  font-weight: 800;
-  font-size: 1.8rem;
-  letter-spacing: 0.08em;
-  background: var(--grad-brand);
-  -webkit-background-clip: text;
-  background-clip: text;
-  color: transparent;
-  margin-block: 18px;
-  word-break: break-all;
-}
-
-.invite p {
-  color: var(--text-dim);
-  font-size: 0.95rem;
-}
-
-.invite .btn {
-  margin-top: 28px;
-}
-
-/* ==========================================================================
    Motion: hero sweep, live cards, ticker, radar, reveals
    ========================================================================== */
 
