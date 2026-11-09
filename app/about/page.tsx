@@ -5,7 +5,7 @@ import { CONTACT_EMAIL } from "@/lib/constants";
 
 export const metadata: Metadata = {
   title: "About",
-  description: "About Hypefindr, a live, location-based social app for real-world events.",
+  description: "About Hypefindr, an iPhone app that shows what's happening near you right now, closest first.",
 };
 
 export default function AboutPage() {
@@ -22,18 +22,23 @@ export default function AboutPage() {
 
       <main className="legal container">
         <p>
-          Hypefindr is a live, location-based social app built around one idea: the most interesting things are
-          happening in the real world, right now, and you should be able to see them.
+          Hypefindr is an iPhone app built around one idea: the most interesting things are happening in the real
+          world, right now, and you should be able to find them and go.
         </p>
         <p>
-          Instead of a feed of what already happened, Hypefindr gives you a live map of what&apos;s happening this
-          second, nearby or anywhere on earth. Watch a live stream from an event across town or across the
-          world. Go live yourself and become the eyes for everyone who can&apos;t be there. Show up and check in
-          to the moment. Build a crew and bring people with you.
+          Discover shows what&apos;s on around you, closest first, within the distance you choose: people live,
+          moments posted minutes ago, and plans coming up. The map shows every spot, red where someone is live and
+          purple for everything else. Post a moment from where you are, plan something for later (once or on
+          repeat), or go live. Tap Pull up to say you&apos;re going, and your iPhone checks you in when you arrive.
+          Bring your crew with Let them know, or share a link that anyone can pull up from.
         </p>
         <p>
-          As you use Hypefindr, you build an identity across four profiles: The Attendee, The Watcher, The Streamer
-          and The Connector. You earn points and titles in each based on how you show up.
+          Plans made more than a day ahead are confirmed by their hosts in their last 24 hours, so what you see is
+          really happening. If a host doesn&apos;t confirm, the plan comes down and everyone coming is told.
+        </p>
+        <p>
+          As you use Hypefindr, you build an identity across four lanes: The Attendee, The Watcher, The Streamer and
+          The Connector. You earn points, titles and badges in each, and your firsts get celebrated as they happen.
         </p>
 
         <div className="about-grid">

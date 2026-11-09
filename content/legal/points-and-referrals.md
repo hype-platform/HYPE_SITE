@@ -7,7 +7,8 @@ Scores, titles, badges, streaks and invites are for recognition and fun. They ar
 | Profile types | The four ways to use Hypefindr: Attendee, Watcher, Streamer and Connector. You can switch between them |
 | Points and Hype Score | Points you earn for activity in each profile type. Your Hype Score is the points in the profile type you are using |
 | Titles | Names you reach as your points grow in a profile type |
-| Badges | Awards for activity and milestones. Some badges shown in the app cannot be earned yet |
+| Badges | Awards for activity in each profile type, 12 per type and 48 in all. Some badges shown in the app cannot be earned yet |
+| Milestones | Celebrations of your firsts and of counts you reach, such as your first moment, or 25 people pulling up to your plan. Each is recorded once, can arrive as a notification, and stays private unless you share it |
 | Weekly streak | The number of weeks in a row you have been active |
 | Atmosphere average | An average calculated from reactions |
 | Attendance passport, stream passport and broadcasts | Records of the events you checked in to, the live streams you watched, and the live streams you hosted |
@@ -38,7 +39,7 @@ We may void or remove any Recognition Feature, without compensation, if we belie
 
 ## 7. Public display
 
-Your profile type, title, badges, Hype Score, atmosphere average, streak and passports can be seen by other users on your profile. The list of people you brought is shown only to you.
+Your profile type, title, badges, Hype Score, atmosphere average, streak and passports can be seen by other users on your profile. Your milestones and the list of people you brought are shown only to you, unless you share them.
 
 ## 8. What scores do not mean
 

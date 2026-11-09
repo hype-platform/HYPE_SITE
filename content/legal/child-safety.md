@@ -34,7 +34,7 @@ We do not tell the reported account that a report was made to NCMEC.
 
 ## 5. How to report
 
-- **In the app:** report the post, live stream, event or chat message and choose "Nudity or sexual" or "Something else." Then email us as well, so we know it concerns a child.
+- **In the app:** report the post, live stream, event, chat message or person (Report user on their profile) and choose "Nudity or sexual" or "Something else." Then email us as well, so we know it concerns a child.
 - **By email:** {{CONTACT_EMAIL}}, subject "Child Safety." Describe what you saw and include links or usernames. **Do not send the images themselves.**
 - **To NCMEC directly:** report.cybertip.org or 1-800-843-5678.
 - **If a minor's intimate images are being shared:** NCMEC's Take It Down service at takeitdown.ncmec.org can help remove them from participating platforms.

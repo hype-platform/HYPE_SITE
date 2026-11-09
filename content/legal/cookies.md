@@ -1,4 +1,4 @@
-hypefindr.net sets no cookies for visitors and runs no analytics, advertising or tracking scripts. The one exception is our internal staff dashboard at hypefindr.net/hype-analytics: when someone who works on Hypefindr signs in to it, it sets one sign-in cookie, used only on that part of the site. This notice covers the website only. The [Privacy Policy](/privacy) covers the app and the share pages at go.hyped.stream.
+hypefindr.net sets no cookies for visitors and runs no analytics, advertising or tracking scripts. The one exception is our internal staff dashboard at hypefindr.net/hype-analytics: when someone who works on Hypefindr signs in to it, it sets one sign-in cookie, used only on that part of the site. This notice covers the website only. The [Privacy Policy](/privacy) covers the app and the share pages at go.hyped.stream, including the random ID a share page keeps in your browser when you pull up from it.
 
 ## 1. What the website collects
 
@@ -11,7 +11,7 @@ Fonts and images are served from our own domain, so loading a page does not send
 
 ## 2. Invite links
 
-An invite link (hypefindr.net/i/your-code) shows the invite code and sends you to the Apple App Store after about two seconds. The code appears in the link and in our hosting provider's logs. We do not link a website visit to an app account. You enter the code in the app yourself. Once you reach the App Store, Apple's privacy policy applies.
+An invite link (hypefindr.net/i/your-code) sends you straight to Hypefindr on the Apple App Store, and hypefindr.net/get does the same without a code. The code appears in the link and in our hosting provider's logs. We do not link a website visit to an app account. You enter the code in the app yourself. Once you reach the App Store, Apple's privacy policy applies.
 
 ## 3. Opt-out signals
 

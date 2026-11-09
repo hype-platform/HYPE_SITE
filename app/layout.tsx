@@ -16,19 +16,19 @@ export const metadata: Metadata = {
     template: "%s | Hypefindr",
   },
   description:
-    "Hypefindr is a live, location-based social app for real-world events. Discover what's happening near you, watch live streams from anywhere, go live, and show up.",
+    "Hypefindr shows what's happening near you right now, closest first: people live, moments posted minutes ago, and plans coming up. Pull up, bring your crew, and get checked in when you arrive.",
   openGraph: {
     type: "website",
     url: SITE_URL,
     title: "Hypefindr | Things are happening near you.",
     description:
-      "Discover events near you, watch live streams from anywhere in the world, go live, and show up. Hypefindr shows you what's happening right now.",
+      "What's happening near you right now, closest first: people live, moments and plans. Pull up, bring your crew, and get checked in when you arrive.",
   },
   twitter: {
     card: "summary_large_image",
     title: "Hypefindr | Things are happening near you.",
     description:
-      "Discover events near you, watch live streams from anywhere in the world, go live, and show up.",
+      "What's happening near you right now, closest first: people live, moments and plans. Pull up and bring your crew.",
   },
 };
 

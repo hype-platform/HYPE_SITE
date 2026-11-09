@@ -8,25 +8,26 @@ Hypefindr shows you what is happening. It does not run any of it. Every event on
 | Remove listings and accounts that break our rules, when we learn of them | Check that events exist, are lawful, have permits, are safe or are accurately described |
 | Give you tools to report, block and hide content | Verify the identity, age or background of hosts or attendees |
 | Show signals such as Pull up and check-in counts, energy and atmosphere averages | Rate safety, check capacity, or guarantee anything about a crowd |
+| Ask hosts to confirm their plans in the last 24 hours, and take down plans they do not confirm | Check that a confirmed plan will really go ahead. "Host confirmed" only means the host told us it is on |
 
 ## 2. If you host or list an event
 
 You are the organizer, and you alone are responsible for the event and for everyone who comes because of your listing. You must:
 
-1. **Be accurate.** Give the true date, time, location, price, age limit and nature of the event, and keep the listing current.
+1. **Be accurate.** Give the true date, time, location, cost, age limit, what is good to know and nature of the event, and keep the listing current. Name only real hosts, and only with their permission, including a person or business that is not on Hypefindr.
 2. **Have the right to the place.** Get the owner's or venue's permission. Never list a private home without the owner's consent, and never publish an address you are not authorized to share.
 3. **Get permits and follow the law.** Obtain every permit and license required, and follow fire-code capacity, noise, liquor, food safety, accessibility, zoning and public assembly laws.
 4. **Control the crowd.** Do not invite more people than the place can safely hold. Provide security, crowd management, first aid and clear exits suited to the crowd you expect.
 5. **Check ID.** For any event with an age limit, check government ID at the door. The app's 18+ or 21+ rating is not age verification.
 6. **Never serve minors.** Do not provide alcohol, cannabis, tobacco, vapes or drugs to anyone under the legal age.
 7. **Plan for emergencies.** Know the nearest exits, how to reach emergency services, and who is in charge if something goes wrong.
-8. **Cancel properly.** If the event is canceled or changed, update or remove the listing immediately. Refunds for anything you charged are your responsibility.
+8. **Confirm or cancel.** For a plan made more than a day ahead, we ask you 24, 12 and 6 hours before it starts whether it is still on. Tap It's on, or Call it off. If you do not answer, we take it down 3 hours before the start and tell everyone who was coming or interested. If the event is canceled or changed at any time, update it or call it off immediately. For a repeating plan, call off any date that will not happen and stop repeating when the series ends. Refunds for anything you charged are your responsibility.
 9. **Carry insurance.** We strongly recommend event liability insurance. Hypefindr has no insurance that covers your event.
 10. **Do not claim affiliation.** Do not suggest that Hypefindr, a venue, a brand or a performer endorses or sponsors your event unless they have agreed in writing.
 
 ## 3. If you attend an event
 
-- **Decide for yourself.** Look at who is hosting, whether the details make sense, and whether you feel safe.
+- **Decide for yourself.** Look at who is hosting, whether the details make sense, whether the host has confirmed it, and whether you feel safe.
 - **Assume some listings are wrong or fake.** Confirm details with the venue or host where you can.
 - **Go with people you trust** and tell someone where you are going.
 - **Arrange your own transportation** and have a way home.
@@ -48,7 +49,7 @@ You may share lawful protests and demonstrations. Hypefindr takes no position on
 
 ## 7. Weather, cancellations and changes
 
-Events may be canceled, moved or changed without the listing being updated. Reminders for events you pulled up to are sent automatically and do not mean the details are still right. Check weather and official sources before you go.
+Events may be canceled, moved or changed without the listing being updated, even after the host confirmed them. Reminders for events you pulled up to are sent automatically and do not mean the details are still right. When a plan is called off or taken down, we tell the people who pulled up or were interested, but a message may arrive late or not at all. Check weather and official sources before you go.
 
 ## 8. Tickets and payments
 

@@ -1,10 +1,11 @@
 ## Summary
 
 - Hypefindr is only for people 18 and older.
-- We collect your phone number or email, your profile details and date of birth, the photos, videos and live streams you make, your live chat messages, your Pull ups and check-ins, how you use the app, and reports of app errors.
+- We collect your phone number or email, your profile details and date of birth, the photos, videos, plans and live streams you make, your live chat messages, your Pull ups, check-ins and vibes, how you use the app, and reports of app errors.
 - We use your location while the app is open to show what is near you. If you also allow "Always" location, your iPhone tells the app when you arrive at an event you said you are going to, so it can check you in. We never store your device's coordinates or a history of where you have been.
-- Your posts, live streams and events appear on the map where they were made. Friends can see where your latest post or live stream was.
+- Your posts, live streams and plans appear on the map where they were made. Friends can see where your latest post or live stream was, for 24 hours. People who can see a plan can see who is pulling up to it.
 - Live streams are not recorded.
+- Discover shows what is closest to you first. We do not use your interests or activity history to decide the order.
 - We do not sell your personal data or show ads. We measure how the app is used in our own database, not with other companies' analytics or advertising services.
 - A person on our team reviews every report within 24 hours and can see the content and live chat it concerns.
 - You can delete your account at any time in the app.
@@ -25,11 +26,13 @@ The full policy follows. Capitalized terms not defined here have the meaning giv
 
 **Account details.** The phone number, email address or Apple or Google account you sign in with, and a password if you sign up with email. Your name, username, date of birth, profile photo, bio, the interests you pick, your profile type (Attendee, Watcher, Streamer or Connector), the invite code of the person who brought you if you enter it, and your visibility settings.
 
-**Content you create.** Photos and videos you post, with their captions, headlines, stickers and the mood or category you choose. Live streams (video and audio) and the short preview clip you record before you go live. Live chat messages and the questions ("asks") you send to a host. Emoji reactions. Events and plans you create, including their title, place, time, description, cover, photos and videos, age rating and visibility. Pull ups (events you say you are going to), events you mark as interested, and check-ins. Crews you found or join. Friend requests, Meet Up requests and Let Them Know alerts you send. Anything you share from your Wrapped summary.
+**Content you create.** Photos and videos you post, with their captions, the words you write on them, the category and how it feels. Live streams (video and audio) and the short preview clip you record before you go live. Live chat messages and the questions ("asks") you send to a host. My Vibe and Not My Vibe on posts and plans, and emoji reactions. Plans you create, including their title, place, time, how long they last and how they repeat; who is hosting, which can name other people on Hypefindr or a host who is not on the app; what they cost and what is good to know; their description, cover, photos and videos, age rating, and who can see them (Public or Crew). Your answers when we ask you to confirm a plan is still on, and any reason you give for calling one off. Pull ups (plans you say you are going to), plans you mark as interested, and check-ins. Your Crew (your friends), smaller crews you make or join, and anyone you remove or block from a crew you run. Friend requests, Meet Up requests and Let Them Know alerts you send, with any note you add. Reports you file about posts, plans, live streams, chat messages or people. Anything you share from your Wrapped summary.
 
 **Communications with us.** Emails you send us, including reports, evidence you attach, appeals, removal requests, legal and privacy requests, and feedback.
 
 **Verification.** We send a code by text message to verify your phone number when you sign in with it, and a code by email if you reset your password. We do not use third-party identity or age verification services.
+
+**Face ID sign-in.** On an iPhone with Face ID or Touch ID, the app keeps your sign-in in the iPhone's Keychain, locked behind Face ID or Touch ID, so you can come back with a glance instead of a code. Only a face or fingerprint enrolled on that iPhone can unlock it. Signing out keeps it, so you can come back the same way, and the Keychain keeps it even if you delete the app. To make the app forget it, tap "Not you?" on the sign-in page, or delete your account. Hypefindr never receives your face or fingerprint data (Section 6.3).
 
 ### 2.2 Information collected automatically
 
@@ -37,21 +40,25 @@ The full policy follows. Capitalized terms not defined here have the meaning giv
 
 **Camera, microphone and photo library.** Used only when you use a feature that needs them, such as taking a photo, recording a video, going live or choosing a profile photo.
 
-**Activity.** What appears on your screen in Discover and on the map, what you tap, how long you watch lives and look at posts, which lives you watch, your reactions, saves, shares and follows, your Pull ups and check-ins, and the notifications you read or archive. We use this to rank what you see (Section 8) and to understand how Hypefindr is used.
+**Activity.** What appears on your screen in Discover and on the map, what you tap, how long you watch lives and look at posts, which lives you watch, your reactions and vibes, saves, shares and friend requests, your Pull ups and check-ins, and the notifications you read or archive. We use this for your points, badges and passports, for safety, and to understand and improve how Hypefindr is used. It does not decide the order of Discover (Section 8).
 
-**App usage events.** The app sends our own database a record when you open and close it, which screens you view and for how long, when you tap a notification, and when you take key actions, such as signing up, sharing, pulling up, checking in, publishing a post or plan, choosing a place, opening a ride app, or sending a friend request, Meet Up request or Let Them Know alert. On a phone's first launch it also records the link the app was opened with, without the part after the "?" except any campaign tags. These records hold the event, the time and a few details about it, such as an event's ID or whether a post was a photo or video, never the content of your posts or messages.
+**App usage events.** The app sends our own database a record when you open and close it, which screens you view and for how long, when you tap a notification, and when you take key actions, such as signing up, sharing, pulling up, checking in, publishing a post or plan, choosing a place, opening a ride app, sending a friend request, Meet Up request or Let Them Know alert, making a crew, answering a crew invite, or sending something to a crew. It also records whether the camera started correctly, with the camera mode it used and any error, so we can fix camera problems on particular iPhones. On a phone's first launch it also records the link the app was opened with, without the part after the "?" except any campaign tags. These records hold the event, the time and a few details about it, such as an event's ID or whether a post was a photo or video, never the content of your posts or messages.
 
 **Error reports.** If something goes wrong in the app, it sends us the error message and the first few lines of the technical error report, so we can fix it.
 
 **Device and sign-in data.** With app usage events and error reports, the app sends your device model, iOS version, the app's version and build, your language and region setting, your time zone, and a random install ID. The app creates that ID on its first launch and keeps it on your phone until you delete the app. When you sign in, our authentication provider records your IP address and your app's user agent, which also shows the app build and iOS version, for each sign-in session. We also store your push notification token and whether you have notifications switched on. The app contains no advertising software. The map and Google sign-in software built into the app collect some data for Mapbox and Google, as Section 10.2 describes.
 
-**Before you sign in.** When you first open the app, it starts a temporary anonymous session with our authentication provider so that it can load. That session has an identifier but no name or contact details. App usage events and error reports are sent from the start, including before you sign in.
+**Before you sign in.** When you first open the app, it starts a temporary anonymous session with our authentication provider so that it can load. That session has an identifier but no name or contact details. App usage events and error reports are sent from the start, including before you sign in. Each time it opens, the app also reads which version of Hypefindr is current, so it can tell you when an update is out. That check stores nothing about you.
+
+**Kept on your phone only.** How far Discover looks and in which order, plans and posts you save as drafts (including copies of their photos and videos) until you publish or discard them, and your Face ID sign-in. None of these are sent to us.
 
 **Live stream data.** When a live started and ended, its event and place, its peak viewer count, reactions, and the settings you chose for it.
 
-**Data we generate about you.** Your Hype Score (the points you earn in your active profile type), titles, badges, weekly streak, attendance passport, stream passport and broadcast list, your atmosphere average from reactions, your Wrapped summary, ranking signals, and moderation records (reports about your content, whether content was hidden, and any suspension or ban).
+**Data we generate about you.** Your Hype Score (the points you earn in your active profile type), titles, badges, milestones (your firsts and the counts you reach, such as your first moment or 25 people coming to your plan, and whether the app has celebrated them), weekly streak, attendance passport, stream passport and broadcast list, your atmosphere average from reactions, your Wrapped summary, whether you confirmed a plan and how many times we asked, and moderation records (reports about you or your content, whether content was hidden, and any suspension or ban).
 
 **Website and share page data.** hypefindr.net sets no cookies for visitors. The [Website and Cookie Notice](/legal/cookies) explains what it does collect. The share pages at go.hyped.stream are served by Cloudflare, which receives your IP address and the link you opened.
+
+**Pulling up from a share page.** Anyone can pull up to a plan from its share page without the app or an account. The page then keeps a random ID in your browser's storage, so it remembers your pull up. We store that ID with a one-way hash of your IP address, and use the hash only to stop one person adding many pull ups (at most 5 to one plan, and 30 an hour, from one address). We do not ask for your name, and we do not link it to an account. The plan's host and the people who can see the plan see how many people pulled up this way, not who. If you tap "How far is it from me?" on a share page, your browser works out the distance on your device, and your location is not sent to us.
 
 ### 2.3 Information from other sources
 
@@ -90,7 +97,7 @@ Without "Always," you get a reminder when an event you pulled up to starts and a
 
 ### 3.3 What other users can see
 
-Other users can see the map location of your posts, live streams and events, including the place of a live while you are broadcasting. Your friends can see the event and place of your most recent post or live stream, and when it was. The events you checked in to appear in your attendance passport on your profile. Other users cannot see your device's location at any other time, and we never show your home address.
+Other users can see the map location of your posts, live streams and plans, including the place of a live while you are broadcasting. A plan you set to Crew is shown only to your friends. Your friends can see the event and place of your most recent post or live stream, and when it was, for 24 hours after it. The events you checked in to appear in your attendance passport on your profile. Other users cannot see your device's location at any other time, and we never show your home address.
 
 ### 3.4 What we do not do with location
 
@@ -118,7 +125,7 @@ We do not sell location data. We do not share precise location with advertisers 
 
 **5.1 No private messages.** Hypefindr has no private or direct messaging. Live chat is public to everyone watching the live. It is encrypted in transit but not end-to-end encrypted, and we store it on our servers.
 
-**5.2 Automatic filter.** Every chat message passes through an automatic word filter on our server before anyone sees it. A message the filter catches is saved as hidden and shown only to the person who sent it.
+**5.2 Automatic filter.** Every chat message passes through an automatic word filter on our server before anyone sees it. A message the filter catches is saved as hidden and shown only to the person who sent it. The app also checks names, usernames, bios, captions, the words on photos, plan details, live titles, crew names and Let Them Know notes against the same word list, on your phone, before saving them. If it catches something, it tells you why and nothing is saved or sent.
 
 **5.3 Reports and removal.** You can report a chat message, and the host can remove messages from their own live. A message reported by 3 different people is hidden from everyone straight away, and a person on our team reviews every report.
 
@@ -126,7 +133,7 @@ We do not sell location data. We do not share precise location with advertisers 
 
 **5.5 How long chat is kept.** Live chat is deleted automatically 7 days after the live ends. A message that was reported is kept for 90 days so the report can be reviewed.
 
-**5.6 Other messages.** Friend requests, Meet Up requests and Let Them Know alerts reach the other person as notifications in the app and, if they allow it, as push notifications.
+**5.6 Other messages.** Friend requests, Meet Up requests, crew invites and Let Them Know alerts, with any note you add, reach the other person as notifications in the app and, if they allow it, as push notifications. A note can be read by everyone you send it to.
 
 ## 6. What your activity can reveal
 
@@ -134,7 +141,7 @@ We do not sell location data. We do not share precise location with advertisers 
 
 **6.2 What we do and do not do.** We do not intentionally infer or record these characteristics. We do not use them for advertising or to build profiles. But other users can see your public activity and draw their own conclusions. If you do not want an event linked to you, do not check in, post or stream there, and delete anything you already posted.
 
-**6.3 No biometrics.** We do not use facial recognition and do not create faceprints, voiceprints or other biometric identifiers from your photos, videos or live streams.
+**6.3 No biometrics.** We do not use facial recognition and do not create faceprints, voiceprints or other biometric identifiers from your photos, videos or live streams. Face ID sign-in uses Apple's Face ID or Touch ID on your iPhone: your iPhone checks your face or fingerprint and tells the app only whether the check passed. That data never leaves your iPhone, and Hypefindr never receives it.
 
 **6.4 No health data.** We do not intentionally collect health data. Do not put health information in your profile or posts.
 
@@ -144,11 +151,13 @@ The last column gives the legal basis we rely on where a law such as the GDPR re
 
 | Purpose | Data used | Legal basis |
 | --- | --- | --- |
-| Run the Services: accounts, sign-in, profiles, Discover, the map, live streams, events, Pull ups, check-ins, Crews, chat, friends, scores and Wrapped | Account, content, location, activity, device | Contract |
+| Run the Services: accounts, sign-in, profiles, Discover, the map, live streams, plans and repeating plans, Pull ups, check-ins, vibes, Crews, chat, friends, scores, milestones and Wrapped | Account, content, location, activity, device | Contract |
+| Ask hosts to confirm their plans, take down plans that are not confirmed, and tell everyone who was coming | Plans, Pull ups and "interested" marks, push token | Contract; legitimate interests |
+| Count pull ups from share pages and stop one person inflating them | A random browser ID and a hashed IP address | Legitimate interests |
 | Confirm users are 18 or older and show 21+ content only to people who are 21 or older | Date of birth | Legal obligation; legitimate interests |
 | Keep people safe: filter chat, hide content after repeated reports, review reports, enforce our rules, and report child sexual abuse material as the law requires | All categories | Legal obligation; legitimate interests |
-| Rank events, posts and live streams, and decide which notifications to send | Activity, location at the time of the request, interests, friends, Pull ups, check-ins | Contract; legitimate interests |
-| Send verification codes, reminders, check-in notifications, friend activity, service notices, policy changes and replies to your requests | Phone, email, push token | Contract; legal obligation |
+| Order Discover and the map by distance, and decide which notifications to send | Location at the time of the request, the distance you chose, friends, Pull ups, check-ins | Contract; legitimate interests |
+| Send verification codes, reminders, check-in notifications, friend activity, milestones, service notices, policy changes and replies to your requests | Phone, email, push token | Contract; legal obligation |
 | Understand how Hypefindr is used, find and fix errors, and see which app versions and devices people use, in an internal dashboard that reads our own database. Only people who work on Hypefindr can open it, each with their own staff account and only the parts their role needs | Activity, app usage events, error reports, account, content, device and sign-in data | Legitimate interests |
 | Comply with law, respond to legal process, enforce our Terms, and establish or defend legal claims | All categories | Legal obligation; legitimate interests |
 | Respond to emergencies involving risk of death or serious injury | All categories, including location | Vital interests |
@@ -156,11 +165,11 @@ The last column gives the legal basis we rely on where a law such as the GDPR re
 
 ## 8. Ranking, notifications and automated decisions
 
-**8.1 How ranking works.** We decide the order of what you see in Discover and on the map using rules that weigh: distance from you; whether something is live now or starting soon; its energy (recent posts and live streams); the interests you picked and the categories you actually engage with; what your friends are doing; which kinds of content you tap and watch for longer; the time of day and day of the week; the kinds of events you have checked in to; how many people are engaging; how long people watched a host's earlier lives; and variety, so the same category does not repeat too often. Hidden content, content from people you have blocked or who blocked you, and 21+ content for people under 21 are left out. We do not use sensitive characteristics such as religion, health or sexual orientation as ranking signals.
+**8.1 How Discover and the map are ordered.** Discover shows lives, moments and plans within the distance you choose (from 1 to 50 miles, 3 to start with), closest first. Within that, a live and a spot with recent moments get a small lift, never more than a tenth of the distance you chose (0.3 miles when you look within 3 miles). You can switch to farthest first. When you reach the end, Discover can look a little further. The map shows what is in view, lives first, then the busiest spots. The order does not use your interests, your activity history, what your friends do, or sensitive characteristics such as religion, health or sexual orientation. Left out everywhere: hidden content, content from people you have blocked or who blocked you, 21+ content for people under 21, and Crew plans of hosts you are not friends with. If we ever personalize the order, we will update this policy first.
 
-**8.2 Notifications.** We send notifications for things such as reminders about events you pulled up to, check-in prompts, a host's Pull up count, friends going live, friend requests, Meet Up requests and Let Them Know alerts. You control push notifications in your iPhone settings and in the app.
+**8.2 Notifications.** We send notifications for things such as reminders about plans you pulled up to, check-in prompts, a host's Pull up count, asks to confirm a plan you host, a plan being called off or taken down, someone's My Vibe on your plan, milestones, friends going live, friend requests, crew invites, Meet Up requests and Let Them Know alerts. You control push notifications in your iPhone settings and in the app.
 
-**8.3 Automated decisions.** Scores, titles, badges and rankings are calculated automatically. Two safety actions are also automatic: the chat word filter (Section 5.2), and hiding content that 3 different people have reported. Every report is then reviewed by a person. Decisions to remove content or to suspend or ban accounts are made by people. You can appeal any enforcement action under the [Enforcement, Moderation and Appeals Policy](/legal/enforcement).
+**8.3 Automated decisions.** Scores, titles, badges, milestones and the order of Discover are calculated automatically. A plan made more than a day ahead whose host does not confirm it in its last 24 hours is taken down automatically 3 hours before it starts. Two safety actions are also automatic: the word filters (Section 5.2), and hiding content that 3 different people have reported. Every report is then reviewed by a person. Decisions to remove content or to suspend or ban accounts are made by people. You can appeal any enforcement action under the [Enforcement, Moderation and Appeals Policy](/legal/enforcement).
 
 **8.4 Questioning a result.** You may ask us to explain a profiling or automated decision that affects you, including the main factors behind it, to review the data used, and to correct inaccurate data and have the decision reconsidered. Email {{CONTACT_EMAIL}} with the subject "Privacy Request."
 
@@ -189,12 +198,14 @@ If we ever want to do any of these, we will update this policy first and, where 
 | Profile type, title, badges, Hype Score, atmosphere average and streak | Date of birth |
 | Your attendance passport, stream passport and broadcasts | Your device's location, except as described in Section 3.3 |
 | Your posts. On your profile, they follow the visibility you choose for your profile and for each post (Public, Friends or Only you). A post you add to an event also appears with that event in the app, to anyone who can see the event | Your IP address and device information |
-| Your public live streams and events, with their map locations | The distance recorded with a check-in |
-| To your friends: the event and place of your most recent post or live stream | Reports you file |
+| Your live streams, and your plans with their hosts, details and map locations, to everyone (Public) or only your friends (Crew) | The distance recorded with a check-in |
+| To your friends: the event and place of your most recent post or live stream, for 24 hours | Reports you file |
 | Chat messages, to everyone watching that live | The people you brought with your invite code, which only you can see |
+| That you pulled up to a plan, to anyone who can see that plan (their friends are listed first) | Not My Vibe, which only you can see |
+| My Vibe on a plan, to its host ("Alex is vibing with Friday Night Market") | Your milestones, unless you share one |
 | Crew membership, and anything you share from Wrapped | |
 
-A host sees how many people pulled up to their event. Anyone with a share link (go.hyped.stream/e/...) can open its web page without an account. The page shows the event's card (title, place, time and cover) and the event's posts that are set to Public, and messaging apps show the card as a link preview.
+A host sees how many people pulled up to their plan and who they are. Anyone with a share link (go.hyped.stream/e/...) to a Public plan can open its web page without an account. The page shows the plan's card (title, place, time and cover), who is hosting, its photos and videos, what it costs and what is good to know, how many people are pulling up, and the posts at it that are set to Public, and messaging apps show the card as a link preview. Crew plans are not shown on share pages.
 
 ### 10.2 Service providers
 
@@ -203,7 +214,7 @@ These companies process personal data for us. They may use it only to provide th
 | Provider | What it does for us | Data it receives |
 | --- | --- | --- |
 | Supabase | Sign-in, database, server functions, realtime updates, profile photo storage, and sign-in and password reset emails | Account data, content records, chat, check-ins, activity, app usage events and error reports, profile photos, and the IP address and user agent of each sign-in session |
-| Cloudflare | Storing and delivering photos, videos and preview clips (R2), serving share pages at go.hyped.stream, and our place search, which looks up venues in a copy of Foursquare's open places data | Media files, IP address, the share link opened; for place search, what you type, your IP address, and your location rounded to about 100 meters or the spot where you dropped a pin. Nothing is sent to Foursquare |
+| Cloudflare | Storing and delivering photos, videos and preview clips (R2), serving share pages at go.hyped.stream, and our place search, which looks up venues in a copy of Foursquare's open places data | Media files, IP address, the share link opened, and for a pull up from a share page, the random browser ID and the hashed IP address; for place search, what you type, your IP address, and your location rounded to about 100 meters or the spot where you dropped a pin. Nothing is sent to Foursquare |
 | LiveKit | Live video | Live video and audio, IP address |
 | Mapbox | Maps, directions, and place search when our own search finds nothing | Your location when you use the map, search or directions, and your IP address. Mapbox's map software in the app also collects location, usage, performance and diagnostic data that Mapbox does not link to your identity, for its own services, under Mapbox's privacy policy |
 | Expo | Delivering push notifications to Apple | Push token and notification content |
@@ -240,7 +251,10 @@ We may share data that has been aggregated or de-identified so that it cannot re
 | --- | --- |
 | Account details | Until you delete your account |
 | Posts | Your profile keeps your 30 most recent posts. When you add another, the oldest is deleted automatically. A post that is deleted, automatically or by you, disappears from Hypefindr straight away, and its photo or video file is deleted from our storage shortly after, usually within minutes |
-| Events and plans you create | Until you delete them or your account. When you delete your account, an event nobody else posted to is deleted. An event other people posted to stays, with their posts, but is no longer linked to you and gets a new cover image |
+| Events and plans you create | Until you delete them or your account. A plan you call off, or that is taken down because it was not confirmed, is deleted straight away. A repeating plan's schedule is kept until you stop it or delete your account. When you delete your account, an event nobody else posted to is deleted. An event other people posted to stays, with their posts, but is no longer linked to you and gets a new cover image |
+| Pull ups from share pages (random browser ID and hashed IP address) | Until the plan is deleted, or until the person takes the pull up back |
+| Milestones | Until you delete your account |
+| Drafts | On your phone only, until you publish or discard them |
 | Live streams | Not recorded. The record that a live happened (times, event and viewer counts) is kept until you delete your account. The preview clip stays with its event |
 | Live chat | Deleted 7 days after the live ends, or 90 days if the message was reported |
 | Check-ins (yes, the distance and how) | Until you delete your account |
@@ -255,7 +269,7 @@ We may share data that has been aggregated or de-identified so that it cannot re
 | Emails you send us, including removal and privacy requests | Up to 3 years |
 | Backups kept by our database provider | Overwritten within 90 days |
 
-**When you delete your account** (Profile → Settings → Delete account), if you signed in with Apple, you confirm with Apple and we revoke Hypefindr's access to your Apple account first. We then delete straight away your sign-in account and profile; your posts and their files; your profile photo; your live streams' records; your notifications, friendships, blocks and Let Them Know history; your events as described in the table; and everything else linked to your account, including your check-ins, Pull ups, reactions, chat messages, Crew memberships, points and activity history. Data we must keep because of a legal hold, a pending dispute, a government request or a legal obligation is kept until the obligation ends. Data that has been aggregated or de-identified may be kept indefinitely.
+**When you delete your account** (Profile → Settings → Delete account), if you signed in with Apple, you confirm with Apple and we revoke Hypefindr's access to your Apple account first. We then delete straight away your sign-in account and profile; your posts and their files; your profile photo; your live streams' records; your notifications, friendships, blocks and Let Them Know history; your events as described in the table; and everything else linked to your account, including your check-ins, Pull ups, reactions, vibes, chat messages, Crew memberships, crews you run, milestones, points and activity history. Data we must keep because of a legal hold, a pending dispute, a government request or a legal obligation is kept until the obligation ends. Data that has been aggregated or de-identified may be kept indefinitely.
 
 ## 12. Security and data breaches
 
