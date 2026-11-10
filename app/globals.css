@@ -397,6 +397,12 @@ p {
   margin-bottom: 48px;
 }
 
+.section__lead a {
+  color: var(--text);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
 .section__head {
   text-align: center;
   margin-inline: auto;
@@ -426,6 +432,12 @@ p {
     radial-gradient(circle at 70% 65%, rgba(99, 102, 241, 0.2), transparent 55%),
     var(--bg);
   overflow: hidden;
+}
+
+.map-section__visual--card {
+  display: grid;
+  place-items: center;
+  padding: 28px;
 }
 
 .map-section__visual svg {
@@ -518,8 +530,8 @@ p {
 
 .identity-card__icon {
   display: block;
-  width: 72px;
-  height: 72px;
+  width: 88px;
+  height: 88px;
   margin-bottom: 18px;
   position: relative;
   animation: icon-float 6s ease-in-out infinite;
@@ -594,6 +606,124 @@ p {
 .step p {
   color: var(--text-muted);
   font-size: 0.92rem;
+}
+
+/* ==========================================================================
+   Feature cards (make something happen, safety)
+   ========================================================================== */
+
+.feature-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+}
+
+.feature {
+  border: 1px solid var(--hairline);
+  border-radius: var(--radius-lg);
+  background: var(--bg-raised);
+  padding: 28px 22px;
+  transition: transform 0.25s ease, border-color 0.25s ease, box-shadow 0.25s ease;
+}
+
+.feature:hover {
+  transform: translateY(-6px);
+  border-color: rgba(168, 85, 247, 0.45);
+  box-shadow: 0 28px 60px -30px rgba(124, 58, 237, 0.7);
+}
+
+.feature__tag {
+  display: inline-block;
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  color: var(--purple-2);
+  border: 1px solid rgba(168, 85, 247, 0.4);
+  background: rgba(124, 58, 237, 0.12);
+  border-radius: 999px;
+  padding: 3px 10px;
+  margin-bottom: 16px;
+}
+
+.feature h3 {
+  font-family: var(--font-body);
+  font-weight: 600;
+  font-size: 1.05rem;
+  margin-bottom: 10px;
+}
+
+.feature p {
+  color: var(--text-muted);
+  font-size: 0.92rem;
+}
+
+.feature--plain h3 {
+  color: var(--text);
+}
+
+/* ---- "Is it still on?" notification mock ---- */
+
+.confirm-card {
+  width: min(360px, 100%);
+  margin-inline: auto;
+  border-radius: 22px;
+  border: 1px solid var(--hairline);
+  background: rgba(20, 18, 33, 0.92);
+  box-shadow: 0 40px 80px -40px rgba(124, 58, 237, 0.8);
+  padding: 18px 18px 16px;
+  animation: icon-float 7s ease-in-out infinite;
+}
+
+.confirm-card__app {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 0.78rem;
+  color: var(--text-dim);
+  margin-bottom: 10px;
+}
+
+.confirm-card__app small {
+  margin-left: auto;
+  color: var(--text-muted);
+}
+
+.confirm-card__icon {
+  width: 20px;
+  height: 20px;
+  border-radius: 6px;
+  background: var(--grad-brand);
+}
+
+.confirm-card strong {
+  display: block;
+  font-size: 0.98rem;
+  margin-bottom: 4px;
+}
+
+.confirm-card p {
+  color: var(--text-dim);
+  font-size: 0.86rem;
+  margin-bottom: 14px;
+}
+
+.confirm-card__actions {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8px;
+}
+
+.confirm-card__btn {
+  text-align: center;
+  font-size: 0.86rem;
+  font-weight: 600;
+  padding: 9px 0;
+  border-radius: 12px;
+  background: rgba(255, 255, 255, 0.07);
+}
+
+.confirm-card__btn--on {
+  background: var(--purple-1);
 }
 
 /* ==========================================================================
@@ -1047,6 +1177,21 @@ p {
   color: #ff6b85;
 }
 
+.ticker__live--moment,
+.ticker__live--plan {
+  color: #c4a1ff;
+}
+
+.ticker__dot {
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--purple-2);
+  vertical-align: middle;
+  margin-right: 6px;
+}
+
 .ticker__city {
   color: var(--text-dim);
 }
@@ -1332,10 +1477,16 @@ p {
     gap: 40px;
   }
 
+  .map-section__visual--card {
+    aspect-ratio: auto;
+    min-height: 300px;
+  }
+
   .hero__chip--a { left: -2%; }
   .hero__chip--b { right: -2%; }
 
-  .identity-grid {
+  .identity-grid,
+  .feature-grid {
     grid-template-columns: repeat(2, 1fr);
   }
 
@@ -1387,7 +1538,8 @@ p {
     margin-inline: -18px;
   }
 
-  .identity-grid {
+  .identity-grid,
+  .feature-grid {
     grid-template-columns: 1fr;
   }
 

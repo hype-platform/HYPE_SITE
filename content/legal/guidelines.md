@@ -4,7 +4,7 @@ Hypefindr has zero tolerance for objectionable content and abusive users. These 
 
 ## How these rules apply
 
-- **Everywhere on Hypefindr.** Profiles, usernames, photos, bios, posts, captions, live streams and their preview clips, live chat and asks, events and plans, Crews, Pull ups, check-ins, reactions, friend requests, Meet Up requests, Let Them Know alerts, share links and anything shared from Wrapped.
+- **Everywhere on Hypefindr.** Profiles, usernames, photos, bios, posts, captions and the words written on photos, live streams and their preview clips, live chat and asks, events and plans with their hosts, costs and details, crews and crew names, Pull ups, check-ins, reactions and vibes, friend requests, crew invites, Meet Up requests, Let Them Know alerts and their notes, share links and anything shared from Wrapped.
 - **At events.** What you do at an event you found, listed, promoted or streamed through Hypefindr counts, even when your phone is in your pocket.
 - **Off Hypefindr.** We may act on conduct elsewhere that puts our users at risk, such as a conviction for a violent or sexual offense, credible reports of abuse, or organizing harm against our users on another platform.
 - **For everyone you bring in.** You are responsible for guests on your stream, people at your event, and the chat you choose to display.
@@ -137,7 +137,8 @@ What you do in person counts. Not allowed:
 If you list, host or promote an event, the [Events, Safety and Assumption of Risk Policy](/legal/events-safety) applies. Not allowed:
 
 - **[Zero tolerance]** Fake events created to lure people to a place to rob, assault, harass, scam or film them.
-- Events that misstate what, where or when they are, or that will not happen.
+- Events that misstate what, where, when or how much they are, or that will not happen. Confirming a plan you know is off is the same as listing a fake one.
+- Naming someone as a host, or as a performer or sponsor, without their permission.
 - Events at private homes without the owner's consent, or that publish an address you are not authorized to share.
 - Events that involve illegal activity, including underage drinking, drug sales, illegal gambling, unpermitted street gatherings, fights or takeovers.
 - Leaving the 21+ rating off an event or post that involves alcohol or anything else that should only reach people 21 or older.
@@ -151,7 +152,7 @@ Not allowed:
 
 - Checking in when you are not at the event, or checking in for other people.
 - Faking your location by any method, including GPS spoofing apps, emulators, modified devices, VPN tricks, or someone else's phone.
-- Inflating any score, title, badge, streak, atmosphere average, Pull up count or referral count through bots, scripts, coordinated fake activity, multiple accounts or paid help.
+- Inflating any score, title, badge, streak, atmosphere average, attending or favorite count, or referral count through bots, scripts, coordinated fake activity, multiple accounts or paid help.
 - Buying, selling, trading or giving away accounts, usernames, followers, views, reactions, check-ins or invite codes.
 - Mass-inviting people, or creating fake accounts to claim referrals.
 - Exploiting bugs to gain scores or features. Report bugs to {{CONTACT_EMAIL}} with the subject "Security" instead.
@@ -221,16 +222,17 @@ Not allowed:
 ## 18. Paid promotion and commercial content
 
 - If you are paid, sponsored, given free products or entry, or otherwise rewarded to post, stream or promote something, you must clearly disclose it, as the law requires (in the United States, the FTC Endorsement Guides). Use plain words such as "#ad" or "paid partnership" at the start of the post or stream.
-- Businesses and venues may promote their own lawful events. They may not post fake check-ins or fake attendance, or pay users to inflate reactions, Pull ups or check-ins.
+- Businesses and venues may promote their own lawful events. They may not post fake check-ins or fake attendance, or pay users to inflate reactions, attendance (Attend taps) or check-ins.
 - Content made for pay that features a child is subject to Minnesota's law on minors in content creation and similar laws. Creators are responsible for complying.
 
 ## 19. How to report
 
 1. **Danger now:** call 911 or your local emergency number first.
-2. **In the app:** use the report button on any post, live stream, event or upcoming plan, or press and hold a chat message. Choose the closest reason: Spam or scam, Nudity or sexual, Violence or danger, Hate or harassment, Self-harm, or Something else. To report a person, report something they posted, or email us.
+2. **In the app:** use the report button on any post, live stream, event or upcoming plan, tap Report user on someone's profile, or press and hold a chat message. Choose the closest reason: Spam or scam, Nudity or sexual, Violence or danger, Hate or harassment, Self-harm, or Something else.
 3. **Block:** block someone from their profile, from the report sheet, or by pressing and holding their chat message. You stop seeing each other's content and chat. Blocking is not a substitute for reporting.
 4. **By email:** {{CONTACT_EMAIL}}, with the subject "Safety" for safety issues, "Copyright" or "Intimate Image Removal" for removal requests, and "Underage Account" for anyone under 18.
 5. **Without an account:** use the email address above. You do not need an account to report.
+6. **A problem with the app itself** (something broken, not a person or a post): use Profile → Settings → "Send feedback or report a problem". Don't use it to report people or content: those reports go to the report button so they reach the review queue.
 
 We do not tell the reported person who reported them, except where the law requires it, for example in a copyright notice.
 

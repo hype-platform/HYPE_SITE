@@ -16,6 +16,7 @@ export function Nav() {
         <nav className="nav__links" aria-label="Primary">
           <Link href="/#features">Features</Link>
           <Link href="/#how-it-works">How it works</Link>
+          <Link href="/#safety">Safety</Link>
           <Link href="/privacy">Privacy</Link>
         </nav>
         <div className="nav__cta">
@@ -45,6 +46,9 @@ export function Nav() {
         </Link>
         <Link href="/#how-it-works" onClick={() => setOpen(false)}>
           How it works
+        </Link>
+        <Link href="/#safety" onClick={() => setOpen(false)}>
+          Safety
         </Link>
         <Link href="/privacy" onClick={() => setOpen(false)}>
           Privacy

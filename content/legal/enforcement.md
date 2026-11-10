@@ -2,13 +2,15 @@ This policy explains how we find violations, how reports are reviewed, what we c
 
 ## 1. How we find violations
 
-- **Reports in the app.** You can report any post, live stream, event or upcoming plan, and any live chat message, with one of six reasons: Spam or scam, Nudity or sexual, Violence or danger, Hate or harassment, Self-harm, or Something else. Reports are anonymous to the person reported.
+- **Reports in the app.** You can report any post, live stream, event or upcoming plan, any live chat message, and any person (Report user on their profile), with one of six reasons: Spam or scam, Nudity or sexual, Violence or danger, Hate or harassment, Self-harm, or Something else. Reports are anonymous to the person reported.
 - **Email.** Anyone, with or without an account, can email {{CONTACT_EMAIL}} (the "How to report" section of the [Community Guidelines](/guidelines) lists the subject lines).
 - **Our own review**, rights holder notices, NCMEC, law enforcement and other trusted organizations.
 
 ## 2. What happens automatically
 
 - **Chat filter.** Every live chat message passes through a word filter on our server. A message it catches is saved as hidden and shown only to its sender.
+- **Writing filter.** The app checks names, usernames, bios, captions, the words on photos, plan details, live titles, crew names and notes against the same word list before saving them, and saves nothing it catches.
+- **Unconfirmed plans.** A plan made more than a day ahead whose host does not confirm it in its last 24 hours is taken down 3 hours before it starts, and everyone coming is told. This is not a penalty against the host.
 - **Auto-hide.** Anything reported by 3 different people while their reports are open is hidden from everyone straight away: from every feed, the map, profile grids and share pages, and, for a chat message, from every phone watching. It stays hidden until a person reviews it.
 - **Host removal.** The host of a live can remove any chat message in it.
 - **Blocking.** People who block each other, in either direction, stop seeing each other's content and chat.

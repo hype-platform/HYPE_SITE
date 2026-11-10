@@ -7,11 +7,12 @@ Scores, titles, badges, streaks and invites are for recognition and fun. They ar
 | Profile types | The four ways to use Hypefindr: Attendee, Watcher, Streamer and Connector. You can switch between them |
 | Points and Hype Score | Points you earn for activity in each profile type. Your Hype Score is the points in the profile type you are using |
 | Titles | Names you reach as your points grow in a profile type |
-| Badges | Awards for activity and milestones. Some badges shown in the app cannot be earned yet |
+| Badges | Awards for activity in each profile type, 12 per type and 48 in all. Some badges shown in the app cannot be earned yet |
+| Milestones | Celebrations of your firsts and of counts you reach, such as your first moment, or 25 people attending your plan. Each is recorded once, can arrive as a notification, and stays private unless you share it |
 | Weekly streak | The number of weeks in a row you have been active |
 | Atmosphere average | An average calculated from reactions |
 | Attendance passport, stream passport and broadcasts | Records of the events you checked in to, the live streams you watched, and the live streams you hosted |
-| Wrapped | A short summary of your activity, such as events, places, your streak, your title and your score, that you can share |
+| Wrapped | A short summary of your activity that you can share: the events you were part of (checked in to, made, posted a moment at, or attended once they started), the places they were at, and the moments and plans you made, with your streak, title and score |
 | Invite codes and people you brought | Your personal invite code and link, and the list of people who joined with it |
 
 Together these are "Recognition Features." They also include any similar feature we add.
@@ -38,7 +39,7 @@ We may void or remove any Recognition Feature, without compensation, if we belie
 
 ## 7. Public display
 
-Your profile type, title, badges, Hype Score, atmosphere average, streak and passports can be seen by other users on your profile. The list of people you brought is shown only to you.
+Your profile type, title, badges, Hype Score, atmosphere average, streak and passports can be seen by other users on your profile. Your milestones and the list of people you brought are shown only to you, unless you share them.
 
 ## 8. What scores do not mean
 
@@ -60,7 +61,7 @@ Streaks can break because of outages, bugs, travel, permission changes or anythi
 
 ## 11. Wrapped
 
-Wrapped summarizes your activity, which may include the places and events you attended. When you share it, anyone who sees it learns where you have been. Check it before you share it. It may contain errors and is provided for fun only.
+Wrapped summarizes your activity, which includes the events you were part of and the places they were at. When you share it, anyone who sees it learns where you have been. Check it before you share it. It may contain errors and is provided for fun only.
 
 ## 12. Ending a feature
 
