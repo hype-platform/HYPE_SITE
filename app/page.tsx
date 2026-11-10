@@ -47,7 +47,7 @@ const CREATE = [
   {
     tag: "Go live",
     title: "Stream it",
-    desc: "Go live from where you are. Chat with the crowd, answer their questions, and watch the hype meter climb as people pull up.",
+    desc: "Go live from where you are. Chat with the crowd, answer their questions, and watch the hype meter climb as people head your way.",
   },
   {
     tag: "Crew",
@@ -60,17 +60,17 @@ const STEPS = [
   {
     num: "01",
     title: "See what's near",
-    desc: "Discover puts lives, moments and plans in order, closest first, within the distance you choose. The map shows every spot that's on now or coming up.",
+    desc: "Discover puts lives, moments and plans in order, nearest and soonest first, within the distance you choose. Filter by when, what, cost, or where friends are going.",
   },
   {
     num: "02",
-    title: "Pull up",
-    desc: "Tap Pull up to say you're going. When you get there, your iPhone checks you in for you. We never store your coordinates.",
+    title: "Attend",
+    desc: "Tap Attend to say you're going. When you get there, your iPhone checks you in for you. We never store your coordinates.",
   },
   {
     num: "03",
     title: "Bring people",
-    desc: "Let your crew know, or share the link. Friends without the app can see the plan and pull up from the page.",
+    desc: "Let your crew know, or share the link. Friends without the app can see the plan and say they're coming from the page.",
   },
 ];
 
@@ -135,8 +135,8 @@ export default function Home() {
               Things are happening <span className="text-gradient">near you.</span>
             </h1>
             <p className="hero__subhead">
-              People live, moments posted minutes ago, and plans coming up, closest first. Pull up, bring your
-              crew, and get checked in when you arrive.
+              People live, moments posted minutes ago, and plans coming up, nearest and soonest first. Attend,
+              bring your crew, and get checked in when you arrive.
             </p>
             <div className="hero__cta">
               <AppStoreButton />
@@ -156,7 +156,7 @@ export default function Home() {
               <div className="hero__chip hero__chip--b" aria-hidden="true">
                 <span className="hero__chip-dot" style={{ background: "#a855f7", color: "#a855f7" }} />
                 <span>
-                  <strong>38 pulling up</strong>
+                  <strong>38 attending</strong>
                   <small>Night market · Host confirmed</small>
                 </span>
               </div>
@@ -227,7 +227,7 @@ export default function Home() {
                   <g transform="translate(16 22)">
                     <rect width="112" height="24" rx="12" fill="#c6f432" fillOpacity="0.14" stroke="#c6f432" strokeOpacity="0.55" />
                     <circle cx="14" cy="12" r="4" fill="#c6f432" />
-                    <text x="24" y="16" fontSize="10" fontWeight="700" letterSpacing="0.6" fill="#ffffff">3 mi · Closest</text>
+                    <text x="24" y="16" fontSize="10" fontWeight="700" letterSpacing="0.6" fill="#ffffff">Within 3 mi</text>
                   </g>
 
                   <rect x="16" y="474" width="248" height="64" rx="18" fill="#141221" fillOpacity="0.92" stroke="#ffffff" strokeOpacity="0.1" />
@@ -254,19 +254,19 @@ export default function Home() {
               <span className="section__eyebrow">
                 <span className="live-dot" /> Near you, right now
               </span>
-              <h2 className="section__title">What&apos;s on, closest first.</h2>
+              <h2 className="section__title">What&apos;s on, nearest and soonest first.</h2>
               <p className="section__lead">
                 Not a feed of what happened yesterday. Everything that&apos;s live, just posted or coming up around you,
-                nearest first, and a map of every spot.
+                nearest and starting soonest first, and a map of every spot.
               </p>
               <ul className="map-section__list">
                 <li>
                   <span className="map-section__dot" />
                   <div>
-                    <h4>Discover, closest first</h4>
+                    <h4>Discover, with filters</h4>
                     <p>
-                      Pick how far to look, from 1 to 50 miles. Cards play through their moments on their own, and
-                      pulling past the end reaches a little further.
+                      Pick how far to look, from 1 to 50 miles, then filter by when (tonight, this weekend), what,
+                      free, 18+ or 21+, or where your friends are going.
                     </p>
                   </div>
                 </li>
@@ -274,7 +274,7 @@ export default function Home() {
                   <span className="map-section__dot" />
                   <div>
                     <h4>A map that shows what&apos;s on</h4>
-                    <p>Red means someone is live there now. Purple is everything else that&apos;s on or coming up.</p>
+                    <p>Every spot shows its picture, red-edged when someone is live. Search it for any place or address.</p>
                   </div>
                 </li>
                 <li>

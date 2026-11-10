@@ -11,7 +11,7 @@ Fonts and images are served from our own domain, so loading a page does not send
 
 ## 2. Invite links
 
-An invite link (hypefindr.net/i/your-code) sends you straight to Hypefindr on the Apple App Store, and hypefindr.net/get does the same without a code. The code appears in the link and in our hosting provider's logs. We do not link a website visit to an app account. You enter the code in the app yourself. Once you reach the App Store, Apple's privacy policy applies.
+An invite link shared from the app starts at go.hyped.stream/i/your-code, which shows a Hypefindr card in a message preview and passes you on to hypefindr.net/i/your-code. That sends you straight to Hypefindr on the Apple App Store; hypefindr.net/get does the same without a code. The go.hyped.stream step is covered by the Privacy Policy. The code appears in the link and in our hosting provider's logs. We do not link a website visit to an app account. You enter the code in the app yourself. Once you reach the App Store, Apple's privacy policy applies.
 
 ## 3. Opt-out signals
 

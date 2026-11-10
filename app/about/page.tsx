@@ -5,7 +5,7 @@ import { CONTACT_EMAIL } from "@/lib/constants";
 
 export const metadata: Metadata = {
   title: "About",
-  description: "About Hypefindr, an iPhone app that shows what's happening near you right now, closest first.",
+  description: "About Hypefindr, an iPhone app that shows what's happening near you right now, nearest and soonest first.",
 };
 
 export default function AboutPage() {
@@ -26,11 +26,11 @@ export default function AboutPage() {
           world, right now, and you should be able to find them and go.
         </p>
         <p>
-          Discover shows what&apos;s on around you, closest first, within the distance you choose: people live,
-          moments posted minutes ago, and plans coming up. The map shows every spot, red where someone is live and
-          purple for everything else. Post a moment from where you are, plan something for later (once or on
-          repeat), or go live. Tap Pull up to say you&apos;re going, and your iPhone checks you in when you arrive.
-          Bring your crew with Let them know, or share a link that anyone can pull up from.
+          Discover shows what&apos;s on around you, nearest and soonest first, within the distance you choose: people live,
+          moments posted minutes ago, and plans coming up. The map shows every spot with its picture, red-edged where someone is live,
+          and you can filter Discover by when, what, cost, or where your friends are going. Post a moment from where you are, plan something for later (once or on
+          repeat), or go live. Tap Attend to say you&apos;re going, and your iPhone checks you in when you arrive.
+          Bring your crew with Let them know, or share a link anyone can use to say they&apos;re coming.
         </p>
         <p>
           Plans made more than a day ahead are confirmed by their hosts in their last 24 hours, so what you see is

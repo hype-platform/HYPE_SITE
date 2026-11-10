@@ -12,7 +12,7 @@
 
 **1.3 Documents that are part of these Terms.** The following are incorporated into these Terms by reference: the [Privacy Policy](/privacy), [Community Guidelines](/guidelines), [Live Streaming and Recording Policy](/legal/live-streaming), [Events, Safety and Assumption of Risk Policy](/legal/events-safety), [Child Safety Policy](/legal/child-safety), [Content Removal Requests](/legal/content-removal) policy, [Points, Scores and Referral Program Terms](/legal/points-and-referrals), [Enforcement, Moderation and Appeals Policy](/legal/enforcement), [Law Enforcement Guidelines](/legal/law-enforcement) and [Website and Cookie Notice](/legal/cookies). Terms we show you inside a specific feature also apply. If these Terms conflict with another of those documents, these Terms control, unless the other document expressly says it controls on that point.
 
-**1.4 How you accept.** You accept these Terms when you create an account, tap a button that says you agree, or use the Services in any way, including browsing without an account or pulling up to a plan from its share page. If you do not agree, do not use the Services.
+**1.4 How you accept.** You accept these Terms when you create an account, tap a button that says you agree, or use the Services in any way, including browsing without an account or saying you're coming to a plan from its share page. If you do not agree, do not use the Services.
 
 **1.5 Using Hypefindr for an organization.** If you use the Services for a venue, business, promoter, brand, school, club or other organization, you accept these Terms for that organization and you confirm you have authority to bind it. "You" then means both you and the organization, and both of you are responsible for compliance.
 
@@ -76,7 +76,7 @@
 
 ### 6. Your content
 
-**6.1 What counts as your content.** "User Content" means anything you post, stream, upload, send, record or create through the Services. That includes photos, videos, captions and the words you write on them; live streams and their preview clips; audio; live chat messages and asks; reactions and vibes; event and plan listings, with their covers, photos, videos, hosts, costs and good-to-know details; your answers when we ask you to confirm a plan, and any reason you give for calling one off; crew names; profile details; Pull ups and check-ins; friend requests, crew invites, Meet Up requests and Let Them Know alerts, with their notes; and anything you share from Wrapped.
+**6.1 What counts as your content.** "User Content" means anything you post, stream, upload, send, record or create through the Services. That includes photos, videos, captions and the words you write on them; live streams and their preview clips; audio; live chat messages and asks; reactions and vibes; event and plan listings, with their covers, photos, videos, hosts, costs and good-to-know details; your answers when we ask you to confirm a plan, and any reason you give for calling one off; crew names; profile details; the plans you attend or save as favorites, and check-ins; friend requests, crew invites, Meet Up requests and Let Them Know alerts, with their notes; and anything you share from Wrapped.
 
 **6.2 You keep ownership.** As between you and Hypefindr, you keep whatever ownership rights you have in your User Content. The license in Section 6.3 is not a transfer of ownership.
 
@@ -97,7 +97,7 @@
 - It does not infringe or violate anyone's copyright, trademark, privacy, publicity or other rights, and does not break any law, these Terms or the Community Guidelines.
 - You will pay any royalties, fees or other money owed to anyone because of it, including for music, performances or broadcasts it contains.
 
-**6.9 Public by default.** Most User Content is visible to every Hypefindr user. Content you share by link can be seen by anyone with the link, including people without an account, and may be indexed by search engines. Anyone can screenshot, screen-record or download what they see. Live streams are seen as they happen and cannot be unseen. Once you post or stream something, you cannot control every copy of it. Visibility settings (Public, Friends or Only you) control who sees your posts on your profile. A post you add to an event also appears with that event to anyone who can see the event. A plan set to Crew is shown only to your friends and to anyone who already pulled up to it, and it has no public share page. No setting guarantees that no one else will see your content.
+**6.9 Public by default.** Most User Content is visible to every Hypefindr user. Content you share by link can be seen by anyone with the link, including people without an account, and may be indexed by search engines. Anyone can screenshot, screen-record or download what they see. Live streams are seen as they happen and cannot be unseen. Once you post or stream something, you cannot control every copy of it. Visibility settings (Public, Friends or Only you) control who sees your posts on your profile. A post you add to an event also appears with that event to anyone who can see the event. A plan set to Crew is shown only to your friends and to anyone already attending it, and it has no public share page. No setting guarantees that no one else will see your content.
 
 **6.10 We host; we do not author or check.** We do not pre-screen User Content and we do not endorse it. User Content is the sole responsibility of the person who posted it. We are a provider of an interactive computer service and are not the publisher or speaker of User Content. We may, but have no duty to, monitor, review, edit, label, restrict, age-gate, demote or remove any User Content at any time, for any reason or no reason, with or without notice.
 
@@ -126,7 +126,7 @@
 
 ### 8. Feedback
 
-If you send us ideas, suggestions or feedback, we may use them for any purpose without restriction, credit or payment to you. You give us a perpetual, irrevocable, worldwide, royalty-free license to do so. Do not send us anything you consider confidential.
+If you send us ideas, suggestions or feedback, including through "Send feedback or report a problem" or the "Anything we can improve?" question in the app, we may use them for any purpose without restriction, credit or payment to you. Feedback sent in the app is read only by the people who work on Hypefindr, and the Privacy Policy explains what we receive with it. You give us a perpetual, irrevocable, worldwide, royalty-free license to do so. Do not send us anything you consider confidential.
 
 ### 9. Copyright and other rights complaints
 
@@ -152,7 +152,7 @@ We respond to notices of claimed copyright infringement under the Digital Millen
 
 ### 11. Location features and check-ins
 
-**11.1 How the app uses your location.** With your permission, the app uses your device's precise location while it is open to show what is near you and to place your posts, streams and events on the map. "Always" location is optional and is asked for only after you Pull up to an event. If you allow it, your iPhone tells the app when you arrive at an event you pulled up to, and the app checks you in automatically, even when it is closed. The Privacy Policy explains exactly what we collect, keep and share.
+**11.1 How the app uses your location.** With your permission, the app uses your device's precise location while it is open to show what is near you and to place your posts, streams and events on the map. "Always" location is optional and is asked for only after you tap Attend on an event. If you allow it, your iPhone tells the app when you arrive at an event you are attending, and the app checks you in automatically, even when it is closed. The Privacy Policy explains exactly what we collect, keep and share.
 
 **11.2 What your location shows other people.** Events are shown at their actual location so people can find them. Posts and streams are shown at the place they were created, close enough to find it. Check-ins appear in your attendance passport, which other users can see, and your friends can see where your most recent post or stream was, sometimes while you are still there. Taken together, this can reveal where you are, where you live, work or study, and your routine. Before you post, stream or check in, decide whether you are comfortable with strangers knowing where you are. If anyone is stalking, threatening or looking for you, do not check in or go live.
 
@@ -177,14 +177,14 @@ We respond to notices of claimed copyright infringement under the Digital Millen
 - Provide adequate security, crowd management, first aid and exits for the crowd you invite.
 - Check ID at the door for any event with an age limit; an 18+ or 21+ tag in the app is not age verification.
 - Update or cancel the listing promptly if anything changes, and remove listings for events that will not happen. For a repeating plan, every date must be real: call off a date that will not happen, and stop repeating when the series ends.
-- Confirm it. For a plan made more than a day ahead, we ask you in its last 24 hours whether it is still on. If you do not confirm it, we take it down 3 hours before it starts and tell everyone who said they were coming or interested.
+- Confirm it. For a plan made more than a day ahead, we ask you in its last 24 hours whether it is still on. If you do not confirm it, we take it down 3 hours before it starts and tell everyone who is attending or saved it as a favorite.
 - Accept sole responsibility for the event and the safety of everyone who comes because of your listing.
 
 **12.3 Attending is your decision.** You decide whether to attend any event and you accept the risks of doing so (Section 24 and the Events, Safety and Assumption of Risk Policy).
 
 **12.4 Tickets and payments.** Hypefindr does not sell tickets or process payments for events. Any ticket, cover charge, deposit or other payment is solely between you and the person you pay. We are not responsible for refunds, cancellations, counterfeit tickets, fraud or chargebacks. Never pay someone you met through Hypefindr by gift card, wire, cryptocurrency or any other untraceable method.
 
-**12.5 Counts and other indicators.** Pull up and check-in counts (including pull ups from share pages by people without an account), vibes, energy, atmosphere averages, "live now" and "Host confirmed" labels, milestones and similar signals are generated from user activity and our algorithms. "Host confirmed" means only that the host told us the plan is on. They are not statements of fact by Hypefindr, not reviews by Hypefindr, and not safety ratings. A high score does not mean an event is safe, lawful or as described.
+**12.5 Counts and other indicators.** Attending, favorite and check-in counts (including people without an account who said they're coming from a share page), vibes, energy, atmosphere averages, "live now" and "Host confirmed" labels, milestones and similar signals are generated from user activity and our algorithms. "Host confirmed" means only that the host told us the plan is on. They are not statements of fact by Hypefindr, not reviews by Hypefindr, and not safety ratings. A high score does not mean an event is safe, lawful or as described.
 
 **12.6 We control listings.** We may remove, hide, edit for formatting, relabel, age-gate, or limit the reach of any event listing at any time.
 
@@ -218,7 +218,7 @@ Hype Score, titles, badges, milestones, streaks, passports, atmosphere averages,
 
 **16.3 Blocking has limits.** Blocking and other safety tools reduce contact but cannot stop all of it. A blocked person may still see public content, use share links, create another account in breach of these Terms, or find you in person at a public event.
 
-**16.4 Limits on interaction.** We limit how fast anyone can send chat messages, and how many pull ups one address can make from share pages, and we may limit how many friend requests, crew invites, Meet Up requests, Let Them Know alerts, reactions, posts, check-ins or streams any account can send or make, and restrict who can contact whom.
+**16.4 Limits on interaction.** We limit how fast anyone can send chat messages, and how many times one address can say it's coming from share pages, and we may limit how many friend requests, crew invites, Meet Up requests, Let Them Know alerts, reactions, posts, check-ins or streams any account can send or make, and restrict who can contact whom.
 
 ## Part 4. Rules, enforcement and termination
 
@@ -286,7 +286,7 @@ The Services are currently free. If we offer paid features, subscriptions or vir
 
 ### 22. Devices, data charges and updates
 
-You need a compatible device and an internet connection to use the Services. You are responsible for all mobile data, roaming and other charges from your carrier. Live streaming and video use significant battery and data. The app tells you when a new version is out. We may require you to install updates to keep using the Services, and an older version that would no longer work correctly may ask you to update before you can continue.
+You need a compatible device and an internet connection to use the Services. You are responsible for all mobile data, roaming and other charges from your carrier. Live streaming and video use significant battery and data. When a newer version of the app is out, the app asks you to update it, and you may need to install the update to keep using the Services. Older versions may stop working.
 
 ## Part 5. Disclaimers, risk, liability and indemnity
 

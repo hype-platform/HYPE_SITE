@@ -11,4 +11,4 @@ export const BRAND_NAME = "Hypefindr";
 
 export const EFFECTIVE_DATE = "October 23, 2026";
 
-export const LAST_UPDATED = "November 8, 2026";
+export const LAST_UPDATED = "November 10, 2026";

@@ -16,19 +16,19 @@ export const metadata: Metadata = {
     template: "%s | Hypefindr",
   },
   description:
-    "Hypefindr shows what's happening near you right now, closest first: people live, moments posted minutes ago, and plans coming up. Pull up, bring your crew, and get checked in when you arrive.",
+    "Hypefindr shows what's happening near you right now, nearest and soonest first: people live, moments posted minutes ago, and plans coming up. Attend, bring your crew, and get checked in when you arrive.",
   openGraph: {
     type: "website",
     url: SITE_URL,
     title: "Hypefindr | Things are happening near you.",
     description:
-      "What's happening near you right now, closest first: people live, moments and plans. Pull up, bring your crew, and get checked in when you arrive.",
+      "What's happening near you right now, nearest and soonest first: people live, moments and plans. Attend, bring your crew, and get checked in when you arrive.",
   },
   twitter: {
     card: "summary_large_image",
     title: "Hypefindr | Things are happening near you.",
     description:
-      "What's happening near you right now, closest first: people live, moments and plans. Pull up and bring your crew.",
+      "What's happening near you right now, nearest and soonest first: people live, moments and plans. Attend and bring your crew.",
   },
 };
 
