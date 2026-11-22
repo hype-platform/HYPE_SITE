@@ -28,7 +28,8 @@ export default function AboutPage() {
         <p>
           Discover shows what&apos;s on around you, nearest and soonest first, within the distance you choose: people live,
           moments posted minutes ago, and plans coming up. The map shows every spot with its picture, red-edged where someone is live,
-          and you can filter Discover by when, what, cost, or where your friends are going. Post a moment from where you are, plan something for later (once or on
+          pulsing red where something is happening now and purple where a plan is coming up, and you can search Discover
+          by name or place or filter it by when, what, cost, or where your friends are going. Post a moment from where you are, plan something for later (once or on
           repeat), or go live. Tap Attend to say you&apos;re going, and your iPhone checks you in when you arrive.
           Bring your crew with Let them know, or share a link anyone can use to say they&apos;re coming.
         </p>

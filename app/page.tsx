@@ -11,7 +11,7 @@ const IDENTITIES = [
     color: "#e06030",
     icon: "/identities/attendee.png",
     title: "The Attendee",
-    desc: "Shows up. Pulls up to plans, gets checked in on arrival, and posts moments from where it's happening.",
+    desc: "Shows up. Attends plans, gets checked in on arrival, and posts moments from where it's happening.",
   },
   {
     color: "#4a9eff",
@@ -42,7 +42,7 @@ const CREATE = [
   {
     tag: "Plan for later",
     title: "Make a plan",
-    desc: "Anything from an hour out to three months ahead. Say who's hosting, what it costs and what's good to know, and make it repeat like a calendar event.",
+    desc: "Anything from an hour out to three months ahead. Snap the flyer and the plan fills itself in. Say who's hosting, what it costs and what's good to know, and make it repeat like a calendar event.",
   },
   {
     tag: "Go live",
@@ -265,8 +265,8 @@ export default function Home() {
                   <div>
                     <h4>Discover, with filters</h4>
                     <p>
-                      Pick how far to look, from 1 to 50 miles, then filter by when (tonight, this weekend), what,
-                      free, 18+ or 21+, or where your friends are going.
+                      Search by name or place, or pick how far to look, from 1 to 50 miles, then filter by when
+                      (tonight, this weekend), what, free, 18+ or 21+, or where your friends are going.
                     </p>
                   </div>
                 </li>
@@ -274,7 +274,10 @@ export default function Home() {
                   <span className="map-section__dot" />
                   <div>
                     <h4>A map that shows what&apos;s on</h4>
-                    <p>Every spot shows its picture, red-edged when someone is live. Search it for any place or address.</p>
+                    <p>
+                      Every spot shows its picture and pulses: red when someone is live or it&apos;s happening now,
+                      purple for plans coming up. Search it for any place or address.
+                    </p>
                   </div>
                 </li>
                 <li>
