@@ -4,7 +4,7 @@ Hypefindr has zero tolerance for objectionable content and abusive users. These 
 
 ## How these rules apply
 
-- **Everywhere on Hypefindr.** Profiles, usernames, photos, bios, posts, captions and the words written on photos, live streams and their preview clips, live chat and asks, events and plans with their hosts, costs and details, crews and crew names, Pull ups, check-ins, reactions and vibes, friend requests, crew invites, Meet Up requests, Let Them Know alerts and their notes, share links and anything shared from Wrapped.
+- **Everywhere on Hypefindr.** Profiles, usernames, photos, bios, posts, captions and the words written on photos, live streams and their preview clips, live chat and asks, events and plans with their hosts, costs and details, crews and crew names, attending, check-ins, reactions and vibes, friend requests, crew invites, Meet Up requests, Let Them Know alerts and their notes, share links and anything shared from Wrapped.
 - **At events.** What you do at an event you found, listed, promoted or streamed through Hypefindr counts, even when your phone is in your pocket.
 - **Off Hypefindr.** We may act on conduct elsewhere that puts our users at risk, such as a conviction for a violent or sexual offense, credible reports of abuse, or organizing harm against our users on another platform.
 - **For everyone you bring in.** You are responsible for guests on your stream, people at your event, and the chat you choose to display.
