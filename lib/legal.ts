@@ -67,6 +67,12 @@ export const LEGAL_DOCS = [
     description: "The legal process Hypefindr requires before disclosing user information.",
   },
   {
+    slug: "delete-account",
+    href: "/legal/delete-account",
+    title: "Delete Your Account",
+    description: "How to delete your Hypefindr account and data, in the app or by email, and what is kept.",
+  },
+  {
     slug: "cookies",
     href: "/legal/cookies",
     title: "Website and Cookie Notice",
